@@ -71,8 +71,14 @@ def collect_docs(okf_dir: Path, exclude_dirs: set = None) -> list[dict]:
     return docs
 
 
-def build_doc_digest(doc: dict, max_body: int = 600) -> str:
-    """Build a compact representation of a doc for the clustering prompt."""
+def build_doc_digest(doc: dict, max_body: int = 600, compact: bool = False) -> str:
+    """Build a compact representation of a doc for the clustering prompt.
+
+    compact=True emits title+type+tags only (no body excerpt), allowing all docs
+    to be sent in a single clustering call without exceeding token budgets.
+    """
+    if compact:
+        return f"[{doc['type']}] {doc['title']}  tags: {doc['tags']}"
     body_excerpt = doc["body"][:max_body].replace("\n", " ")
     return (
         f"[{doc['type']}] {doc['title']}\n"
@@ -180,13 +186,14 @@ def synthesize(author: str, opts: argparse.Namespace) -> None:
     else:
         print("Clustering documents into topics ...")
 
-        # Build digest (cap at max_docs)
-        selected = docs[:opts.max_docs]
-        digest = "\n\n".join(build_doc_digest(d) for d in selected)
+        # Send ALL docs with compact digests (title+type+tags only, no body excerpt).
+        # This keeps the prompt within ~15K tokens even for 500+ doc bundles while
+        # ensuring the clustering sees the full breadth of the author's work.
+        digest = "\n".join(build_doc_digest(d, compact=True) for d in docs)
 
         user_prompt = (
             f"Author: {author}\n"
-            f"Document count: {len(docs)} (showing {len(selected)})\n\n"
+            f"Document count: {len(docs)}\n\n"
             f"DOCUMENTS:\n{digest}"
         )
 
@@ -269,7 +276,8 @@ def main() -> None:
     parser.add_argument("author", help="Author name (matches okf/<author>/ directory)")
     parser.add_argument("--anthropic-key", default=None)
     parser.add_argument("--model", default="claude-sonnet-4-6")
-    parser.add_argument("--max-docs", type=int, default=30)
+    parser.add_argument("--max-docs", type=int, default=15,
+                        help="Max source docs to include per topic page (default: 15)")
     parser.add_argument("--topics-only", action="store_true",
                         help="Skip re-clustering, just regenerate topic pages")
     parser.add_argument("--topic", default=None, help="Regenerate only this topic slug")
