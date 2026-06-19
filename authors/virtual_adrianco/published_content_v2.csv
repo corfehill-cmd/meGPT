@@ -19,3 +19,21 @@ podcast,episode,Cloud and HPC,Inside HPC,2022,https://insidehpc.com/2022/09/hpcp
 podcast,episode,SC23 summary,Inside HPC,2023,https://insidehpc.com/2023/11/hpcpodcast-tech-analyst-adrian-cockcroft-on-trends-driving-future-hpc-architectures/,,hpc,supercomputing,ai,architecture
 podcast,roundtable,Analyst Roundtable OXD26,OrionX,2025,https://orionx.net/2025/03/analyst-roundtable-chips-ai-search-quantum-bitcoin-fusion-oxd26/,,ai,quantum,chips,fusion
 podcast,roundtable,SC24 Supercomputing OXD25,OrionX,2024,https://orionx.net/2024/12/sc24-supercomputing-cryptosuper500-quantum-risc-v-summit-oxd25/,,supercomputing,quantum,risc-v
+story,,Microservices and DevOps,InfoQ,2014,https://www.infoq.com/interviews/adrian-cockcroft-microservices-devops/,,microservices,devops
+story,,High Availability,InfoQ,,https://www.infoq.com/articles/cockcroft-high-availability/,,availability,resilience
+story,,Failing Over Without Falling Over,Stack Overflow,2020,https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/,,chaos-engineering,availability,aws
+story,tns-post-body-content,Why Did Docker Catch on Quickly,The New Stack,2014,https://thenewstack.io/why-did-docker-catch-on-quickly-and-why-is-it-so-interesting/,,docker,containers
+story,tns-post-body-content,A Conference to Discuss Developer-Driven Infrastructure,The New Stack,2015,https://thenewstack.io/a-conference-to-discuss-developer-driven-infrastructure/,,developer-tools,infrastructure
+story,tns-post-body-content,The Rise of Continuous Resilience,The New Stack,2020,https://thenewstack.io/the-rise-of-continuous-resilience/,,resilience,chaos-engineering,cloud
+story,tns-post-body-content,Sustainability Comparing AWS Azure and Google,The New Stack,2024,https://thenewstack.io/sustainability-how-did-amazon-azure-google-perform-in-2023/,,sustainability,aws,azure,gcp
+story,tns-post-body-content,Cloud PUE Comparing AWS Azure and GCP,The New Stack,2025,https://thenewstack.io/cloud-pue-comparing-aws-azure-and-gcp-global-regions/,,sustainability,cloud,pue
+story,tns-post-body-content,NVIDIA Next Gen Rubin and Feynman Architectures,The New Stack,2025,https://thenewstack.io/nvidia-unveils-next-gen-rubin-and-feynman-architectures-pushing-ai-power-limits/,,ai,nvidia,hardware
+story,,SC23 Top500 Trends AI HPC,InsideHPC,2023,https://insidehpc.com/2023/11/sc23-top500-trends-the-ai-hpc-crossover-chiplet-standardization-the-emergence-of-ucie-and-cxl-advancements/,,hpc,supercomputing,ai
+story,,SC22 CXL3 and Frontier vs Fugaku,InsideHPC,2022,https://insidehpc.com/2022/12/sc22-cxl3-0-the-future-of-hpc-interconnects-and-frontier-vs-fugaku/,,hpc,interconnects,frontier
+story,crayons-article__main,Scaling AWS Costs to Match the Business,Dev.to,2021,https://dev.to/aws/scaling-aws-costs-to-match-the-business-f9k,,aws,cost,cloud
+story,crayons-article__main,Why Are Services Slow Sometimes?,Dev.to,2020,https://dev.to/aws/why-are-services-slow-sometimes-mn3,,distributed-systems,performance,latency
+story,crayons-article__main,If at First You Don't Get an Answer,Dev.to,2020,https://dev.to/aws/if-at-first-you-don-t-get-an-answer-3e85,,reliability,sla,availability
+story,crayons-article__main,Sustainability Transformation and DevSusOps,Dev.to,2021,https://dev.to/aws/what-is-sustainability-transformation-32hi,,sustainability,devops
+story,crayons-article__main,Measuring Energy Usage,Dev.to,2021,https://dev.to/adrianco/measuring-energy-usage-5ip,,sustainability,energy,measurement
+book,"1,21-187,215-233",Capacity Planning for Internet Services,Sun Press,2000,https://raw.githubusercontent.com/adrianco/meGPT/main/authors/virtual_adrianco/caphi.pdf,,performance,capacity-planning,java
+book,"1,31-65,80-107,117-148,339-356",Resource Management,Sun Press,1999,https://raw.githubusercontent.com/adrianco/meGPT/main/authors/virtual_adrianco/rm.pdf,,performance,resource-management,solaris

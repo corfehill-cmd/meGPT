@@ -1,0 +1,28 @@
+---
+type: Article
+title: "Cmg08 Draft Agenda   Las Vegas In December"
+description: ""
+resource: "authors/virtual_adrianco/blogger_perfcap_posts/CMG08_Draft_Agenda_-_Las_Vegas_in_December.txt"
+tags:
+  - article
+---
+
+# Cmg08 Draft Agenda   Las Vegas In December
+
+
+
+
+
+
+## Excerpt
+
+Title: CMG08 Draft Agenda - Las Vegas in December
+URL: https://perfcap.blogspot.com/2008/08/cmg08-draft-agenda-las-vegas-in.html
+
+<a href="http://www.cmg.org/blog/home/04">CMG just published the draft agenda for their annual conference on their website</a>. This year I will be on a panel with other Michelson Award winners discussing Visualization, and probably on a second panel talking about Unix performance. I'm also planning to repeat the half day training seminars on Unix Performance, and Capacity Planning with Free Tools. <br /><br />See you there!
+...
+
+
+## Sources
+
+[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/CMG08_Draft_Agenda_-_Las_Vegas_in_December.txt
