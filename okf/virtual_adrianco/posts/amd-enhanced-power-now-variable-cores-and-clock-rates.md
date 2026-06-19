@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Amd Enhanced Power Now   Variable Cores And Clock Rates"
+title: "AMD Enhanced Power Now - Variable Cores and Clock Rates"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/AMD_Enhanced_Power_Now_-_Variable_Cores_and_Clock_Rates.txt"
+resource: "https://perfcap.blogspot.com/2007/02/amd-enhanced-power-now-variable-cores.html"
 tags:
   - article
 ---
 
-# Amd Enhanced Power Now   Variable Cores And Clock Rates
+# AMD Enhanced Power Now - Variable Cores and Clock Rates
 
 
 
@@ -25,4 +25,4 @@ There is an interesting <a href="http://www.theregister.co.uk/2007/02/11/amd_enh
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/AMD_Enhanced_Power_Now_-_Variable_Cores_and_Clock_Rates.txt
+[1] Source: https://perfcap.blogspot.com/2007/02/amd-enhanced-power-now-variable-cores.html

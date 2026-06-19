@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cloud Application Architectures: Goto Aarhus, Denmark, October"
+title: "Cloud Application Architectures: GOTO Aarhus, Denmark, October"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Cloud_Application_Architectures:_GOTO_Aarhus,_Denmark,_October.txt"
+resource: "https://perfcap.blogspot.com/2012/06/cloud-application-architectures-goto.html"
 tags:
   - article
 ---
 
-# Cloud Application Architectures: Goto Aarhus, Denmark, October
+# Cloud Application Architectures: GOTO Aarhus, Denmark, October
 
 
 
@@ -29,4 +29,4 @@ To broaden our perspective somewhat, and get our hands dirty with real code, the
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Cloud_Application_Architectures:_GOTO_Aarhus,_Denmark,_October.txt
+[1] Source: https://perfcap.blogspot.com/2012/06/cloud-application-architectures-goto.html

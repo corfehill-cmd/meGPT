@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2016 06 06 Thoughts From 20 Years Ago   Help  I Ve Lost My Memory  Sunworld Online 7Add5F7Cfb66"
+title: "Thoughts from 20 years ago — Help! I’ve lost my memory! Sunworld Online"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2016-06-06_Thoughts-from-20-years-ago---Help--I-ve-lost-my-memory--Sunworld-Online-7add5f7cfb66.txt"
+resource: "https://medium.com/@adrianco/2016-06-06_Thoughts-from-20-years-ago---Help--I-ve-lost-my-memory--Sunworld-Online-7add5f7cfb66"
 tags:
   - article
 ---
 
-# 2016 06 06 Thoughts From 20 Years Ago   Help  I Ve Lost My Memory  Sunworld Online 7Add5F7Cfb66
+# Thoughts from 20 years ago — Help! I’ve lost my memory! Sunworld Online
 
 
 
@@ -37,4 +37,4 @@ I stop it, then almost all the swap space comes back, but the free memory does n
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2016-06-06_Thoughts-from-20-years-ago---Help--I-ve-lost-my-memory--Sunworld-Online-7add5f7cfb66.txt
+[1] Source: https://medium.com/@adrianco/2016-06-06_Thoughts-from-20-years-ago---Help--I-ve-lost-my-memory--Sunworld-Online-7add5f7cfb66

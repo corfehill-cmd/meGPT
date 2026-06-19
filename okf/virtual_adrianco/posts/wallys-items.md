@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Wally'S Items..."
+title: "Wally's Items..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Wally's_Items....txt"
+resource: "https://perfcap.blogspot.com/2006/08/wallys-items.html"
 tags:
   - article
 ---
 
-# Wally'S Items...
+# Wally's Items...
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/08/wallys-items.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Wally's_Items....txt
+[1] Source: https://perfcap.blogspot.com/2006/08/wallys-items.html

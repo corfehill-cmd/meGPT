@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Processing Vxstat To Read Into R"
+title: "Processing vxstat to read into R"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Processing_vxstat_to_read_into_R.txt"
+resource: "https://perfcap.blogspot.com/2006/11/processing-vxstat-to-read-into-r.html"
 tags:
   - article
 ---
 
-# Processing Vxstat To Read Into R
+# Processing vxstat to read into R
 
 
 
@@ -25,4 +25,4 @@ I got bored with my iostat data, and found some interesting looking vxstat logs 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Processing_vxstat_to_read_into_R.txt
+[1] Source: https://perfcap.blogspot.com/2006/11/processing-vxstat-to-read-into-r.html

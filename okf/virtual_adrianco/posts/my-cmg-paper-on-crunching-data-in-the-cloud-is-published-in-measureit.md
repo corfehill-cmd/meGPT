@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "My Cmg Paper On Crunching Data In The Cloud Is Published In Measureit"
+title: "My CMG paper on Crunching Data In the Cloud is published in MeasureIT"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/My_CMG_paper_on_Crunching_Data_In_the_Cloud_is_published_in_MeasureIT.txt"
+resource: "https://perfcap.blogspot.com/2010/03/my-cmg-paper-on-crunching-data-in-cloud.html"
 tags:
   - article
 ---
 
-# My Cmg Paper On Crunching Data In The Cloud Is Published In Measureit
+# My CMG paper on Crunching Data In the Cloud is published in MeasureIT
 
 
 
@@ -25,4 +25,4 @@ The slides are also available at <a href="http://www.slideshare.net/adrianco/cru
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/My_CMG_paper_on_Crunching_Data_In_the_Cloud_is_published_in_MeasureIT.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/my-cmg-paper-on-crunching-data-in-cloud.html

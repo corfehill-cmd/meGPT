@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "How Netflix Gets Out Of The Way Of Innovation"
+title: "How Netflix gets out of the way of innovation"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/How_Netflix_gets_out_of_the_way_of_innovation.txt"
+resource: "https://perfcap.blogspot.com/2011/12/how-netflix-gets-out-of-way-of.html"
 tags:
   - article
 ---
 
-# How Netflix Gets Out Of The Way Of Innovation
+# How Netflix gets out of the way of innovation
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2011/12/how-netflix-gets-out-of-way-of.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/How_Netflix_gets_out_of_the_way_of_innovation.txt
+[1] Source: https://perfcap.blogspot.com/2011/12/how-netflix-gets-out-of-way-of.html

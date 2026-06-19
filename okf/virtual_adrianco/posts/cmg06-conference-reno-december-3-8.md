@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cmg06 Conference   Reno December 3 8"
+title: "CMG06 Conference - Reno December 3-8"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/CMG06_Conference_-_Reno_December_3-8.txt"
+resource: "https://perfcap.blogspot.com/2006/10/cmg06-conference-reno-december-3-8.html"
 tags:
   - article
 ---
 
-# Cmg06 Conference   Reno December 3 8
+# CMG06 Conference - Reno December 3-8
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/10/cmg06-conference-reno-december-3-8.htm
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/CMG06_Conference_-_Reno_December_3-8.txt
+[1] Source: https://perfcap.blogspot.com/2006/10/cmg06-conference-reno-december-3-8.html

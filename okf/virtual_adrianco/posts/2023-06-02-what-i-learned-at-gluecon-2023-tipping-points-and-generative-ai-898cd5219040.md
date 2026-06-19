@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 06 02 What I Learned At Gluecon 2023   Tipping Points And Generative Ai 898Cd5219040"
+title: "What I learned at GlueCon 2023 — Tipping Points and Generative AI"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-06-02_What-I-learned-at-GlueCon-2023---Tipping-Points-and-Generative-AI-898cd5219040.txt"
+resource: "https://medium.com/@adrianco/2023-06-02_What-I-learned-at-GlueCon-2023---Tipping-Points-and-Generative-AI-898cd5219040"
 tags:
   - article
 ---
 
-# 2023 06 02 What I Learned At Gluecon 2023   Tipping Points And Generative Ai 898Cd5219040
+# What I learned at GlueCon 2023 — Tipping Points and Generative AI
 
 
 
@@ -28,4 +28,4 @@ This year the main focus was on Generative AI, ChatGPT and the implications of a
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-06-02_What-I-learned-at-GlueCon-2023---Tipping-Points-and-Generative-AI-898cd5219040.txt
+[1] Source: https://medium.com/@adrianco/2023-06-02_What-I-learned-at-GlueCon-2023---Tipping-Points-and-Generative-AI-898cd5219040

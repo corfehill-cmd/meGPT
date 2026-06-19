@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Battery Ventures At Strata, Santa Clara"
+title: "Battery Ventures at Strata, Santa Clara"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Battery_Ventures_at_Strata,_Santa_Clara.txt"
+resource: "https://perfcap.blogspot.com/2014/02/battery-ventures-at-strata-santa-clara.html"
 tags:
   - article
 ---
 
-# Battery Ventures At Strata, Santa Clara
+# Battery Ventures at Strata, Santa Clara
 
 
 
@@ -36,4 +36,4 @@ URL: https://perfcap.blogspot.com/2014/02/battery-ventures-at-strata-santa-clara
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Battery_Ventures_at_Strata,_Santa_Clara.txt
+[1] Source: https://perfcap.blogspot.com/2014/02/battery-ventures-at-strata-santa-clara.html

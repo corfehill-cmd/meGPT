@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Nosql Netflix Use Case Comparison For Cassandra"
+title: "NoSQL Netflix Use Case Comparison for Cassandra"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/NoSQL_Netflix_Use_Case_Comparison_for_Cassandra.txt"
+resource: "https://perfcap.blogspot.com/2010/10/nosql-netflix-use-case-comparison-for.html"
 tags:
   - article
 ---
 
-# Nosql Netflix Use Case Comparison For Cassandra
+# NoSQL Netflix Use Case Comparison for Cassandra
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2010/10/nosql-netflix-use-case-comparison-for.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/NoSQL_Netflix_Use_Case_Comparison_for_Cassandra.txt
+[1] Source: https://perfcap.blogspot.com/2010/10/nosql-netflix-use-case-comparison-for.html

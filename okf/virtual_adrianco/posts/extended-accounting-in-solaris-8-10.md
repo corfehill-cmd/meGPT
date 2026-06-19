@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Extended Accounting In Solaris 8 10"
+title: "Extended Accounting in Solaris 8-10"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Extended_Accounting_in_Solaris_8-10.txt"
+resource: "https://perfcap.blogspot.com/2005/02/extended-accounting-in-solaris-8-10.html"
 tags:
   - article
 ---
 
-# Extended Accounting In Solaris 8 10
+# Extended Accounting in Solaris 8-10
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2005/02/extended-accounting-in-solaris-8-10.ht
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Extended_Accounting_in_Solaris_8-10.txt
+[1] Source: https://perfcap.blogspot.com/2005/02/extended-accounting-in-solaris-8-10.html

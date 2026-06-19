@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "An Exercise In Complexity...."
+title: "An exercise in complexity...."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/An_exercise_in_complexity.....txt"
+resource: "https://perfcap.blogspot.com/2005/03/exercise-in-complexity.html"
 tags:
   - article
 ---
 
-# An Exercise In Complexity....
+# An exercise in complexity....
 
 
 
@@ -25,4 +25,4 @@ Time for a grumble....<br /><br />My plan was to take the libexacct.so API and e
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/An_exercise_in_complexity.....txt
+[1] Source: https://perfcap.blogspot.com/2005/03/exercise-in-complexity.html

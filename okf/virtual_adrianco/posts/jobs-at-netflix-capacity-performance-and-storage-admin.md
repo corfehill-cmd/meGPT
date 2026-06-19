@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Jobs At Netflix: Capacity Performance And Storage Admin"
+title: "Jobs at Netflix: Capacity/Performance and Storage Admin"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Jobs_at_Netflix:_Capacity-Performance_and_Storage_Admin.txt"
+resource: "https://perfcap.blogspot.com/2007/06/jobs-at-netflix-capacityperformance-and.html"
 tags:
   - article
 ---
 
-# Jobs At Netflix: Capacity Performance And Storage Admin
+# Jobs at Netflix: Capacity/Performance and Storage Admin
 
 
 
@@ -25,4 +25,4 @@ Netflix is a great company to work for, there are lots of clever friendly and ha
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Jobs_at_Netflix:_Capacity-Performance_and_Storage_Admin.txt
+[1] Source: https://perfcap.blogspot.com/2007/06/jobs-at-netflix-capacityperformance-and.html

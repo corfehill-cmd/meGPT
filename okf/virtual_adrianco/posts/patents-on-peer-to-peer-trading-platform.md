@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Patents On Peer To Peer Trading Platform"
+title: "Patents on Peer to Peer Trading Platform"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Patents_on_Peer_to_Peer_Trading_Platform.txt"
+resource: "https://perfcap.blogspot.com/2008/03/patents-on-peer-to-peer-systems.html"
 tags:
   - article
 ---
 
-# Patents On Peer To Peer Trading Platform
+# Patents on Peer to Peer Trading Platform
 
 
 
@@ -25,4 +25,4 @@ While working at eBay Research Labs I did some work using Skype that resulted in
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Patents_on_Peer_to_Peer_Trading_Platform.txt
+[1] Source: https://perfcap.blogspot.com/2008/03/patents-on-peer-to-peer-systems.html

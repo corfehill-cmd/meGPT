@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   More Panels On The Garage Roof"
+title: "Solar Power - More panels on the garage roof"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_More_panels_on_the_garage_roof.txt"
+resource: "https://perfcap.blogspot.com/2011/02/solar-power-more-panels-on-garage-roof.html"
 tags:
   - article
 ---
 
-# Solar Power   More Panels On The Garage Roof
+# Solar Power - More panels on the garage roof
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2011/02/solar-power-more-panels-on-garage-roof
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_More_panels_on_the_garage_roof.txt
+[1] Source: https://perfcap.blogspot.com/2011/02/solar-power-more-panels-on-garage-roof.html

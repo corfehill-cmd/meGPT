@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 01 20 Supercomputing Predictions  Custom Cpus  Cxl3 0  And Petalith Architectures B67Cc324588F"
+title: "Supercomputing Predictions: Custom CPUs, CXL3.0, and Petalith Architectures"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-01-20_Supercomputing-Predictions--Custom-CPUs--CXL3-0--and-Petalith-Architectures-b67cc324588f.txt"
+resource: "https://medium.com/@adrianco/2023-01-20_Supercomputing-Predictions--Custom-CPUs--CXL3-0--and-Petalith-Architectures-b67cc324588f"
 tags:
   - article
 ---
 
-# 2023 01 20 Supercomputing Predictions  Custom Cpus  Cxl3 0  And Petalith Architectures B67Cc324588F
+# Supercomputing Predictions: Custom CPUs, CXL3.0, and Petalith Architectures
 
 
 
@@ -29,4 +29,4 @@ Jack Dongarra’s efforts to highlight the low efficiency of the HPCG benchmark 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-01-20_Supercomputing-Predictions--Custom-CPUs--CXL3-0--and-Petalith-Architectures-b67cc324588f.txt
+[1] Source: https://medium.com/@adrianco/2023-01-20_Supercomputing-Predictions--Custom-CPUs--CXL3-0--and-Petalith-Architectures-b67cc324588f

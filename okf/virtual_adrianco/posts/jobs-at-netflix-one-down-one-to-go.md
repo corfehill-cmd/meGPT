@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Jobs At Netflix   One Down, One To Go..."
+title: "Jobs at Netflix - One down, one to go..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Jobs_at_Netflix_-_One_down,_one_to_go....txt"
+resource: "https://perfcap.blogspot.com/2007/10/jobs-at-netflix.html"
 tags:
   - article
 ---
 
-# Jobs At Netflix   One Down, One To Go...
+# Jobs at Netflix - One down, one to go...
 
 
 
@@ -25,4 +25,4 @@ I have been working on hiring for the last month or so. We found and hired one g
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Jobs_at_Netflix_-_One_down,_one_to_go....txt
+[1] Source: https://perfcap.blogspot.com/2007/10/jobs-at-netflix.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Contextual Ebay Adverts With Ctxbay | By Adrian Cockcroft | 9Th March 2006"
+title: "Contextual eBay adverts with ctxbay | by Adrian Cockcroft | 9th March 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Contextual_eBay_adverts_with_ctxbay_|_by_Adrian_Cockcroft_|_9th_March_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/03/contextual-ebay-adverts-with-ctxbay-by.html"
 tags:
   - article
 ---
 
-# Contextual Ebay Adverts With Ctxbay | By Adrian Cockcroft | 9Th March 2006
+# Contextual eBay adverts with ctxbay | by Adrian Cockcroft | 9th March 2006
 
 
 
@@ -25,4 +25,4 @@ The winners in the eBay developer contest were announced at ETech, one was Alex 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Contextual_eBay_adverts_with_ctxbay_|_by_Adrian_Cockcroft_|_9th_March_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/03/contextual-ebay-adverts-with-ctxbay-by.html

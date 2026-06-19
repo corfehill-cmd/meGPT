@@ -2,7 +2,7 @@
 type: Article
 title: "2018 02 05 After A Month Or Two Of Living With The Noon System  It S Getting Positive Reviews From The  65C2100767Dc"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2018-02-05_After-a-month-or-two-of-living-with-the-Noon-system--it-s-getting-positive-reviews-from-the--65c2100767dc.txt"
+resource: "https://medium.com/@adrianco/2018-02-05_After-a-month-or-two-of-living-with-the-Noon-system--it-s-getting-positive-reviews-from-the--65c2100767dc"
 tags:
   - article
 ---
@@ -30,4 +30,4 @@ I’ve also been looking at smoke a
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2018-02-05_After-a-month-or-two-of-living-with-the-Noon-system--it-s-getting-positive-reviews-from-the--65c2100767dc.txt
+[1] Source: https://medium.com/@adrianco/2018-02-05_After-a-month-or-two-of-living-with-the-Noon-system--it-s-getting-positive-reviews-from-the--65c2100767dc

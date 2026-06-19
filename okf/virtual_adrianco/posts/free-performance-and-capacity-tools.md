@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Free Performance And Capacity Tools"
+title: "Free performance and capacity tools"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Free_performance_and_capacity_tools.txt"
+resource: "https://perfcap.blogspot.com/2005/07/free-performance-and-capacity-tools.html"
 tags:
   - article
 ---
 
-# Free Performance And Capacity Tools
+# Free performance and capacity tools
 
 
 
@@ -25,4 +25,4 @@ What free tools do you use for performance and capacity planning work? I'm parti
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Free_performance_and_capacity_tools.txt
+[1] Source: https://perfcap.blogspot.com/2005/07/free-performance-and-capacity-tools.html

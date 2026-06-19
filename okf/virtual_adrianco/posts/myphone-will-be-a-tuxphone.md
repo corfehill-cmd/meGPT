@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Myphone Will Be A Tuxphone"
+title: "myPhone will be a TuxPhone"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/myPhone_will_be_a_TuxPhone.txt"
+resource: "https://perfcap.blogspot.com/2007/01/myphone-will-be-tuxphone.html"
 tags:
   - article
 ---
 
-# Myphone Will Be A Tuxphone
+# myPhone will be a TuxPhone
 
 
 
@@ -25,4 +25,4 @@ There is lots of interest and activity in the <a href="http://www.hbmobile.org/"
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/myPhone_will_be_a_TuxPhone.txt
+[1] Source: https://perfcap.blogspot.com/2007/01/myphone-will-be-tuxphone.html

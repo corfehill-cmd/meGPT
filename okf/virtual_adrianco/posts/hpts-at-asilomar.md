@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Hpts At Asilomar"
+title: "HPTS at Asilomar"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/HPTS_at_Asilomar.txt"
+resource: "https://perfcap.blogspot.com/2009/10/hpts-at-asilomar.html"
 tags:
   - article
 ---
 
-# Hpts At Asilomar
+# HPTS at Asilomar
 
 
 
@@ -25,4 +25,4 @@ I'm attending the High Performance Transaction Systems workshop http;//hpts,ws o
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/HPTS_at_Asilomar.txt
+[1] Source: https://perfcap.blogspot.com/2009/10/hpts-at-asilomar.html

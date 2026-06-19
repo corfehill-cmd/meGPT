@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Grid Overview Presentation At Acm"
+title: "Grid overview presentation at ACM"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Grid_overview_presentation_at_ACM.txt"
+resource: "https://perfcap.blogspot.com/2005/02/grid-overview-presentation-at-acm.html"
 tags:
   - article
 ---
 
-# Grid Overview Presentation At Acm
+# Grid overview presentation at ACM
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2005/02/grid-overview-presentation-at-acm.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Grid_overview_presentation_at_ACM.txt
+[1] Source: https://perfcap.blogspot.com/2005/02/grid-overview-presentation-at-acm.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 04 05 Proposal For A Realtime Carbon Footprint Standard 60B71C269948"
+title: "Proposal for a Realtime Carbon Footprint Standard"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-04-05_Proposal-for-a-Realtime-Carbon-Footprint-Standard-60b71c269948.txt"
+resource: "https://medium.com/@adrianco/2023-04-05_Proposal-for-a-Realtime-Carbon-Footprint-Standard-60b71c269948"
 tags:
   - article
 ---
 
-# 2023 04 05 Proposal For A Realtime Carbon Footprint Standard 60B71C269948
+# Proposal for a Realtime Carbon Footprint Standard
 
 
 
@@ -32,4 +32,4 @@ The challenge is that accurate data isn’t available immediately, and cloud pro
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-04-05_Proposal-for-a-Realtime-Carbon-Footprint-Standard-60b71c269948.txt
+[1] Source: https://medium.com/@adrianco/2023-04-05_Proposal-for-a-Realtime-Carbon-Footprint-Standard-60b71c269948

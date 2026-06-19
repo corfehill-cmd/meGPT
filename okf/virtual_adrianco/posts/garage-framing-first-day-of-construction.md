@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage Framing   First Day Of Construction"
+title: "Garage Framing - first day of construction"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_Framing_-_first_day_of_construction.txt"
+resource: "https://perfcap.blogspot.com/2010/04/garage-framing-first-day-of.html"
 tags:
   - article
 ---
 
-# Garage Framing   First Day Of Construction
+# Garage Framing - first day of construction
 
 
 
@@ -25,4 +25,4 @@ Tuffshed turned up with their pre-built sections, assembled them and added some 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_Framing_-_first_day_of_construction.txt
+[1] Source: https://perfcap.blogspot.com/2010/04/garage-framing-first-day-of.html

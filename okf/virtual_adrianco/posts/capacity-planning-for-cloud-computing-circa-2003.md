@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Capacity Planning For Cloud Computing   Circa 2003"
+title: "Capacity Planning for Cloud Computing - circa 2003"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Capacity_Planning_for_Cloud_Computing_-_circa_2003.txt"
+resource: "https://perfcap.blogspot.com/2009/01/capacity-planning-for-cloud-computing.html"
 tags:
   - article
 ---
 
-# Capacity Planning For Cloud Computing   Circa 2003
+# Capacity Planning for Cloud Computing - circa 2003
 
 
 
@@ -25,4 +25,4 @@ Here is a link to a <a href="http://www.slideshare.net/adrianco/capacity-plannin
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Capacity_Planning_for_Cloud_Computing_-_circa_2003.txt
+[1] Source: https://perfcap.blogspot.com/2009/01/capacity-planning-for-cloud-computing.html

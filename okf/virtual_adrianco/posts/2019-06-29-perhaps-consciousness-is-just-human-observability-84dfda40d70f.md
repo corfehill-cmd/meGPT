@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2019 06 29 Perhaps Consciousness Is Just Human Observability  84Dfda40D70F"
+title: "Photo taken by Adrian at the Park Hyatt NingBo, China"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2019-06-29_Perhaps-Consciousness-is-Just-Human-Observability--84dfda40d70f.txt"
+resource: "https://medium.com/@adrianco/2019-06-29_Perhaps-Consciousness-is-Just-Human-Observability--84dfda40d70f"
 tags:
   - article
 ---
 
-# 2019 06 29 Perhaps Consciousness Is Just Human Observability  84Dfda40D70F
+# Photo taken by Adrian at the Park Hyatt NingBo, China
 
 
 
@@ -27,4 +27,4 @@ I recently read Annaka Harris’ new book Conscious about the mysteries and natu
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2019-06-29_Perhaps-Consciousness-is-Just-Human-Observability--84dfda40d70f.txt
+[1] Source: https://medium.com/@adrianco/2019-06-29_Perhaps-Consciousness-is-Just-Human-Observability--84dfda40d70f

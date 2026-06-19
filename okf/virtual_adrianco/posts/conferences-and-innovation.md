@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Conferences And Innovation"
+title: "Conferences and Innovation"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Conferences_and_Innovation.txt"
+resource: "https://perfcap.blogspot.com/2006/02/conferences-and-innovation.html"
 tags:
   - article
 ---
 
-# Conferences And Innovation
+# Conferences and Innovation
 
 
 
@@ -25,4 +25,4 @@ I just signed up for the O'Reilly Emerging Technology event in San Diego next mo
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Conferences_and_Innovation.txt
+[1] Source: https://perfcap.blogspot.com/2006/02/conferences-and-innovation.html

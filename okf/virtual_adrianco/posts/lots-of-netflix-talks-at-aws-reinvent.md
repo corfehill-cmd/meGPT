@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Lots Of Netflix Talks At Aws Re:Invent"
+title: "Lots of Netflix talks at AWS Re:Invent"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Lots_of_Netflix_talks_at_AWS_Re:Invent.txt"
+resource: "https://perfcap.blogspot.com/2012/11/lots-of-netflix-talks-at-aws-reinvent.html"
 tags:
   - article
 ---
 
-# Lots Of Netflix Talks At Aws Re:Invent
+# Lots of Netflix talks at AWS Re:Invent
 
 
 
@@ -39,4 +39,4 @@ There is a Netflix booth in the expo center, we will be talking about our open s
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Lots_of_Netflix_talks_at_AWS_Re:Invent.txt
+[1] Source: https://perfcap.blogspot.com/2012/11/lots-of-netflix-talks-at-aws-reinvent.html

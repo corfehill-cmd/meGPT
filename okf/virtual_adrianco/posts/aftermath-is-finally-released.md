@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Aftermath Is Finally Released..."
+title: "Aftermath is finally released..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Aftermath_is_finally_released....txt"
+resource: "https://perfcap.blogspot.com/2007/06/aftermath-is-finally-released.html"
 tags:
   - article
 ---
 
-# Aftermath Is Finally Released...
+# Aftermath is finally released...
 
 
 
@@ -25,4 +25,4 @@ After many years of listening to this song evolve from an initial concept to its
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Aftermath_is_finally_released....txt
+[1] Source: https://perfcap.blogspot.com/2007/06/aftermath-is-finally-released.html

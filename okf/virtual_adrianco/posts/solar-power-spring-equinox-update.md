@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Spring Equinox Update"
+title: "Solar Power - Spring Equinox Update"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Spring_Equinox_Update.txt"
+resource: "https://perfcap.blogspot.com/2010/03/solar-power-spring-equinox-update.html"
 tags:
   - article
 ---
 
-# Solar Power   Spring Equinox Update
+# Solar Power - Spring Equinox Update
 
 
 
@@ -25,4 +25,4 @@ Spring is here, and we just had a few clear days, shown below. The sunrise and s
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Spring_Equinox_Update.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/solar-power-spring-equinox-update.html

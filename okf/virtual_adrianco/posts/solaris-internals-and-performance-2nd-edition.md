@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solaris Internals And Performance 2Nd Edition"
+title: "Solaris Internals and Performance 2nd Edition"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solaris_Internals_and_Performance_2nd_Edition.txt"
+resource: "https://perfcap.blogspot.com/2006/08/solaris-internals-and-performance-2nd.html"
 tags:
   - article
 ---
 
-# Solaris Internals And Performance 2Nd Edition
+# Solaris Internals and Performance 2nd Edition
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/08/solaris-internals-and-performance-2nd.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solaris_Internals_and_Performance_2nd_Edition.txt
+[1] Source: https://perfcap.blogspot.com/2006/08/solaris-internals-and-performance-2nd.html

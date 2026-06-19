@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Data From Task Accounting Record"
+title: "Data from task accounting record"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Data_from_task_accounting_record.txt"
+resource: "https://perfcap.blogspot.com/2005/03/data-from-task-accounting-record.html"
 tags:
   - article
 ---
 
-# Data From Task Accounting Record
+# Data from task accounting record
 
 
 
@@ -25,4 +25,4 @@ A task is a group of related processes, when the last one exits, a task record i
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Data_from_task_accounting_record.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/data-from-task-accounting-record.html

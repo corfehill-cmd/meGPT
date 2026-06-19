@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Wifi Upgrade"
+title: "WiFi upgrade"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/WiFi_upgrade.txt"
+resource: "https://perfcap.blogspot.com/2010/03/wifi-upgrade.html"
 tags:
   - article
 ---
 
-# Wifi Upgrade
+# WiFi upgrade
 
 
 
@@ -25,4 +25,4 @@ My five year old wifi hardware got flaky and slow, so I looked around and decide
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/WiFi_upgrade.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/wifi-upgrade.html

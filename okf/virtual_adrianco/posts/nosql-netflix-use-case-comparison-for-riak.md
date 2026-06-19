@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Nosql Netflix Use Case Comparison For Riak"
+title: "NoSQL Netflix Use Case Comparison for Riak"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/NoSQL_Netflix_Use_Case_Comparison_for_Riak.txt"
+resource: "https://perfcap.blogspot.com/2010/11/nosql-netflix-use-case-comparison-for.html"
 tags:
   - article
 ---
 
-# Nosql Netflix Use Case Comparison For Riak
+# NoSQL Netflix Use Case Comparison for Riak
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2010/11/nosql-netflix-use-case-comparison-for.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/NoSQL_Netflix_Use_Case_Comparison_for_Riak.txt
+[1] Source: https://perfcap.blogspot.com/2010/11/nosql-netflix-use-case-comparison-for.html

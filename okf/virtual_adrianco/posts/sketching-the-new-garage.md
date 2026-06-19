@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Sketching The New Garage"
+title: "sketching the new garage"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/sketching_the_new_garage.txt"
+resource: "https://perfcap.blogspot.com/2010/02/sketching-new-garage.html"
 tags:
   - article
 ---
 
-# Sketching The New Garage
+# sketching the new garage
 
 
 
@@ -25,4 +25,4 @@ While figuring out what we wanted to build, I used <a href="http://sketchup.goog
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/sketching_the_new_garage.txt
+[1] Source: https://perfcap.blogspot.com/2010/02/sketching-new-garage.html

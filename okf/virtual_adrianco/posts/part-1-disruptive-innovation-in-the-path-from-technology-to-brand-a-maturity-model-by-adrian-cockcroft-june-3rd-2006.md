@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Part 1: Disruptive Innovation In The Path From Technology To Brand   A Maturity Model | By Adrian Cockcroft | June 3Rd, 2006"
+title: "Part 1: Disruptive Innovation in the path from technology to brand - a maturity model | by Adrian Cockcroft | June 3rd, 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Part_1:_Disruptive_Innovation_in_the_path_from_technology_to_brand_-_a_maturity_model_|_by_Adrian_Cockcroft_|_June_3rd,_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/06/part-1-disruptive-innovation-in-path.html"
 tags:
   - article
 ---
 
-# Part 1: Disruptive Innovation In The Path From Technology To Brand   A Maturity Model | By Adrian Cockcroft | June 3Rd, 2006
+# Part 1: Disruptive Innovation in the path from technology to brand - a maturity model | by Adrian Cockcroft | June 3rd, 2006
 
 
 
@@ -25,4 +25,4 @@ Products aim to fill a need in a market, products that are disruptive innovation
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Part_1:_Disruptive_Innovation_in_the_path_from_technology_to_brand_-_a_maturity_model_|_by_Adrian_Cockcroft_|_June_3rd,_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/06/part-1-disruptive-innovation-in-path.html

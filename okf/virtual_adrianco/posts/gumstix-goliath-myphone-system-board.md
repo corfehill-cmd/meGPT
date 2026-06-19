@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Gumstix Goliath   Myphone System Board"
+title: "Gumstix Goliath - myPhone system board"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Gumstix_Goliath_-_myPhone_system_board.txt"
+resource: "https://perfcap.blogspot.com/2007/07/gumstix-goliath-myphone-system-board.html"
 tags:
   - article
 ---
 
-# Gumstix Goliath   Myphone System Board
+# Gumstix Goliath - myPhone system board
 
 
 
@@ -25,4 +25,4 @@ The <a href="http://gumstix.com/store/catalog/product_info.php?products_id=194">
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Gumstix_Goliath_-_myPhone_system_board.txt
+[1] Source: https://perfcap.blogspot.com/2007/07/gumstix-goliath-myphone-system-board.html

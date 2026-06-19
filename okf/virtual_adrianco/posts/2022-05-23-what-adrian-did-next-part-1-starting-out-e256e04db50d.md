@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2022 05 23 What Adrian Did Next   Part 1   Starting Out E256E04Db50D"
+title: "What Adrian Did Next — Part 1 — Starting Out"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2022-05-23_What-Adrian-Did-Next---Part-1---Starting-Out-e256e04db50d.txt"
+resource: "https://medium.com/@adrianco/2022-05-23_What-Adrian-Did-Next---Part-1---Starting-Out-e256e04db50d"
 tags:
   - article
 ---
 
-# 2022 05 23 What Adrian Did Next   Part 1   Starting Out E256E04Db50D
+# What Adrian Did Next — Part 1 — Starting Out
 
 
 
@@ -28,4 +28,4 @@ My mother Margo was an elementary school teacher, she taught me to read when I w
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2022-05-23_What-Adrian-Did-Next---Part-1---Starting-Out-e256e04db50d.txt
+[1] Source: https://medium.com/@adrianco/2022-05-23_What-Adrian-Did-Next---Part-1---Starting-Out-e256e04db50d

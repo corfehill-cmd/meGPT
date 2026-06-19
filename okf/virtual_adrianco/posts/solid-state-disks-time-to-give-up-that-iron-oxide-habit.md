@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solid State Disks   Time To Give Up That Iron Oxide Habit"
+title: "Solid State Disks - time to give up that iron oxide habit"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solid_State_Disks_-_time_to_give_up_that_iron_oxide_habit.txt"
+resource: "https://perfcap.blogspot.com/2008/12/solid-state-disks-time-to-give-up-that.html"
 tags:
   - article
 ---
 
-# Solid State Disks   Time To Give Up That Iron Oxide Habit
+# Solid State Disks - time to give up that iron oxide habit
 
 
 
@@ -25,4 +25,4 @@ An interesting note at <a href="http://www.theregister.co.uk/2008/12/19/sun_micr
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solid_State_Disks_-_time_to_give_up_that_iron_oxide_habit.txt
+[1] Source: https://perfcap.blogspot.com/2008/12/solid-state-disks-time-to-give-up-that.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cockcroft Headroom Plot   Part 3   Histogram Fixes"
+title: "Cockcroft Headroom Plot - Part 3 - Histogram Fixes"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Cockcroft_Headroom_Plot_-_Part_3_-_Histogram_Fixes.txt"
+resource: "https://perfcap.blogspot.com/2006/11/cockcroft-headroom-plot-part-3.html"
 tags:
   - article
 ---
 
-# Cockcroft Headroom Plot   Part 3   Histogram Fixes
+# Cockcroft Headroom Plot - Part 3 - Histogram Fixes
 
 
 
@@ -25,4 +25,4 @@ I found that I had some scaling issues with the histograms that needed fixing. U
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Cockcroft_Headroom_Plot_-_Part_3_-_Histogram_Fixes.txt
+[1] Source: https://perfcap.blogspot.com/2006/11/cockcroft-headroom-plot-part-3.html

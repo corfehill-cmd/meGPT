@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Usenix 09   San Diego In June"
+title: "Usenix 09 - San Diego in June"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Usenix_09_-_San_Diego_in_June.txt"
+resource: "https://perfcap.blogspot.com/2009/05/usenix-09-san-diego-in-june.html"
 tags:
   - article
 ---
 
-# Usenix 09   San Diego In June
+# Usenix 09 - San Diego in June
 
 
 
@@ -25,4 +25,4 @@ I'm presenting again next month, <a href="http://www.usenix.org/events/usenix09/
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Usenix_09_-_San_Diego_in_June.txt
+[1] Source: https://perfcap.blogspot.com/2009/05/usenix-09-san-diego-in-june.html

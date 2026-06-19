@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Thoughts From Etech   Tutorial Day   Florwax? | By Adrian Cockcroft | 7Th March 2006"
+title: "Thoughts from ETech - Tutorial Day - FLORWAX? | by Adrian Cockcroft | 7th March 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Thoughts_from_ETech_-_Tutorial_Day_-_FLORWAX?_|_by_Adrian_Cockcroft_|_7th_March_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/03/thoughts-from-etech-tutorial-day.html"
 tags:
   - article
 ---
 
-# Thoughts From Etech   Tutorial Day   Florwax? | By Adrian Cockcroft | 7Th March 2006
+# Thoughts from ETech - Tutorial Day - FLORWAX? | by Adrian Cockcroft | 7th March 2006
 
 
 
@@ -25,4 +25,4 @@ I'm at the O'ReillyEmerging Technology conference in San Diego, today was "Tutor
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Thoughts_from_ETech_-_Tutorial_Day_-_FLORWAX?_|_by_Adrian_Cockcroft_|_7th_March_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/03/thoughts-from-etech-tutorial-day.html

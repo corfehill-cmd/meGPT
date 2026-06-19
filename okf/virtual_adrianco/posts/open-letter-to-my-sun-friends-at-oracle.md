@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Open Letter To My Sun Friends At Oracle"
+title: "Open letter to my Sun friends at Oracle"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Open_letter_to_my_Sun_friends_at_Oracle.txt"
+resource: "https://perfcap.blogspot.com/2010/08/open-letter-to-my-sun-friends-at-oracle.html"
 tags:
   - article
 ---
 
-# Open Letter To My Sun Friends At Oracle
+# Open letter to my Sun friends at Oracle
 
 
 
@@ -25,4 +25,4 @@ I recently heard about Illumos via a tweet from Alec Muffett, and responded with
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Open_letter_to_my_Sun_friends_at_Oracle.txt
+[1] Source: https://perfcap.blogspot.com/2010/08/open-letter-to-my-sun-friends-at-oracle.html

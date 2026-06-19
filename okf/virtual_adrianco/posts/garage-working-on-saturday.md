@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage   Working On Saturday"
+title: "Garage - Working on Saturday"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_-_Working_on_Saturday.txt"
+resource: "https://perfcap.blogspot.com/2010/03/garage-working-on-saturday.html"
 tags:
   - article
 ---
 
-# Garage   Working On Saturday
+# Garage - Working on Saturday
 
 
 
@@ -25,4 +25,4 @@ The concrete team were back today, putting in more rebar and tidying everything 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_-_Working_on_Saturday.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/garage-working-on-saturday.html

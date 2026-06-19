@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What The Iphone Doesn'T Do, Why Not, And Why I Still Want One..."
+title: "What the iPhone doesn't do, why not, and why I still want one..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What_the_iPhone_doesn't_do,_why_not,_and_why_I_still_want_one....txt"
+resource: "https://perfcap.blogspot.com/2007/06/there-is-very-nice-posting-on-iphone-at.html"
 tags:
   - article
 ---
 
-# What The Iphone Doesn'T Do, Why Not, And Why I Still Want One...
+# What the iPhone doesn't do, why not, and why I still want one...
 
 
 
@@ -25,4 +25,4 @@ There is a <a href="http://www.roughlydrafted.com/RD/RDM.Tech.Q2.07/34C8BD5D-E21
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What_the_iPhone_doesn't_do,_why_not,_and_why_I_still_want_one....txt
+[1] Source: https://perfcap.blogspot.com/2007/06/there-is-very-nice-posting-on-iphone-at.html

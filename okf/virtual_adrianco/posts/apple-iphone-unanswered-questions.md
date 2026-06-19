@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Apple Iphone Unanswered Questions..."
+title: "Apple iPhone Unanswered Questions..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Apple_iPhone_Unanswered_Questions....txt"
+resource: "https://perfcap.blogspot.com/2007/01/apple-iphone-unanswered-questions.html"
 tags:
   - article
 ---
 
-# Apple Iphone Unanswered Questions...
+# Apple iPhone Unanswered Questions...
 
 
 
@@ -25,4 +25,4 @@ Like everyone else, I think it looks great. The big difference between Apple and
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Apple_iPhone_Unanswered_Questions....txt
+[1] Source: https://perfcap.blogspot.com/2007/01/apple-iphone-unanswered-questions.html

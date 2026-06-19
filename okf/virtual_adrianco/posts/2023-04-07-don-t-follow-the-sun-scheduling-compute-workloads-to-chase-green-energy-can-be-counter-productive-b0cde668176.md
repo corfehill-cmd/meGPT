@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 04 07 Don T Follow The Sun  Scheduling Compute Workloads To Chase Green Energy Can Be Counter Productive B0Cde6681763"
+title: "Don’t follow the sun: Scheduling compute workloads to chase green energy can be counter-productive"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-04-07_Don-t-follow-the-sun--Scheduling-compute-workloads-to-chase-green-energy-can-be-counter-productive-b0cde6681763.txt"
+resource: "https://medium.com/@adrianco/2023-04-07_Don-t-follow-the-sun--Scheduling-compute-workloads-to-chase-green-energy-can-be-counter-productive-b0cde6681763"
 tags:
   - article
 ---
 
-# 2023 04 07 Don T Follow The Sun  Scheduling Compute Workloads To Chase Green Energy Can Be Counter Productive B0Cde6681763
+# Don’t follow the sun: Scheduling compute workloads to chase green energy can be counter-productive
 
 
 
@@ -28,4 +28,4 @@ The computers you stopped using aren’t following the sun. They stay in the sam
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-04-07_Don-t-follow-the-sun--Scheduling-compute-workloads-to-chase-green-energy-can-be-counter-productive-b0cde6681763.txt
+[1] Source: https://medium.com/@adrianco/2023-04-07_Don-t-follow-the-sun--Scheduling-compute-workloads-to-chase-green-energy-can-be-counter-productive-b0cde6681763

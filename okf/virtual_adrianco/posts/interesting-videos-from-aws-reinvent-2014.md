@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Interesting Videos From Aws Re:Invent 2014"
+title: "Interesting Videos from AWS Re:Invent 2014"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Interesting_Videos_from_AWS_Re:Invent_2014.txt"
+resource: "https://perfcap.blogspot.com/2014/12/interesting-videos-from-aws-reinvent.html"
 tags:
   - article
 ---
 
-# Interesting Videos From Aws Re:Invent 2014
+# Interesting Videos from AWS Re:Invent 2014
 
 
 
@@ -30,4 +30,4 @@ To start with here's my own talk. I'm looking for feedback on it, as it's the fi
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Interesting_Videos_from_AWS_Re:Invent_2014.txt
+[1] Source: https://perfcap.blogspot.com/2014/12/interesting-videos-from-aws-reinvent.html

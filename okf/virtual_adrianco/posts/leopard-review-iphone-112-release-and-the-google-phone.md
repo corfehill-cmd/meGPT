@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Leopard Review, Iphone 1.1.2 Release And The Google Phone"
+title: "Leopard review, iPhone 1.1.2 release and the Google Phone"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Leopard_review,_iPhone_1.1.2_release_and_the_Google_Phone.txt"
+resource: "https://perfcap.blogspot.com/2007/11/leopard-review-iphone-112-release-and.html"
 tags:
   - article
 ---
 
-# Leopard Review, Iphone 1.1.2 Release And The Google Phone
+# Leopard review, iPhone 1.1.2 release and the Google Phone
 
 
 
@@ -25,4 +25,4 @@ There is an excellent in depth review of <a href="http://arstechnica.com/reviews
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Leopard_review,_iPhone_1.1.2_release_and_the_Google_Phone.txt
+[1] Source: https://perfcap.blogspot.com/2007/11/leopard-review-iphone-112-release-and.html

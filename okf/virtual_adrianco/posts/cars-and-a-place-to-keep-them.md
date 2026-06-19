@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cars And A Place To Keep Them..."
+title: "cars and a place to keep them..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/cars_and_a_place_to_keep_them....txt"
+resource: "https://perfcap.blogspot.com/2010/02/cars-and-place-to-keep-them.html"
 tags:
   - article
 ---
 
-# Cars And A Place To Keep Them...
+# cars and a place to keep them...
 
 
 
@@ -25,4 +25,4 @@ I'm going to blog about cars over the coming months, partly because I'm about to
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/cars_and_a_place_to_keep_them....txt
+[1] Source: https://perfcap.blogspot.com/2010/02/cars-and-place-to-keep-them.html

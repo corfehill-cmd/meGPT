@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Public Cloud Instance Pricing Wars   Detailed Context And Analysis"
+title: "Public Cloud Instance Pricing Wars - Detailed Context and Analysis"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Public_Cloud_Instance_Pricing_Wars_-_Detailed_Context_and_Analysis.txt"
+resource: "https://perfcap.blogspot.com/2014/04/public-cloud-instance-pricing-wars.html"
 tags:
   - article
 ---
 
-# Public Cloud Instance Pricing Wars   Detailed Context And Analysis
+# Public Cloud Instance Pricing Wars - Detailed Context and Analysis
 
 
 
@@ -36,4 +36,4 @@ latest Intel CPUs.</li>
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Public_Cloud_Instance_Pricing_Wars_-_Detailed_Context_and_Analysis.txt
+[1] Source: https://perfcap.blogspot.com/2014/04/public-cloud-instance-pricing-wars.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What'S On My Iphone: I.Wund.Com"
+title: "What's on my iPhone: i.Wund.com"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What's_on_my_iPhone:_i.Wund.com.txt"
+resource: "https://perfcap.blogspot.com/2009/01/whats-on-my-iphone-iwundcom.html"
 tags:
   - article
 ---
 
-# What'S On My Iphone: I.Wund.Com
+# What's on my iPhone: i.Wund.com
 
 
 
@@ -25,4 +25,4 @@ My favorite weather app is actually a lauchpad bookmarked web site rather than a
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What's_on_my_iPhone:_i.Wund.com.txt
+[1] Source: https://perfcap.blogspot.com/2009/01/whats-on-my-iphone-iwundcom.html

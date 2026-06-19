@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 02 01 What Adrian Did Next   Part 3   Ebay   2004 To 2007 90E313Fe5A08"
+title: "What Adrian Did Next — Part 3 — eBay — 2004 to 2007"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-02-01_What-Adrian-Did-Next---Part-3---eBay---2004-to-2007-90e313fe5a08.txt"
+resource: "https://medium.com/@adrianco/2023-02-01_What-Adrian-Did-Next---Part-3---eBay---2004-to-2007-90e313fe5a08"
 tags:
   - article
 ---
 
-# 2023 02 01 What Adrian Did Next   Part 3   Ebay   2004 To 2007 90E313Fe5A08
+# What Adrian Did Next — Part 3 — eBay — 2004 to 2007
 
 
 
@@ -30,4 +30,4 @@ At the time eBay was one of the largest online businesses and was developing pat
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-02-01_What-Adrian-Did-Next---Part-3---eBay---2004-to-2007-90e313fe5a08.txt
+[1] Source: https://medium.com/@adrianco/2023-02-01_What-Adrian-Did-Next---Part-3---eBay---2004-to-2007-90e313fe5a08

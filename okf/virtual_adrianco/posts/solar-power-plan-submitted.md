@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Plan Submitted"
+title: "Solar Power - plan submitted"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_plan_submitted.txt"
+resource: "https://perfcap.blogspot.com/2009/07/solar-power-plan-submitted.html"
 tags:
   - article
 ---
 
-# Solar Power   Plan Submitted
+# Solar Power - plan submitted
 
 
 
@@ -25,4 +25,4 @@ solarcity.com emailed me a very detailed pdf of the plan for 4.5KW on my roof, a
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_plan_submitted.txt
+[1] Source: https://perfcap.blogspot.com/2009/07/solar-power-plan-submitted.html

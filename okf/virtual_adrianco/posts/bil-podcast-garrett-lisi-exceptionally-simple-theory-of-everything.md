@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Bil Podcast: Garrett Lisi   Exceptionally Simple Theory Of Everything"
+title: "BIL Podcast: Garrett Lisi - Exceptionally Simple Theory of Everything"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/BIL_Podcast:_Garrett_Lisi_-_Exceptionally_Simple_Theory_of_Everything.txt"
+resource: "https://perfcap.blogspot.com/2008/03/bil-podcast-garrett-lisi-theory-of.html"
 tags:
   - article
 ---
 
-# Bil Podcast: Garrett Lisi   Exceptionally Simple Theory Of Everything
+# BIL Podcast: Garrett Lisi - Exceptionally Simple Theory of Everything
 
 
 
@@ -25,4 +25,4 @@ I published a BIL podcast from the recordings I made, first talk is my favorite,
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/BIL_Podcast:_Garrett_Lisi_-_Exceptionally_Simple_Theory_of_Everything.txt
+[1] Source: https://perfcap.blogspot.com/2008/03/bil-podcast-garrett-lisi-theory-of.html

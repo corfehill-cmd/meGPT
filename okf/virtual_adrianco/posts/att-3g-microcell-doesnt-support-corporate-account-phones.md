@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "At&T 3G Microcell Doesn'T Support Corporate Account Phones"
+title: "AT&T 3G Microcell doesn't support corporate account phones"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/AT&T_3G_Microcell_doesn't_support_corporate_account_phones.txt"
+resource: "https://perfcap.blogspot.com/2010/04/at-3g-microcell-doesnt-support.html"
 tags:
   - article
 ---
 
-# At&T 3G Microcell Doesn'T Support Corporate Account Phones
+# AT&T 3G Microcell doesn't support corporate account phones
 
 
 
@@ -25,4 +25,4 @@ I just got an ATT 3G Microcell for home, since our service is intermittent, some
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/AT&T_3G_Microcell_doesn't_support_corporate_account_phones.txt
+[1] Source: https://perfcap.blogspot.com/2010/04/at-3g-microcell-doesnt-support.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2021 02 12 The Day That I Gave The Founder Of Tesla A Ride In My Lotus Elise In Return For A Ride In His  4060Dc6E1F0B"
+title: "The day that I gave the founder of Tesla a ride in my Lotus Elise in return for a ride in his T-Zero prototype"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2021-02-12_The-day-that-I-gave-the-founder-of-Tesla-a-ride-in-my-Lotus-Elise-in-return-for-a-ride-in-his--4060dc6e1f0b.txt"
+resource: "https://medium.com/@adrianco/2021-02-12_The-day-that-I-gave-the-founder-of-Tesla-a-ride-in-my-Lotus-Elise-in-return-for-a-ride-in-his--4060dc6e1f0b"
 tags:
   - article
 ---
 
-# 2021 02 12 The Day That I Gave The Founder Of Tesla A Ride In My Lotus Elise In Return For A Ride In His  4060Dc6E1F0B
+# The day that I gave the founder of Tesla a ride in my Lotus Elise in return for a ride in his T-Zero prototype
 
 
 
@@ -28,4 +28,4 @@ I grew up in the UK, and moved to Silicon Valley in 1993 to work for Sun Microsy
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2021-02-12_The-day-that-I-gave-the-founder-of-Tesla-a-ride-in-my-Lotus-Elise-in-return-for-a-ride-in-his--4060dc6e1f0b.txt
+[1] Source: https://medium.com/@adrianco/2021-02-12_The-day-that-I-gave-the-founder-of-Tesla-a-ride-in-my-Lotus-Elise-in-return-for-a-ride-in-his--4060dc6e1f0b

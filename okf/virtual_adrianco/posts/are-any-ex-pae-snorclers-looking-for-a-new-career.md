@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Are Any (Ex )Pae Snorclers Looking For A New Career?"
+title: "Are any (ex-)PAE Snorclers looking for a new career?"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Are_any_(ex-)PAE_Snorclers_looking_for_a_new_career?.txt"
+resource: "https://perfcap.blogspot.com/2009/08/are-any-ex-pae-snorclers-looking-for.html"
 tags:
   - article
 ---
 
-# Are Any (Ex )Pae Snorclers Looking For A New Career?
+# Are any (ex-)PAE Snorclers looking for a new career?
 
 
 
@@ -25,4 +25,4 @@ I'm looking for someone who has been benchmarking and testing web services/cloud
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Are_any_(ex-)PAE_Snorclers_looking_for_a_new_career?.txt
+[1] Source: https://perfcap.blogspot.com/2009/08/are-any-ex-pae-snorclers-looking-for.html

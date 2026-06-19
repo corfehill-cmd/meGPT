@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Bill Scott'S Designing Web Interfaces Book   And He'S Hiring..."
+title: "Bill Scott's Designing Web Interfaces book - and he's hiring..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Bill_Scott's_Designing_Web_Interfaces_book_-_and_he's_hiring....txt"
+resource: "https://perfcap.blogspot.com/2009/02/bill-scotts-designing-web-interfaces.html"
 tags:
   - article
 ---
 
-# Bill Scott'S Designing Web Interfaces Book   And He'S Hiring...
+# Bill Scott's Designing Web Interfaces book - and he's hiring...
 
 
 
@@ -25,4 +25,4 @@ Here is a (long) slideshare presentation of Bill's talk, <a href="http://looksgo
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Bill_Scott's_Designing_Web_Interfaces_book_-_and_he's_hiring....txt
+[1] Source: https://perfcap.blogspot.com/2009/02/bill-scotts-designing-web-interfaces.html

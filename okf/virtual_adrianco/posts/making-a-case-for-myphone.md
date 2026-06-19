@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Making A Case For Myphone"
+title: "Making a case for Myphone"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Making_a_case_for_Myphone.txt"
+resource: "https://perfcap.blogspot.com/2007/02/making-case-for-myphone.html"
 tags:
   - article
 ---
 
-# Making A Case For Myphone
+# Making a case for Myphone
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2007/02/making-case-for-myphone.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Making_a_case_for_Myphone.txt
+[1] Source: https://perfcap.blogspot.com/2007/02/making-case-for-myphone.html

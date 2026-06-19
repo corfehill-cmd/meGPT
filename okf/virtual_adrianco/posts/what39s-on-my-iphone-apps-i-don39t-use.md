@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What&#39;S On My Iphone: Apps I Don&#39;T Use"
+title: "What&#39;s on my iPhone: apps I don&#39;t use"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What&#39;s_on_my_iPhone:_apps_I_don&#39;t_use.txt"
+resource: "https://perfcap.blogspot.com/2009/01/what-on-my-iphone-apps-i-don-use.html"
 tags:
   - article
 ---
 
-# What&#39;S On My Iphone: Apps I Don&#39;T Use
+# What&#39;s on my iPhone: apps I don&#39;t use
 
 
 
@@ -25,4 +25,4 @@ Last.fm, VNC, Remote, Weatherbug. I installed these but never use them. I tend t
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What&#39;s_on_my_iPhone:_apps_I_don&#39;t_use.txt
+[1] Source: https://perfcap.blogspot.com/2009/01/what-on-my-iphone-apps-i-don-use.html

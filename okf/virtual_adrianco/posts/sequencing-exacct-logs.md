@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Sequencing Exacct Logs"
+title: "Sequencing exacct logs"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Sequencing_exacct_logs.txt"
+resource: "https://perfcap.blogspot.com/2005/04/sequencing-exacct-logs.html"
 tags:
   - article
 ---
 
-# Sequencing Exacct Logs
+# Sequencing exacct logs
 
 
 
@@ -25,4 +25,4 @@ I decided to simplify the next step and to just get raw data logged in a useful 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Sequencing_exacct_logs.txt
+[1] Source: https://perfcap.blogspot.com/2005/04/sequencing-exacct-logs.html

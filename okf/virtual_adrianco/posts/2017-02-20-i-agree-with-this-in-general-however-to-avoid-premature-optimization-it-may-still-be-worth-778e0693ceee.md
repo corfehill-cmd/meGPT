@@ -2,7 +2,7 @@
 type: Article
 title: "2017 02 20 I Agree With This In General  However To Avoid Premature Optimization It May Still Be Worth  778E0693Ceee"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-02-20_I-agree-with-this-in-general--however-to-avoid-premature-optimization-it-may-still-be-worth--778e0693ceee.txt"
+resource: "https://medium.com/@adrianco/2017-02-20_I-agree-with-this-in-general--however-to-avoid-premature-optimization-it-may-still-be-worth--778e0693ceee"
 tags:
   - article
 ---
@@ -24,4 +24,4 @@ I agree with this in general, however to avoid premature optimization it may sti
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-02-20_I-agree-with-this-in-general--however-to-avoid-premature-optimization-it-may-still-be-worth--778e0693ceee.txt
+[1] Source: https://medium.com/@adrianco/2017-02-20_I-agree-with-this-in-general--however-to-avoid-premature-optimization-it-may-still-be-worth--778e0693ceee

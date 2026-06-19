@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Macworld Report: Izap, Apple Macbook Air, Iphone And Appletv"
+title: "MacWorld report: iZap, Apple MacBook Air, iPhone and AppleTV"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/MacWorld_report:_iZap,_Apple_MacBook_Air,_iPhone_and_AppleTV.txt"
+resource: "https://perfcap.blogspot.com/2008/01/macworld-report-izap-apple-macbook-air.html"
 tags:
   - article
 ---
 
-# Macworld Report: Izap, Apple Macbook Air, Iphone And Appletv
+# MacWorld report: iZap, Apple MacBook Air, iPhone and AppleTV
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2008/01/macworld-report-izap-apple-macbook-air
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/MacWorld_report:_iZap,_Apple_MacBook_Air,_iPhone_and_AppleTV.txt
+[1] Source: https://perfcap.blogspot.com/2008/01/macworld-report-izap-apple-macbook-air.html

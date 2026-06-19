@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Fon: World Wifi Domination?"
+title: "FON: World WiFi Domination?"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/FON:_World_WiFi_Domination?.txt"
+resource: "https://perfcap.blogspot.com/2007/06/fon-world-wifi-domination.html"
 tags:
   - article
 ---
 
-# Fon: World Wifi Domination?
+# FON: World WiFi Domination?
 
 
 
@@ -25,4 +25,4 @@ Now if there ever was a company working on world domination, it would be FON. Th
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/FON:_World_WiFi_Domination?.txt
+[1] Source: https://perfcap.blogspot.com/2007/06/fon-world-wifi-domination.html

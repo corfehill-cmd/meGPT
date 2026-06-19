@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Load Average Differences Between Solaris And Linux"
+title: "Load Average Differences Between Solaris and Linux"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Load_Average_Differences_Between_Solaris_and_Linux.txt"
+resource: "https://perfcap.blogspot.com/2007/04/load-average-differences-between.html"
 tags:
   - article
 ---
 
-# Load Average Differences Between Solaris And Linux
+# Load Average Differences Between Solaris and Linux
 
 
 
@@ -31,4 +31,4 @@ The source of the number of active processes can be seen in vmstat as the first 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Load_Average_Differences_Between_Solaris_and_Linux.txt
+[1] Source: https://perfcap.blogspot.com/2007/04/load-average-differences-between.html

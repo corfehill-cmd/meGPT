@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Emerging Communications Conference   Ecomm March 12 14"
+title: "Emerging Communications Conference - EComm March 12-14"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Emerging_Communications_Conference_-_EComm_March_12-14.txt"
+resource: "https://perfcap.blogspot.com/2008/02/emerging-communications-conference.html"
 tags:
   - article
 ---
 
-# Emerging Communications Conference   Ecomm March 12 14
+# Emerging Communications Conference - EComm March 12-14
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2008/02/emerging-communications-conference.htm
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Emerging_Communications_Conference_-_EComm_March_12-14.txt
+[1] Source: https://perfcap.blogspot.com/2008/02/emerging-communications-conference.html

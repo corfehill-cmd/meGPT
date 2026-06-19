@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Automated Rotating Exdump"
+title: "Automated rotating exdump"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Automated_rotating_exdump.txt"
+resource: "https://perfcap.blogspot.com/2005/04/automated-rotating-exdump.html"
 tags:
   - article
 ---
 
-# Automated Rotating Exdump
+# Automated rotating exdump
 
 
 
@@ -25,4 +25,4 @@ I've added an option that automates the processing of exacct data to text file f
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Automated_rotating_exdump.txt
+[1] Source: https://perfcap.blogspot.com/2005/04/automated-rotating-exdump.html

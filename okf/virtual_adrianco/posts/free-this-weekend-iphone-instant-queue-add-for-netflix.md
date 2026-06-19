@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Free This Weekend, Iphone Instant Queue Add For Netflix"
+title: "FREE this weekend, iPhone Instant Queue Add for Netflix"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/FREE_this_weekend,_iPhone_Instant_Queue_Add_for_Netflix.txt"
+resource: "https://perfcap.blogspot.com/2009/10/free-this-weekend-iphone-instant-queue.html"
 tags:
   - article
 ---
 
-# Free This Weekend, Iphone Instant Queue Add For Netflix
+# FREE this weekend, iPhone Instant Queue Add for Netflix
 
 
 
@@ -25,4 +25,4 @@ The latest version 5 of IQ+ was released this week, and it is currently Free unt
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/FREE_this_weekend,_iPhone_Instant_Queue_Add_for_Netflix.txt
+[1] Source: https://perfcap.blogspot.com/2009/10/free-this-weekend-iphone-instant-queue.html

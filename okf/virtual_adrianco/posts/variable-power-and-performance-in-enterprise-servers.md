@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Variable Power And Performance In Enterprise Servers"
+title: "Variable Power and Performance in Enterprise Servers"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Variable_Power_and_Performance_in_Enterprise_Servers.txt"
+resource: "https://perfcap.blogspot.com/2008/06/variable-power-and-performance-in.html"
 tags:
   - article
 ---
 
-# Variable Power And Performance In Enterprise Servers
+# Variable Power and Performance in Enterprise Servers
 
 
 
@@ -25,4 +25,4 @@ Nice <a href="http://www.infoworld.com/article/08/06/09/Linux_beats_Windows_2008
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Variable_Power_and_Performance_in_Enterprise_Servers.txt
+[1] Source: https://perfcap.blogspot.com/2008/06/variable-power-and-performance-in.html

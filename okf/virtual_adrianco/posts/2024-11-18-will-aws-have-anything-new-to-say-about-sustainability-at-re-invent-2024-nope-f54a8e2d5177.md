@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2024 11 18 Will Aws Have Anything New To Say About Sustainability At Re Invent 2024   Nope   F54A8E2D5177"
+title: "Will AWS Have Anything New To Say About Sustainability at re:Invent 2024? (Nope…)"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2024-11-18_Will-AWS-Have-Anything-New-To-Say-About-Sustainability-at-re-Invent-2024---Nope---f54a8e2d5177.txt"
+resource: "https://medium.com/@adrianco/2024-11-18_Will-AWS-Have-Anything-New-To-Say-About-Sustainability-at-re-Invent-2024---Nope---f54a8e2d5177"
 tags:
   - article
 ---
 
-# 2024 11 18 Will Aws Have Anything New To Say About Sustainability At Re Invent 2024   Nope   F54A8E2D5177
+# Will AWS Have Anything New To Say About Sustainability at re:Invent 2024? (Nope…)
 
 
 
@@ -28,4 +28,4 @@ There’s an old saying that any headline that ends in a question mark can be an
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2024-11-18_Will-AWS-Have-Anything-New-To-Say-About-Sustainability-at-re-Invent-2024---Nope---f54a8e2d5177.txt
+[1] Source: https://medium.com/@adrianco/2024-11-18_Will-AWS-Have-Anything-New-To-Say-About-Sustainability-at-re-Invent-2024---Nope---f54a8e2d5177

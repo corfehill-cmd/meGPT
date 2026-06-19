@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Configuring Ipqos For Flow Accounting"
+title: "Configuring IPQoS for flow accounting"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Configuring_IPQoS_for_flow_accounting.txt"
+resource: "https://perfcap.blogspot.com/2005/03/configuring-ipqos-for-flow-accounting.html"
 tags:
   - article
 ---
 
-# Configuring Ipqos For Flow Accounting
+# Configuring IPQoS for flow accounting
 
 
 
@@ -25,4 +25,4 @@ I spent some time today working my way through the manuals. What I want is to ju
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Configuring_IPQoS_for_flow_accounting.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/configuring-ipqos-for-flow-accounting.html

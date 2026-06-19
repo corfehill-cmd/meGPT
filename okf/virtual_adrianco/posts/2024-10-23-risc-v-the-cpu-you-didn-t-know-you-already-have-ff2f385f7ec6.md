@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2024 10 23 Risc V   The Cpu You Didn T Know You Already Have  Ff2F385F7Ec6"
+title: "RISC-V — the CPU you didn’t know you already have…"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2024-10-23_RISC-V---the-CPU-you-didn-t-know-you-already-have--ff2f385f7ec6.txt"
+resource: "https://medium.com/@adrianco/2024-10-23_RISC-V---the-CPU-you-didn-t-know-you-already-have--ff2f385f7ec6"
 tags:
   - article
 ---
 
-# 2024 10 23 Risc V   The Cpu You Didn T Know You Already Have  Ff2F385F7Ec6
+# RISC-V — the CPU you didn’t know you already have…
 
 
 
@@ -28,4 +28,4 @@ Most people are aware of the Intel x86 based architecture that has been dominant
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2024-10-23_RISC-V---the-CPU-you-didn-t-know-you-already-have--ff2f385f7ec6.txt
+[1] Source: https://medium.com/@adrianco/2024-10-23_RISC-V---the-CPU-you-didn-t-know-you-already-have--ff2f385f7ec6

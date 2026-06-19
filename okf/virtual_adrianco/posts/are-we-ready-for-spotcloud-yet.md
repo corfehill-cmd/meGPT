@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Are We Ready For Spotcloud Yet?"
+title: "Are we ready for spotcloud yet?"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Are_we_ready_for_spotcloud_yet?.txt"
+resource: "https://perfcap.blogspot.com/2010/11/are-we-ready-for-spotcloud-yet.html"
 tags:
   - article
 ---
 
-# Are We Ready For Spotcloud Yet?
+# Are we ready for spotcloud yet?
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2010/11/are-we-ready-for-spotcloud-yet.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Are_we_ready_for_spotcloud_yet?.txt
+[1] Source: https://perfcap.blogspot.com/2010/11/are-we-ready-for-spotcloud-yet.html

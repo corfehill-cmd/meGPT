@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cpu Power Management"
+title: "CPU Power Management"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/CPU_Power_Management.txt"
+resource: "https://perfcap.blogspot.com/2006/06/cpu-power-management.html"
 tags:
   - article
 ---
 
-# Cpu Power Management
+# CPU Power Management
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/06/cpu-power-management.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/CPU_Power_Management.txt
+[1] Source: https://perfcap.blogspot.com/2006/06/cpu-power-management.html

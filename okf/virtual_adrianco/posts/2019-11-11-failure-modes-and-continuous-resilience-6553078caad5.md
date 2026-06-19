@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2019 11 11 Failure Modes And Continuous Resilience 6553078Caad5"
+title: "Failure Modes and Continuous Resilience"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2019-11-11_Failure-Modes-and-Continuous-Resilience-6553078caad5.txt"
+resource: "https://medium.com/@adrianco/2019-11-11_Failure-Modes-and-Continuous-Resilience-6553078caad5"
 tags:
   - article
 ---
 
-# 2019 11 11 Failure Modes And Continuous Resilience 6553078Caad5
+# Failure Modes and Continuous Resilience
 
 
 
@@ -28,4 +28,4 @@ In addition to the common financial calculation of risk as the product of probab
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2019-11-11_Failure-Modes-and-Continuous-Resilience-6553078caad5.txt
+[1] Source: https://medium.com/@adrianco/2019-11-11_Failure-Modes-and-Continuous-Resilience-6553078caad5

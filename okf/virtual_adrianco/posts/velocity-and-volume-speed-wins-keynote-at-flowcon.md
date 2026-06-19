@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Velocity And Volume   Speed Wins   Keynote At Flowcon"
+title: "Velocity and Volume - Speed Wins - Keynote at Flowcon"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Velocity_and_Volume_-_Speed_Wins_-_Keynote_at_Flowcon.txt"
+resource: "https://perfcap.blogspot.com/2013/12/velocity-and-volume-speed-wins-keynote.html"
 tags:
   - article
 ---
 
-# Velocity And Volume   Speed Wins   Keynote At Flowcon
+# Velocity and Volume - Speed Wins - Keynote at Flowcon
 
 
 
@@ -32,4 +32,4 @@ The material I presented was less focused on Netflix related technologies than m
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Velocity_and_Volume_-_Speed_Wins_-_Keynote_at_Flowcon.txt
+[1] Source: https://perfcap.blogspot.com/2013/12/velocity-and-volume-speed-wins-keynote.html

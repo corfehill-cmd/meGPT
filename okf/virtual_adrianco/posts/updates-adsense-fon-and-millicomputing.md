@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Updates: Adsense, Fon And Millicomputing"
+title: "Updates: AdSense, FON and Millicomputing"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Updates:_AdSense,_FON_and_Millicomputing.txt"
+resource: "https://perfcap.blogspot.com/2007/06/updates-adsense-fon-and-millicomputing.html"
 tags:
   - article
 ---
 
-# Updates: Adsense, Fon And Millicomputing
+# Updates: AdSense, FON and Millicomputing
 
 
 
@@ -25,4 +25,4 @@ The Ads are making a bit more sense now...<br /><br />There is a <a href="http:/
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Updates:_AdSense,_FON_and_Millicomputing.txt
+[1] Source: https://perfcap.blogspot.com/2007/06/updates-adsense-fon-and-millicomputing.html

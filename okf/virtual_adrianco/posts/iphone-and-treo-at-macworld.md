@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Iphone And Treo At Macworld"
+title: "iPhone and Treo at MacWorld"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/iPhone_and_Treo_at_MacWorld.txt"
+resource: "https://perfcap.blogspot.com/2007/01/iphone-and-treo-at-macworld.html"
 tags:
   - article
 ---
 
-# Iphone And Treo At Macworld
+# iPhone and Treo at MacWorld
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2007/01/iphone-and-treo-at-macworld.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/iPhone_and_Treo_at_MacWorld.txt
+[1] Source: https://perfcap.blogspot.com/2007/01/iphone-and-treo-at-macworld.html

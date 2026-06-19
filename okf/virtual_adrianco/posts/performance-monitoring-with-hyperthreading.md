@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Performance Monitoring With Hyperthreading"
+title: "Performance monitoring with Hyperthreading"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Performance_monitoring_with_Hyperthreading.txt"
+resource: "https://perfcap.blogspot.com/2005/05/performance-monitoring-with.html"
 tags:
   - article
 ---
 
-# Performance Monitoring With Hyperthreading
+# Performance monitoring with Hyperthreading
 
 
 
@@ -25,4 +25,4 @@ Hyperthreading is used by most recent Intel servers, <a href="http://www.intel.c
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Performance_monitoring_with_Hyperthreading.txt
+[1] Source: https://perfcap.blogspot.com/2005/05/performance-monitoring-with.html

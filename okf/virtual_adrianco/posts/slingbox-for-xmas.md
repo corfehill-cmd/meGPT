@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Slingbox For Xmas"
+title: "Slingbox for Xmas"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Slingbox_for_Xmas.txt"
+resource: "https://perfcap.blogspot.com/2006/11/slingbox-for-xmas.html"
 tags:
   - article
 ---
 
-# Slingbox For Xmas
+# Slingbox for Xmas
 
 
 
@@ -25,4 +25,4 @@ What new toys can we get this Xmas? I already have the stuff I need. I'd like a 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Slingbox_for_Xmas.txt
+[1] Source: https://perfcap.blogspot.com/2006/11/slingbox-for-xmas.html

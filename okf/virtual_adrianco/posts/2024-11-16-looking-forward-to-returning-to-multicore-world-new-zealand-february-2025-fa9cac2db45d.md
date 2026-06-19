@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2024 11 16 Looking Forward To Returning To Multicore World    New Zealand February 2025  Fa9Cac2Db45D"
+title: "Looking forward to returning to Multicore World — (New Zealand February 2025)"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2024-11-16_Looking-forward-to-returning-to-Multicore-World----New-Zealand-February-2025--fa9cac2db45d.txt"
+resource: "https://medium.com/@adrianco/2024-11-16_Looking-forward-to-returning-to-Multicore-World----New-Zealand-February-2025--fa9cac2db45d"
 tags:
   - article
 ---
 
-# 2024 11 16 Looking Forward To Returning To Multicore World    New Zealand February 2025  Fa9Cac2Db45D
+# Looking forward to returning to Multicore World — (New Zealand February 2025)
 
 
 
@@ -28,4 +28,4 @@ I was introduced to Nicolás Erdödy at Super Computing 22, by my colleague at O
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2024-11-16_Looking-forward-to-returning-to-Multicore-World----New-Zealand-February-2025--fa9cac2db45d.txt
+[1] Source: https://medium.com/@adrianco/2024-11-16_Looking-forward-to-returning-to-Multicore-World----New-Zealand-February-2025--fa9cac2db45d

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Installation Day 1"
+title: "Solar Power - Installation Day 1"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Day_1.txt"
+resource: "https://perfcap.blogspot.com/2009/07/solar-power-installation-day-1.html"
 tags:
   - article
 ---
 
-# Solar Power   Installation Day 1
+# Solar Power - Installation Day 1
 
 
 
@@ -25,4 +25,4 @@ Here's the house, showing the mounting points and rails on the roof.<br /><br />
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Day_1.txt
+[1] Source: https://perfcap.blogspot.com/2009/07/solar-power-installation-day-1.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Sunworld Offline"
+title: "SunWorld Offline"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/SunWorld_Offline.txt"
+resource: "https://perfcap.blogspot.com/2005/09/sunworld-offline.html"
 tags:
   - article
 ---
 
-# Sunworld Offline
+# SunWorld Offline
 
 
 
@@ -25,4 +25,4 @@ The monthly columns I wrote for SunWorld Online between 1995 and 1999 seem to ha
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/SunWorld_Offline.txt
+[1] Source: https://perfcap.blogspot.com/2005/09/sunworld-offline.html

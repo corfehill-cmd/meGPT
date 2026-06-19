@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2020 12 08 Enhanced Headroom Plot In R 9273Ffdf163A"
+title: "Enhanced headroom plot in R"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2020-12-08_Enhanced-headroom-plot-in-R-9273ffdf163a.txt"
+resource: "https://medium.com/@adrianco/2020-12-08_Enhanced-headroom-plot-in-R-9273ffdf163a"
 tags:
   - article
 ---
 
-# 2020 12 08 Enhanced Headroom Plot In R 9273Ffdf163A
+# Enhanced headroom plot in R
 
 
 
@@ -36,4 +36,4 @@ I read in some data that has been extracted from vxstat into a csv format and pl
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2020-12-08_Enhanced-headroom-plot-in-R-9273ffdf163a.txt
+[1] Source: https://medium.com/@adrianco/2020-12-08_Enhanced-headroom-plot-in-R-9273ffdf163a

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Changing Gears"
+title: "Changing gears"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Changing_gears.txt"
+resource: "https://perfcap.blogspot.com/2006/02/changing-gears.html"
 tags:
   - article
 ---
 
-# Changing Gears
+# Changing gears
 
 
 
@@ -25,4 +25,4 @@ I started this blog in the summer of 2004 when I had finished at Sun and not yet
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Changing_gears.txt
+[1] Source: https://perfcap.blogspot.com/2006/02/changing-gears.html

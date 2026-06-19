@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage Site   Rebar Ready"
+title: "Garage Site - rebar ready"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_Site_-_rebar_ready.txt"
+resource: "https://perfcap.blogspot.com/2010/03/garage-site-rebar-reader.html"
 tags:
   - article
 ---
 
-# Garage Site   Rebar Ready
+# Garage Site - rebar ready
 
 
 
@@ -25,4 +25,4 @@ Another stop motion video at 30s intervals shows most of the day's work. The tre
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_Site_-_rebar_ready.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/garage-site-rebar-reader.html

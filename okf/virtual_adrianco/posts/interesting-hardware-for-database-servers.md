@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Interesting Hardware For Database Servers"
+title: "Interesting hardware for database servers"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Interesting_hardware_for_database_servers.txt"
+resource: "https://perfcap.blogspot.com/2006/01/interesting-hardware-for-database.html"
 tags:
   - article
 ---
 
-# Interesting Hardware For Database Servers
+# Interesting hardware for database servers
 
 
 
@@ -25,4 +25,4 @@ I've been too occupied on other things to keep posting regularly in the last mon
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Interesting_hardware_for_database_servers.txt
+[1] Source: https://perfcap.blogspot.com/2006/01/interesting-hardware-for-database.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Ebay Adcontext Contextual Adverts"
+title: "eBay AdContext Contextual Adverts"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/eBay_AdContext_Contextual_Adverts.txt"
+resource: "https://perfcap.blogspot.com/2006/06/ebay-adcontext-contextual-adverts.html"
 tags:
   - article
 ---
 
-# Ebay Adcontext Contextual Adverts
+# eBay AdContext Contextual Adverts
 
 
 
@@ -25,4 +25,4 @@ I've been running contextual ads on this site for a few months, using the CTXbay
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/eBay_AdContext_Contextual_Adverts.txt
+[1] Source: https://perfcap.blogspot.com/2006/06/ebay-adcontext-contextual-adverts.html

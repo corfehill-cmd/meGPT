@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2017 12 28 Noon Lights   An Iot Review Cbab555D4884"
+title: "Noon Lights — an IoT Review"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-12-28_Noon-Lights---an-IoT-Review-cbab555d4884.txt"
+resource: "https://medium.com/@adrianco/2017-12-28_Noon-Lights---an-IoT-Review-cbab555d4884"
 tags:
   - article
 ---
 
-# 2017 12 28 Noon Lights   An Iot Review Cbab555D4884
+# Noon Lights — an IoT Review
 
 
 
@@ -32,4 +32,4 @@ Eventually I discovered a new option called Noon (noonhome.com) — they lau
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-12-28_Noon-Lights---an-IoT-Review-cbab555d4884.txt
+[1] Source: https://medium.com/@adrianco/2017-12-28_Noon-Lights---an-IoT-Review-cbab555d4884

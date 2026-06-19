@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What Happened To The Iphone, And What Comes Next..."
+title: "What happened to the iPhone, and what comes next..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What_happened_to_the_iPhone,_and_what_comes_next....txt"
+resource: "https://perfcap.blogspot.com/2007/09/what-happened-to-iphone-and-what-comes.html"
 tags:
   - article
 ---
 
-# What Happened To The Iphone, And What Comes Next...
+# What happened to the iPhone, and what comes next...
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2007/09/what-happened-to-iphone-and-what-comes
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What_happened_to_the_iPhone,_and_what_comes_next....txt
+[1] Source: https://perfcap.blogspot.com/2007/09/what-happened-to-iphone-and-what-comes.html

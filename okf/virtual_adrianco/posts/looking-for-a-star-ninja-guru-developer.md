@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Looking For A Star Ninja Guru Developer...."
+title: "Looking for a star/ninja/guru developer...."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Looking_for_a_star-ninja-guru_developer.....txt"
+resource: "https://perfcap.blogspot.com/2008/08/looking-for-starninjaguru-developer.html"
 tags:
   - article
 ---
 
-# Looking For A Star Ninja Guru Developer....
+# Looking for a star/ninja/guru developer....
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2008/08/looking-for-starninjaguru-developer.ht
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Looking_for_a_star-ninja-guru_developer.....txt
+[1] Source: https://perfcap.blogspot.com/2008/08/looking-for-starninjaguru-developer.html

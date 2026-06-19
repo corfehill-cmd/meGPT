@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Ops, Devops And Paas (Noops) At Netflix"
+title: "Ops, DevOps and PaaS (NoOps) at Netflix"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Ops,_DevOps_and_PaaS_(NoOps)_at_Netflix.txt"
+resource: "https://perfcap.blogspot.com/2012/03/ops-devops-and-noops-at-netflix.html"
 tags:
   - article
 ---
 
-# Ops, Devops And Paas (Noops) At Netflix
+# Ops, DevOps and PaaS (NoOps) at Netflix
 
 
 
@@ -25,4 +25,4 @@ There has been a sometimes heated discussion on twitter about the term NoOps rec
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Ops,_DevOps_and_PaaS_(NoOps)_at_Netflix.txt
+[1] Source: https://perfcap.blogspot.com/2012/03/ops-devops-and-noops-at-netflix.html

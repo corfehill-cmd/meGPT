@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2016 12 08 Aws Lambda Is Everywhere F28C855E44B9"
+title: "AWS Lambda is Everywhere"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2016-12-08_AWS-Lambda-is-Everywhere-f28c855e44b9.txt"
+resource: "https://medium.com/@adrianco/2016-12-08_AWS-Lambda-is-Everywhere-f28c855e44b9"
 tags:
   - article
 ---
 
-# 2016 12 08 Aws Lambda Is Everywhere F28C855E44B9
+# AWS Lambda is Everywhere
 
 
 
@@ -38,4 +38,4 @@ Given Lambda support from the endpoint all the way down to storage, Lambda-based
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2016-12-08_AWS-Lambda-is-Everywhere-f28c855e44b9.txt
+[1] Source: https://medium.com/@adrianco/2016-12-08_AWS-Lambda-is-Everywhere-f28c855e44b9

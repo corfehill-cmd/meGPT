@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Capacity Planning For Cloud Computing"
+title: "Capacity Planning for Cloud Computing"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Capacity_Planning_for_Cloud_Computing.txt"
+resource: "https://perfcap.blogspot.com/2008/12/capacity-planning-for-cloud-computing.html"
 tags:
   - article
 ---
 
-# Capacity Planning For Cloud Computing
+# Capacity Planning for Cloud Computing
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2008/12/capacity-planning-for-cloud-computing.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Capacity_Planning_for_Cloud_Computing.txt
+[1] Source: https://perfcap.blogspot.com/2008/12/capacity-planning-for-cloud-computing.html

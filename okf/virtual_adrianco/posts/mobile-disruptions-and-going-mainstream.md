@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Mobile Disruptions And Going Mainstream"
+title: "Mobile disruptions and going mainstream"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Mobile_disruptions_and_going_mainstream.txt"
+resource: "https://perfcap.blogspot.com/2008/05/mobile-disruptions-and-going-mainstream.html"
 tags:
   - article
 ---
 
-# Mobile Disruptions And Going Mainstream
+# Mobile disruptions and going mainstream
 
 
 
@@ -25,4 +25,4 @@ VC thoughts via <a href="http://petercranstone.blogspot.com/2008/05/top-10-tech-
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Mobile_disruptions_and_going_mainstream.txt
+[1] Source: https://perfcap.blogspot.com/2008/05/mobile-disruptions-and-going-mainstream.html

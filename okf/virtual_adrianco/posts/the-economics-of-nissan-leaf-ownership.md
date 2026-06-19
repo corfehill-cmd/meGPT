@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "The Economics Of Nissan Leaf Ownership"
+title: "The economics of Nissan Leaf ownership"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/The_economics_of_Nissan_Leaf_ownership.txt"
+resource: "https://perfcap.blogspot.com/2011/09/economics-of-nissan-leaf-ownership.html"
 tags:
   - article
 ---
 
-# The Economics Of Nissan Leaf Ownership
+# The economics of Nissan Leaf ownership
 
 
 
@@ -29,4 +29,4 @@ The record shows 1003 miles at 3.8 miles/KWh and a total of 264.6 KWh. We pay 10
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/The_economics_of_Nissan_Leaf_ownership.txt
+[1] Source: https://perfcap.blogspot.com/2011/09/economics-of-nissan-leaf-ownership.html

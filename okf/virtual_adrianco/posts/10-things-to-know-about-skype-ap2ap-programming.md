@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "10 Things To Know About Skype Ap2Ap Programming"
+title: "10 Things to Know About Skype Ap2Ap Programming"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/10_Things_to_Know_About_Skype_Ap2Ap_Programming.txt"
+resource: "https://perfcap.blogspot.com/2006/11/10-things-to-know-about-skype-ap2ap.html"
 tags:
   - article
 ---
 
-# 10 Things To Know About Skype Ap2Ap Programming
+# 10 Things to Know About Skype Ap2Ap Programming
 
 
 
@@ -25,4 +25,4 @@ I also posted this on the <a href="https://developer.skype.com/Users/adriancockc
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/10_Things_to_Know_About_Skype_Ap2Ap_Programming.txt
+[1] Source: https://perfcap.blogspot.com/2006/11/10-things-to-know-about-skype-ap2ap.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Iphone Tethering Review"
+title: "iPhone Tethering Review"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/iPhone_Tethering_Review.txt"
+resource: "https://perfcap.blogspot.com/2010/07/iphone-tethering-review.html"
 tags:
   - article
 ---
 
-# Iphone Tethering Review
+# iPhone Tethering Review
 
 
 
@@ -25,4 +25,4 @@ Along with iOS4 and the new ATT data plans they now also support tethering. I se
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/iPhone_Tethering_Review.txt
+[1] Source: https://perfcap.blogspot.com/2010/07/iphone-tethering-review.html

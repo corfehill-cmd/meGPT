@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Can Openstack Catch Up With Aws? Looks Unlikely To Me."
+title: "Can OpenStack catch up with AWS? Looks unlikely to me."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Can_OpenStack_catch_up_with_AWS?_Looks_unlikely_to_me..txt"
+resource: "https://perfcap.blogspot.com/2010/07/can-openstack-catch-up-with-aws-looks.html"
 tags:
   - article
 ---
 
-# Can Openstack Catch Up With Aws? Looks Unlikely To Me.
+# Can OpenStack catch up with AWS? Looks unlikely to me.
 
 
 
@@ -25,4 +25,4 @@ There has been a lot of chatter about the new <a href="http://openstack.org/">Op
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Can_OpenStack_catch_up_with_AWS?_Looks_unlikely_to_me..txt
+[1] Source: https://perfcap.blogspot.com/2010/07/can-openstack-catch-up-with-aws-looks.html

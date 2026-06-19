@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 04 13 Analyst Content At Me Dm 2Bcaf50E759B"
+title: "Analyst content at me.dm"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-04-13_Analyst-content-at-me-dm-2bcaf50e759b.txt"
+resource: "https://medium.com/@adrianco/2023-04-13_Analyst-content-at-me-dm-2bcaf50e759b"
 tags:
   - article
 ---
 
-# 2023 04 13 Analyst Content At Me Dm 2Bcaf50E759B
+# Analyst content at me.dm
 
 
 
@@ -26,4 +26,4 @@ Medium launched me.dm a while ago as a gateway to the fediverse, but I haven’t
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-04-13_Analyst-content-at-me-dm-2bcaf50e759b.txt
+[1] Source: https://medium.com/@adrianco/2023-04-13_Analyst-content-at-me-dm-2bcaf50e759b

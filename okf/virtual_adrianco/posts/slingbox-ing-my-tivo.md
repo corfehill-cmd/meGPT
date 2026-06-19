@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Slingbox Ing My Tivo"
+title: "Slingbox-ing my TiVo"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Slingbox-ing_my_TiVo.txt"
+resource: "https://perfcap.blogspot.com/2007/01/slingbox-ing-my-tivo.html"
 tags:
   - article
 ---
 
-# Slingbox Ing My Tivo
+# Slingbox-ing my TiVo
 
 
 
@@ -25,4 +25,4 @@ As I <a href="http://perfcap.blogspot.com/2006/11/slingbox-for-xmas.html">mentio
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Slingbox-ing_my_TiVo.txt
+[1] Source: https://perfcap.blogspot.com/2007/01/slingbox-ing-my-tivo.html

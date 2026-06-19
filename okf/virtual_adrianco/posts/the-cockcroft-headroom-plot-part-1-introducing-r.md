@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "The Cockcroft Headroom Plot   Part 1   Introducing R"
+title: "The Cockcroft Headroom Plot - Part 1 - Introducing R"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/The_Cockcroft_Headroom_Plot_-_Part_1_-_Introducing_R.txt"
+resource: "https://perfcap.blogspot.com/2006/11/cockcroft-headroom-plot-part-1.html"
 tags:
   - article
 ---
 
-# The Cockcroft Headroom Plot   Part 1   Introducing R
+# The Cockcroft Headroom Plot - Part 1 - Introducing R
 
 
 
@@ -25,4 +25,4 @@ I've recently written a paper for CMG06 called "Utilization is Virtually Useless
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/The_Cockcroft_Headroom_Plot_-_Part_1_-_Introducing_R.txt
+[1] Source: https://perfcap.blogspot.com/2006/11/cockcroft-headroom-plot-part-1.html

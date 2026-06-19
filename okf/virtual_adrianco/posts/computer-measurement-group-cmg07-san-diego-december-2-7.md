@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Computer Measurement Group   Cmg07   San Diego   December 2 7"
+title: "Computer Measurement Group - CMG07 - San Diego - December 2-7"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Computer_Measurement_Group_-_CMG07_-_San_Diego_-_December_2-7.txt"
+resource: "https://perfcap.blogspot.com/2007/11/computer-measurement-group-cmg07-san.html"
 tags:
   - article
 ---
 
-# Computer Measurement Group   Cmg07   San Diego   December 2 7
+# Computer Measurement Group - CMG07 - San Diego - December 2-7
 
 
 
@@ -25,4 +25,4 @@ As usual I will be presenting at <a href="http://www.cmg.org">CMG07</a>. I have 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Computer_Measurement_Group_-_CMG07_-_San_Diego_-_December_2-7.txt
+[1] Source: https://perfcap.blogspot.com/2007/11/computer-measurement-group-cmg07-san.html

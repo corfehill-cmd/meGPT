@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Going Solar? Get A Weather Station..."
+title: "Going Solar? Get a weather station..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Going_Solar?_Get_a_weather_station....txt"
+resource: "https://perfcap.blogspot.com/2007/01/going-solar-get-weather-station.html"
 tags:
   - article
 ---
 
-# Going Solar? Get A Weather Station...
+# Going Solar? Get a weather station...
 
 
 
@@ -25,4 +25,4 @@ There's nothing line a 36 hour power outage (a tree fell and took the power line
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Going_Solar?_Get_a_weather_station....txt
+[1] Source: https://perfcap.blogspot.com/2007/01/going-solar-get-weather-station.html

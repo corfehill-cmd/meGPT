@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Free Communication Is Disrupting Hierarchies"
+title: "Free Communication is Disrupting Hierarchies"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Free_Communication_is_Disrupting_Hierarchies.txt"
+resource: "https://perfcap.blogspot.com/2013/11/free-communication-is-disrupting.html"
 tags:
   - article
 ---
 
-# Free Communication Is Disrupting Hierarchies
+# Free Communication is Disrupting Hierarchies
 
 
 
@@ -29,4 +29,4 @@ Somewhat related discussions are taking place at the <a href="http://defragcon.c
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Free_Communication_is_Disrupting_Hierarchies.txt
+[1] Source: https://perfcap.blogspot.com/2013/11/free-communication-is-disrupting.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Extracting Useful Exacct Process Data"
+title: "Extracting useful exacct process data"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Extracting_useful_exacct_process_data.txt"
+resource: "https://perfcap.blogspot.com/2005/03/extracting-useful-exacct-process-data.html"
 tags:
   - article
 ---
 
-# Extracting Useful Exacct Process Data
+# Extracting useful exacct process data
 
 
 
@@ -25,4 +25,4 @@ I modified the /usr/demo/libexacct/exdump.c example code to include the data str
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Extracting_useful_exacct_process_data.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/extracting-useful-exacct-process-data.html

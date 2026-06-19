@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Installation Day 4"
+title: "Solar Power - Installation Day 4"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Day_4.txt"
+resource: "https://perfcap.blogspot.com/2009/07/solar-power-installation-day-4.html"
 tags:
   - article
 ---
 
-# Solar Power   Installation Day 4
+# Solar Power - Installation Day 4
 
 
 
@@ -25,4 +25,4 @@ All the panels are on the roof, the trench has been re-filled, the wiring is don
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Day_4.txt
+[1] Source: https://perfcap.blogspot.com/2009/07/solar-power-installation-day-4.html

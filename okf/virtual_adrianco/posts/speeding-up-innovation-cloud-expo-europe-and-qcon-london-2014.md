@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Speeding Up Innovation   Cloud Expo Europe And Qcon London 2014"
+title: "Speeding Up Innovation - Cloud Expo Europe and QCon London 2014"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Speeding_Up_Innovation_-_Cloud_Expo_Europe_and_QCon_London_2014.txt"
+resource: "https://perfcap.blogspot.com/2014/03/speeding-up-innovation-cloud-expo.html"
 tags:
   - article
 ---
 
-# Speeding Up Innovation   Cloud Expo Europe And Qcon London 2014
+# Speeding Up Innovation - Cloud Expo Europe and QCon London 2014
 
 
 
@@ -33,4 +33,4 @@ Technologies and practices that have been developed in the leading web scale com
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Speeding_Up_Innovation_-_Cloud_Expo_Europe_and_QCon_London_2014.txt
+[1] Source: https://perfcap.blogspot.com/2014/03/speeding-up-innovation-cloud-expo.html

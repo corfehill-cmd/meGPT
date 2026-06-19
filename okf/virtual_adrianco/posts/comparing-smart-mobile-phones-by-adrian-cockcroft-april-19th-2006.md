@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Comparing Smart Mobile Phones | By Adrian Cockcroft | April 19Th, 2006"
+title: "Comparing Smart Mobile Phones | by Adrian Cockcroft | April 19th, 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Comparing_Smart_Mobile_Phones_|_by_Adrian_Cockcroft_|_April_19th,_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/04/comparing-smart-mobile-phones-by.html"
 tags:
   - article
 ---
 
-# Comparing Smart Mobile Phones | By Adrian Cockcroft | April 19Th, 2006
+# Comparing Smart Mobile Phones | by Adrian Cockcroft | April 19th, 2006
 
 
 
@@ -25,4 +25,4 @@ Its been a while since I last posted, mostly due to a long vacation. We stayed w
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Comparing_Smart_Mobile_Phones_|_by_Adrian_Cockcroft_|_April_19th,_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/04/comparing-smart-mobile-phones-by.html

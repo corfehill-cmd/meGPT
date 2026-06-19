@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Sun Zfs And Thumper (X4500)"
+title: "Sun ZFS and Thumper (x4500)"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Sun_ZFS_and_Thumper_(x4500).txt"
+resource: "https://perfcap.blogspot.com/2006/08/sun-zfs-and-thumper-x4500.html"
 tags:
   - article
 ---
 
-# Sun Zfs And Thumper (X4500)
+# Sun ZFS and Thumper (x4500)
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/08/sun-zfs-and-thumper-x4500.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Sun_ZFS_and_Thumper_(x4500).txt
+[1] Source: https://perfcap.blogspot.com/2006/08/sun-zfs-and-thumper-x4500.html

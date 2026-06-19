@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 11 26 Sustainability Talks From Aws Re Invent 2023   Post Event Update With Videos 969100C46A6A"
+title: "Sustainability Talks from AWS re:Invent 2023 — Post Event Update with Videos and Reviews"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-11-26_Sustainability-Talks-from-AWS-re-Invent-2023---Post-Event-Update-with-Videos-969100c46a6a.txt"
+resource: "https://medium.com/@adrianco/2023-11-26_Sustainability-Talks-from-AWS-re-Invent-2023---Post-Event-Update-with-Videos-969100c46a6a"
 tags:
   - article
 ---
 
-# 2023 11 26 Sustainability Talks From Aws Re Invent 2023   Post Event Update With Videos 969100C46A6A
+# Sustainability Talks from AWS re:Invent 2023 — Post Event Update with Videos and Reviews
 
 
 
@@ -28,4 +28,4 @@ There hasn’t been any other visible progress, and most of the people I used to
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-11-26_Sustainability-Talks-from-AWS-re-Invent-2023---Post-Event-Update-with-Videos-969100c46a6a.txt
+[1] Source: https://medium.com/@adrianco/2023-11-26_Sustainability-Talks-from-AWS-re-Invent-2023---Post-Event-Update-with-Videos-969100c46a6a

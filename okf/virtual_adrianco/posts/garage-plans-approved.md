@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage Plans Approved"
+title: "Garage plans approved"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_plans_approved.txt"
+resource: "https://perfcap.blogspot.com/2010/03/garage-plans-approved.html"
 tags:
   - article
 ---
 
-# Garage Plans Approved
+# Garage plans approved
 
 
 
@@ -25,4 +25,4 @@ The county turned around the final update immediately and I got a letter in the 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_plans_approved.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/garage-plans-approved.html

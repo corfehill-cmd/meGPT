@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Hiring A Cloud Platform Engineer At Netflix"
+title: "Hiring a cloud platform engineer at Netflix"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Hiring_a_cloud_platform_engineer_at_Netflix.txt"
+resource: "https://perfcap.blogspot.com/2010/04/hiring-cloud-platform-engineer-at.html"
 tags:
   - article
 ---
 
-# Hiring A Cloud Platform Engineer At Netflix
+# Hiring a cloud platform engineer at Netflix
 
 
 
@@ -25,4 +25,4 @@ If you are interested in <a href="http://www.cloudera.com/blog/2010/04/cap-confu
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Hiring_a_cloud_platform_engineer_at_Netflix.txt
+[1] Source: https://perfcap.blogspot.com/2010/04/hiring-cloud-platform-engineer-at.html

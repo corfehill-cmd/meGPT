@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cmg08 Draft Agenda   Las Vegas In December"
+title: "CMG08 Draft Agenda - Las Vegas in December"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/CMG08_Draft_Agenda_-_Las_Vegas_in_December.txt"
+resource: "https://perfcap.blogspot.com/2008/08/cmg08-draft-agenda-las-vegas-in.html"
 tags:
   - article
 ---
 
-# Cmg08 Draft Agenda   Las Vegas In December
+# CMG08 Draft Agenda - Las Vegas in December
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2008/08/cmg08-draft-agenda-las-vegas-in.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/CMG08_Draft_Agenda_-_Las_Vegas_in_December.txt
+[1] Source: https://perfcap.blogspot.com/2008/08/cmg08-draft-agenda-las-vegas-in.html

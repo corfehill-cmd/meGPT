@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Looking Back At 2012, With Pointers To 2013"
+title: "Looking back at 2012, with pointers to 2013"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Looking_back_at_2012,_with_pointers_to_2013.txt"
+resource: "https://perfcap.blogspot.com/2013/01/looking-back-at-2012-with-pointers-to.html"
 tags:
   - article
 ---
 
-# Looking Back At 2012, With Pointers To 2013
+# Looking back at 2012, with pointers to 2013
 
 
 
@@ -30,4 +30,4 @@ This is one of those pivotal changes, similar to the change from having predomin
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Looking_back_at_2012,_with_pointers_to_2013.txt
+[1] Source: https://perfcap.blogspot.com/2013/01/looking-back-at-2012-with-pointers-to.html

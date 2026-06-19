@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Sunworld Columns At Itworld"
+title: "SunWorld Columns at ITworld"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/SunWorld_Columns_at_ITworld.txt"
+resource: "https://perfcap.blogspot.com/2005/10/sunworld-columns-at-itworld.html"
 tags:
   - article
 ---
 
-# Sunworld Columns At Itworld
+# SunWorld Columns at ITworld
 
 
 
@@ -25,4 +25,4 @@ I found that the columns I wrote between 1995 and 1999 all seems to be online, b
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/SunWorld_Columns_at_ITworld.txt
+[1] Source: https://perfcap.blogspot.com/2005/10/sunworld-columns-at-itworld.html

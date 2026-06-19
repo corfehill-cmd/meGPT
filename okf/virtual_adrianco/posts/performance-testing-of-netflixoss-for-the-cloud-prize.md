@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Performance Testing Of Netflixoss For The Cloud Prize"
+title: "Performance Testing of NetflixOSS for the Cloud Prize"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Performance_Testing_of_NetflixOSS_for_the_Cloud_Prize.txt"
+resource: "https://perfcap.blogspot.com/2013/09/performance-testing-of-netflixoss-for.html"
 tags:
   - article
 ---
 
-# Performance Testing Of Netflixoss For The Cloud Prize
+# Performance Testing of NetflixOSS for the Cloud Prize
 
 
 
@@ -33,4 +33,4 @@ When we setup the <a href="https://github.com/Netflix/Cloud-Prize" target="_blan
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Performance_Testing_of_NetflixOSS_for_the_Cloud_Prize.txt
+[1] Source: https://perfcap.blogspot.com/2013/09/performance-testing-of-netflixoss-for.html

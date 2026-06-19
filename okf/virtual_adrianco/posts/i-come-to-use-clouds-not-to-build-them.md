@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "I Come To Use Clouds, Not To Build Them..."
+title: "I come to use clouds, not to build them..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/I_come_to_use_clouds,_not_to_build_them....txt"
+resource: "https://perfcap.blogspot.com/2011/08/i-come-to-use-clouds-not-to-build-them.html"
 tags:
   - article
 ---
 
-# I Come To Use Clouds, Not To Build Them...
+# I come to use clouds, not to build them...
 
 
 
@@ -31,4 +31,4 @@ URL: https://perfcap.blogspot.com/2011/08/i-come-to-use-clouds-not-to-build-them
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/I_come_to_use_clouds,_not_to_build_them....txt
+[1] Source: https://perfcap.blogspot.com/2011/08/i-come-to-use-clouds-not-to-build-them.html

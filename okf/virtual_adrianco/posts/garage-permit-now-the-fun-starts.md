@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage Permit   Now The Fun Starts"
+title: "Garage Permit - now the fun starts"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_Permit_-_now_the_fun_starts.txt"
+resource: "https://perfcap.blogspot.com/2010/03/garage-permit-now-fun-starts.html"
 tags:
   - article
 ---
 
-# Garage Permit   Now The Fun Starts
+# Garage Permit - now the fun starts
 
 
 
@@ -25,4 +25,4 @@ I went into the county office and picked up the permit, paid them some more mone
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_Permit_-_now_the_fun_starts.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/garage-permit-now-fun-starts.html

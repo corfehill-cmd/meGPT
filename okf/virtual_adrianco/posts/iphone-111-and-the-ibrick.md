@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Iphone 1.1.1 And The Ibrick"
+title: "iPhone 1.1.1 and the iBrick"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/iPhone_1.1.1_and_the_iBrick.txt"
+resource: "https://perfcap.blogspot.com/2007/10/iphone-111-and-ibrick.html"
 tags:
   - article
 ---
 
-# Iphone 1.1.1 And The Ibrick
+# iPhone 1.1.1 and the iBrick
 
 
 
@@ -25,4 +25,4 @@ This blog just got mentioned by a <a href="http://www.wired.com/gadgets/mac/comm
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/iPhone_1.1.1_and_the_iBrick.txt
+[1] Source: https://perfcap.blogspot.com/2007/10/iphone-111-and-ibrick.html

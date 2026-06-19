@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   More Panels And Nissan Leaf"
+title: "Solar Power - More panels and Nissan Leaf"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_More_panels_and_Nissan_Leaf.txt"
+resource: "https://perfcap.blogspot.com/2010/12/solar-power-more-panels-and-nissan-leaf.html"
 tags:
   - article
 ---
 
-# Solar Power   More Panels And Nissan Leaf
+# Solar Power - More panels and Nissan Leaf
 
 
 
@@ -25,4 +25,4 @@ Solar City will triple our solar power output in February, and we just ordered a
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_More_panels_and_Nissan_Leaf.txt
+[1] Source: https://perfcap.blogspot.com/2010/12/solar-power-more-panels-and-nissan-leaf.html

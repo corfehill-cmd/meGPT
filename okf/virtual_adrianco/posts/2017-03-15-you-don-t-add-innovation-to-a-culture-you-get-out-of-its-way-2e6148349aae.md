@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2017 03 15 You Don T Add Innovation To A Culture  You Get Out Of Its Way  2E6148349Aae"
+title: "Thanks for the great post Stephen!"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-03-15_You-don-t-add-innovation-to-a-culture--you-get-out-of-its-way--2e6148349aae.txt"
+resource: "https://medium.com/@adrianco/2017-03-15_You-don-t-add-innovation-to-a-culture--you-get-out-of-its-way--2e6148349aae"
 tags:
   - article
 ---
 
-# 2017 03 15 You Don T Add Innovation To A Culture  You Get Out Of Its Way  2E6148349Aae
+# Thanks for the great post Stephen!
 
 
 
@@ -24,4 +24,4 @@ You don’t add innovation to a culture, you get out of its way. I’ve often to
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-03-15_You-don-t-add-innovation-to-a-culture--you-get-out-of-its-way--2e6148349aae.txt
+[1] Source: https://medium.com/@adrianco/2017-03-15_You-don-t-add-innovation-to-a-culture--you-get-out-of-its-way--2e6148349aae

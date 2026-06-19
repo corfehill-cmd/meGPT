@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Moving Planet   Day Of Action Saturday 24Th Sept"
+title: "Moving Planet - Day of Action Saturday 24th Sept"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Moving_Planet_-_Day_of_Action_Saturday_24th_Sept.txt"
+resource: "https://perfcap.blogspot.com/2011/09/moving-planet-day-of-action-saturday.html"
 tags:
   - article
 ---
 
-# Moving Planet   Day Of Action Saturday 24Th Sept
+# Moving Planet - Day of Action Saturday 24th Sept
 
 
 
@@ -25,4 +25,4 @@ There is a world-wide movement coordinated by <a href="http://www.350.org/">the 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Moving_Planet_-_Day_of_Action_Saturday_24th_Sept.txt
+[1] Source: https://perfcap.blogspot.com/2011/09/moving-planet-day-of-action-saturday.html

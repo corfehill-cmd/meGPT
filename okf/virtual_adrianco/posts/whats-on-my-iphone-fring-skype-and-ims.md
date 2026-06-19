@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What'S On My Iphone: Fring (Skype And Im'S)"
+title: "What's on my iPhone: Fring (Skype and IM's)"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What's_on_my_iPhone:_Fring_(Skype_and_IM's).txt"
+resource: "https://perfcap.blogspot.com/2009/02/whats-on-my-iphone-fring-skype-and-ims.html"
 tags:
   - article
 ---
 
-# What'S On My Iphone: Fring (Skype And Im'S)
+# What's on my iPhone: Fring (Skype and IM's)
 
 
 
@@ -25,4 +25,4 @@ When I want to make an international call from my iPhone (or from my home phone)
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What's_on_my_iPhone:_Fring_(Skype_and_IM's).txt
+[1] Source: https://perfcap.blogspot.com/2009/02/whats-on-my-iphone-fring-skype-and-ims.html

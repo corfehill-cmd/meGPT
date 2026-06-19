@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2017 09 01 Open Letter To My Sun Friends At Oracle  Updated From 2010 Post  1F8B2Bcba693"
+title: "Open letter to my Sun friends at Oracle (updated from 2010 post)"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-09-01_Open-letter-to-my-Sun-friends-at-Oracle--updated-from-2010-post--1f8b2bcba693.txt"
+resource: "https://medium.com/@adrianco/2017-09-01_Open-letter-to-my-Sun-friends-at-Oracle--updated-from-2010-post--1f8b2bcba693"
 tags:
   - article
 ---
 
-# 2017 09 01 Open Letter To My Sun Friends At Oracle  Updated From 2010 Post  1F8B2Bcba693
+# Open letter to my Sun friends at Oracle (updated from 2010 post)
 
 
 
@@ -32,4 +32,4 @@ I’ve set up my twitter account for open DM’s and will try to keep on top of 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-09-01_Open-letter-to-my-Sun-friends-at-Oracle--updated-from-2010-post--1f8b2bcba693.txt
+[1] Source: https://medium.com/@adrianco/2017-09-01_Open-letter-to-my-Sun-friends-at-Oracle--updated-from-2010-post--1f8b2bcba693

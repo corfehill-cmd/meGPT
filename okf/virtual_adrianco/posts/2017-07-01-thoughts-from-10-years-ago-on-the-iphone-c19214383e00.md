@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2017 07 01 Thoughts From 10 Years Ago On The Iphone C19214383E00"
+title: "Thoughts from 10 years ago on the iPhone"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-07-01_Thoughts-from-10-years-ago-on-the-iPhone-c19214383e00.txt"
+resource: "https://medium.com/@adrianco/2017-07-01_Thoughts-from-10-years-ago-on-the-iPhone-c19214383e00"
 tags:
   - article
 ---
 
-# 2017 07 01 Thoughts From 10 Years Ago On The Iphone C19214383E00
+# Thoughts from 10 years ago on the iPhone
 
 
 
@@ -32,4 +32,4 @@ Lets look at the timing of the announcement. As a new entrant in the mobile phon
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-07-01_Thoughts-from-10-years-ago-on-the-iPhone-c19214383e00.txt
+[1] Source: https://medium.com/@adrianco/2017-07-01_Thoughts-from-10-years-ago-on-the-iPhone-c19214383e00

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Usenix 08   Tutorials And Invited Paper   Boston June 23 27"
+title: "Usenix 08 - Tutorials and Invited Paper - Boston June 23-27"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Usenix_08_-_Tutorials_and_Invited_Paper_-_Boston_June_23-27.txt"
+resource: "https://perfcap.blogspot.com/2008/05/usenix-08-tutorials-and-invited-paper.html"
 tags:
   - article
 ---
 
-# Usenix 08   Tutorials And Invited Paper   Boston June 23 27
+# Usenix 08 - Tutorials and Invited Paper - Boston June 23-27
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2008/05/usenix-08-tutorials-and-invited-paper.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Usenix_08_-_Tutorials_and_Invited_Paper_-_Boston_June_23-27.txt
+[1] Source: https://perfcap.blogspot.com/2008/05/usenix-08-tutorials-and-invited-paper.html

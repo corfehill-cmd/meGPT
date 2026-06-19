@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Monitoring Consumption"
+title: "Solar Power - Monitoring Consumption"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Monitoring_Consumption.txt"
+resource: "https://perfcap.blogspot.com/2009/09/solar-power-monitoring-consumption.html"
 tags:
   - article
 ---
 
-# Solar Power   Monitoring Consumption
+# Solar Power - Monitoring Consumption
 
 
 
@@ -25,4 +25,4 @@ We finally got Solarcity to install the consumption monitor, and we are now figu
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Monitoring_Consumption.txt
+[1] Source: https://perfcap.blogspot.com/2009/09/solar-power-monitoring-consumption.html

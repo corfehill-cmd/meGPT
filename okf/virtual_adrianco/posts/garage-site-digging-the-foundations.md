@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage Site   Digging The Foundations"
+title: "Garage Site - digging the foundations"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_Site_-_digging_the_foundations.txt"
+resource: "https://perfcap.blogspot.com/2010/03/garage-site-digging-foundations.html"
 tags:
   - article
 ---
 
-# Garage Site   Digging The Foundations
+# Garage Site - digging the foundations
 
 
 
@@ -25,4 +25,4 @@ Today the new leach-field pipe was inspected, and the foundations were dug, I di
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_Site_-_digging_the_foundations.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/garage-site-digging-foundations.html

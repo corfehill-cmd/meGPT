@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Patent On Performance And Capacity Planning"
+title: "Patent on Performance and Capacity Planning"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Patent_on_Performance_and_Capacity_Planning.txt"
+resource: "https://perfcap.blogspot.com/2008/03/patent-on-performance-and-capacity.html"
 tags:
   - article
 ---
 
-# Patent On Performance And Capacity Planning
+# Patent on Performance and Capacity Planning
 
 
 
@@ -25,4 +25,4 @@ Here is another patent that I filed while working at Sun.<br /><br /><a href="ht
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Patent_on_Performance_and_Capacity_Planning.txt
+[1] Source: https://perfcap.blogspot.com/2008/03/patent-on-performance-and-capacity.html

@@ -2,7 +2,7 @@
 type: Article
 title: "2016 06 05 Hi Joe Emison  Thanks For The Comment  262D19578F35"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2016-06-05_Hi-Joe-Emison--thanks-for-the-comment--262d19578f35.txt"
+resource: "https://medium.com/@adrianco/2016-06-05_Hi-Joe-Emison--thanks-for-the-comment--262d19578f35"
 tags:
   - article
 ---
@@ -24,4 +24,4 @@ Hi Joe Emison, thanks for the comment. I agree there is a lot of inertia. My poi
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2016-06-05_Hi-Joe-Emison--thanks-for-the-comment--262d19578f35.txt
+[1] Source: https://medium.com/@adrianco/2016-06-05_Hi-Joe-Emison--thanks-for-the-comment--262d19578f35

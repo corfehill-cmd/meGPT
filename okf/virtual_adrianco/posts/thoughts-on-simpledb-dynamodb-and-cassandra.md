@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Thoughts On Simpledb, Dynamodb And Cassandra"
+title: "Thoughts on SimpleDB, DynamoDB and Cassandra"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Thoughts_on_SimpleDB,_DynamoDB_and_Cassandra.txt"
+resource: "https://perfcap.blogspot.com/2012/01/thoughts-on-simpledb-dynamodb-and.html"
 tags:
   - article
 ---
 
-# Thoughts On Simpledb, Dynamodb And Cassandra
+# Thoughts on SimpleDB, DynamoDB and Cassandra
 
 
 
@@ -25,4 +25,4 @@ I've been getting a lot of questions about DynamoDB, and these are my personal t
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Thoughts_on_SimpleDB,_DynamoDB_and_Cassandra.txt
+[1] Source: https://perfcap.blogspot.com/2012/01/thoughts-on-simpledb-dynamodb-and.html

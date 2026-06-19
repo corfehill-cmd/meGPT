@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Macos X Leopard, Iphone And Stereo Bluetooth Headphones   A2Dp"
+title: "MacOS X Leopard, iPhone and Stereo Bluetooth Headphones - A2DP"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/MacOS_X_Leopard,_iPhone_and_Stereo_Bluetooth_Headphones_-_A2DP.txt"
+resource: "https://perfcap.blogspot.com/2007/12/macos-x-leopard-and-stereo-bluetooth.html"
 tags:
   - article
 ---
 
-# Macos X Leopard, Iphone And Stereo Bluetooth Headphones   A2Dp
+# MacOS X Leopard, iPhone and Stereo Bluetooth Headphones - A2DP
 
 
 
@@ -25,4 +25,4 @@ Over a year ago I bought stereo bluetooth headphones on eBay, its a multifunctio
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/MacOS_X_Leopard,_iPhone_and_Stereo_Bluetooth_Headphones_-_A2DP.txt
+[1] Source: https://perfcap.blogspot.com/2007/12/macos-x-leopard-and-stereo-bluetooth.html

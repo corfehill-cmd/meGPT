@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Tagging Blogger And Technorati | Adrian Cockcroft | 8Th March 2006"
+title: "Tagging Blogger and Technorati | Adrian Cockcroft | 8th March 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Tagging_Blogger_and_Technorati_|_Adrian_Cockcroft_|_8th_March_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/03/tagging-blogger-and-technorati-adrian.html"
 tags:
   - article
 ---
 
-# Tagging Blogger And Technorati | Adrian Cockcroft | 8Th March 2006
+# Tagging Blogger and Technorati | Adrian Cockcroft | 8th March 2006
 
 
 
@@ -25,4 +25,4 @@ Blogger doesn't provide an integrated way to tag my postings (as far as I can te
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Tagging_Blogger_and_Technorati_|_Adrian_Cockcroft_|_8th_March_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/03/tagging-blogger-and-technorati-adrian.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage   Pouring And Finishing The Foundation"
+title: "Garage - Pouring and Finishing the Foundation"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_-_Pouring_and_Finishing_the_Foundation.txt"
+resource: "https://perfcap.blogspot.com/2010/04/garage-pouring-and-finishing-foundation.html"
 tags:
   - article
 ---
 
-# Garage   Pouring And Finishing The Foundation
+# Garage - Pouring and Finishing the Foundation
 
 
 
@@ -25,4 +25,4 @@ Last Friday we poured concrete, and then it poured rain. Here's a stop-motion vi
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_-_Pouring_and_Finishing_the_Foundation.txt
+[1] Source: https://perfcap.blogspot.com/2010/04/garage-pouring-and-finishing-foundation.html

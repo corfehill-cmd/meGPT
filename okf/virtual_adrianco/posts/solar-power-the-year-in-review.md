@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   The Year In Review"
+title: "Solar Power - The Year in Review"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_The_Year_in_Review.txt"
+resource: "https://perfcap.blogspot.com/2010/09/solar-power-year-in-review.html"
 tags:
   - article
 ---
 
-# Solar Power   The Year In Review
+# Solar Power - The Year in Review
 
 
 
@@ -25,4 +25,4 @@ For our full story on solar <a href="http://perfcap.blogspot.com/search?q=solar"
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_The_Year_in_Review.txt
+[1] Source: https://perfcap.blogspot.com/2010/09/solar-power-year-in-review.html

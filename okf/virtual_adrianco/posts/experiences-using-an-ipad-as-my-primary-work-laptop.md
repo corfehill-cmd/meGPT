@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Experiences Using An Ipad As My Primary Work Laptop"
+title: "Experiences using an iPad as my primary work laptop"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Experiences_using_an_iPad_as_my_primary_work_laptop.txt"
+resource: "https://perfcap.blogspot.com/2010/04/experiences-using-ipad-as-my-primary.html"
 tags:
   - article
 ---
 
-# Experiences Using An Ipad As My Primary Work Laptop
+# Experiences using an iPad as my primary work laptop
 
 
 
@@ -25,4 +25,4 @@ I spent the last week carrying my iPad with me to meetings and using it as my ma
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Experiences_using_an_iPad_as_my_primary_work_laptop.txt
+[1] Source: https://perfcap.blogspot.com/2010/04/experiences-using-ipad-as-my-primary.html

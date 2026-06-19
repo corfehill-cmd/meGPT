@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Xe Toolkit 1.2   New Portable Performance Tools From Rich Pettit"
+title: "XE Toolkit 1.2 - new portable performance tools from Rich Pettit"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/XE_Toolkit_1.2_-_new_portable_performance_tools_from_Rich_Pettit.txt"
+resource: "https://perfcap.blogspot.com/2008/04/xe-toolkit-12-new-portable-performance.html"
 tags:
   - article
 ---
 
-# Xe Toolkit 1.2   New Portable Performance Tools From Rich Pettit
+# XE Toolkit 1.2 - new portable performance tools from Rich Pettit
 
 
 
@@ -25,4 +25,4 @@ Rich just updated the portable Java based XE tookit, it even runs on mainframes 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/XE_Toolkit_1.2_-_new_portable_performance_tools_from_Rich_Pettit.txt
+[1] Source: https://perfcap.blogspot.com/2008/04/xe-toolkit-12-new-portable-performance.html

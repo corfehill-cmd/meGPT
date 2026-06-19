@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "How Busy Is Your Cpu, Really?"
+title: "How busy is your CPU, really?"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/How_busy_is_your_CPU,_really?.txt"
+resource: "https://perfcap.blogspot.com/2005/10/how-busy-is-your-cpu-really.html"
 tags:
   - article
 ---
 
-# How Busy Is Your Cpu, Really?
+# How busy is your CPU, really?
 
 
 
@@ -25,4 +25,4 @@ Just in case you thought that you could compare your CPU utilization data across
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/How_busy_is_your_CPU,_really?.txt
+[1] Source: https://perfcap.blogspot.com/2005/10/how-busy-is-your-cpu-really.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2022 08 09 What Adrian Did Next   Joined Orionx To Do Some Analyst And Advisory Work 843C86Cbdd17"
+title: "What Adrian Did Next — Joined OrionX to do some analyst and advisory work"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2022-08-09_What-Adrian-Did-Next---Joined-OrionX-to-do-some-analyst-and-advisory-work-843c86cbdd17.txt"
+resource: "https://medium.com/@adrianco/2022-08-09_What-Adrian-Did-Next---Joined-OrionX-to-do-some-analyst-and-advisory-work-843c86cbdd17"
 tags:
   - article
 ---
 
-# 2022 08 09 What Adrian Did Next   Joined Orionx To Do Some Analyst And Advisory Work 843C86Cbdd17
+# What Adrian Did Next — Joined OrionX to do some analyst and advisory work
 
 
 
@@ -26,4 +26,4 @@ I retired from Amazon and full time corporate work at the beginning of June 2022
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2022-08-09_What-Adrian-Did-Next---Joined-OrionX-to-do-some-analyst-and-advisory-work-843c86cbdd17.txt
+[1] Source: https://medium.com/@adrianco/2022-08-09_What-Adrian-Did-Next---Joined-OrionX-to-do-some-analyst-and-advisory-work-843c86cbdd17

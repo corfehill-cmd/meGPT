@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2022 05 23 What Adrian Did Next   Retire 3Cb529229646"
+title: "What Adrian Did Next — Retire"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2022-05-23_What-Adrian-Did-Next---Retire-3cb529229646.txt"
+resource: "https://medium.com/@adrianco/2022-05-23_What-Adrian-Did-Next---Retire-3cb529229646"
 tags:
   - article
 ---
 
-# 2022 05 23 What Adrian Did Next   Retire 3Cb529229646
+# What Adrian Did Next — Retire
 
 
 
@@ -30,4 +30,4 @@ I’m going to take a break, re-design the IoT systems for my house near Mont
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2022-05-23_What-Adrian-Did-Next---Retire-3cb529229646.txt
+[1] Source: https://medium.com/@adrianco/2022-05-23_What-Adrian-Did-Next---Retire-3cb529229646

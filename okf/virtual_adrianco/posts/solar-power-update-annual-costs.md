@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power Update   Annual Costs"
+title: "Solar Power Update - Annual Costs"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_Update_-_Annual_Costs.txt"
+resource: "https://perfcap.blogspot.com/2012/09/solar-power-update-annual-costs.html"
 tags:
   - article
 ---
 
-# Solar Power Update   Annual Costs
+# Solar Power Update - Annual Costs
 
 
 
@@ -28,4 +28,4 @@ Our system is a grid tied net metering setup. This means that we generate more e
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_Update_-_Annual_Costs.txt
+[1] Source: https://perfcap.blogspot.com/2012/09/solar-power-update-annual-costs.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Data Logged By Flow Accounting"
+title: "Data logged by flow accounting"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Data_logged_by_flow_accounting.txt"
+resource: "https://perfcap.blogspot.com/2005/03/data-logged-by-flow-accounting.html"
 tags:
   - article
 ---
 
-# Data Logged By Flow Accounting
+# Data logged by flow accounting
 
 
 
@@ -25,4 +25,4 @@ The data comes in two forms, outgoing traffic is tagged with the userid and proj
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Data_logged_by_flow_accounting.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/data-logged-by-flow-accounting.html

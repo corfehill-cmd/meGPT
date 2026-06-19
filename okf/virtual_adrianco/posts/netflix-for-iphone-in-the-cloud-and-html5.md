@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Netflix For Iphone In The Cloud And Html5"
+title: "Netflix for iPhone in the cloud and HTML5"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Netflix_for_iPhone_in_the_cloud_and_HTML5.txt"
+resource: "https://perfcap.blogspot.com/2010/08/netflix-for-iphone-in-cloud-and-html5.html"
 tags:
   - article
 ---
 
-# Netflix For Iphone In The Cloud And Html5
+# Netflix for iPhone in the cloud and HTML5
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2010/08/netflix-for-iphone-in-cloud-and-html5.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Netflix_for_iPhone_in_the_cloud_and_HTML5.txt
+[1] Source: https://perfcap.blogspot.com/2010/08/netflix-for-iphone-in-cloud-and-html5.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2022 06 21 What Adrian Did Next   Part 2   Sun Microsystems C1A512C8284"
+title: "What Adrian Did Next — Part 2 — Sun Microsystems"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2022-06-21_What-Adrian-Did-Next---Part-2---Sun-Microsystems-c1a512c8284.txt"
+resource: "https://medium.com/@adrianco/2022-06-21_What-Adrian-Did-Next---Part-2---Sun-Microsystems-c1a512c8284"
 tags:
   - article
 ---
 
-# 2022 06 21 What Adrian Did Next   Part 2   Sun Microsystems C1A512C8284
+# What Adrian Did Next — Part 2 — Sun Microsystems
 
 
 
@@ -26,4 +26,4 @@ I spent six years at Cambridge Consultants, building some interesting systems, m
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2022-06-21_What-Adrian-Did-Next---Part-2---Sun-Microsystems-c1a512c8284.txt
+[1] Source: https://medium.com/@adrianco/2022-06-21_What-Adrian-Did-Next---Part-2---Sun-Microsystems-c1a512c8284

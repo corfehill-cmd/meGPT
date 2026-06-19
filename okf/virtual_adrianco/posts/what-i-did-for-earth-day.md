@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What I Did For Earth Day..."
+title: "What I did for earth day..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What_I_did_for_earth_day....txt"
+resource: "https://perfcap.blogspot.com/2009/04/what-i-did-for-earth-day.html"
 tags:
   - article
 ---
 
-# What I Did For Earth Day...
+# What I did for earth day...
 
 
 
@@ -25,4 +25,4 @@ Update: the electric mower works well, cuts better than my old gas mower, and th
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What_I_did_for_earth_day....txt
+[1] Source: https://perfcap.blogspot.com/2009/04/what-i-did-for-earth-day.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Myphone 2.0 Case Comes Off The 3D Printer"
+title: "myPhone 2.0 Case comes off the 3D printer"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/myPhone_2.0_Case_comes_off_the_3D_printer.txt"
+resource: "https://perfcap.blogspot.com/2007/04/myphone-20-case-comes-off-3d-printer.html"
 tags:
   - article
 ---
 
-# Myphone 2.0 Case Comes Off The 3D Printer
+# myPhone 2.0 Case comes off the 3D printer
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2007/04/myphone-20-case-comes-off-3d-printer.h
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/myPhone_2.0_Case_comes_off_the_3D_printer.txt
+[1] Source: https://perfcap.blogspot.com/2007/04/myphone-20-case-comes-off-3d-printer.html

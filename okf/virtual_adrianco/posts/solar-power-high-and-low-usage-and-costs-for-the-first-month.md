@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   High And Low Usage And Costs For The First Month"
+title: "Solar Power - High and low usage and costs for the first month"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_High_and_low_usage_and_costs_for_the_first_month.txt"
+resource: "https://perfcap.blogspot.com/2009/10/solar-power-high-and-low-usage-and.html"
 tags:
   - article
 ---
 
-# Solar Power   High And Low Usage And Costs For The First Month
+# Solar Power - High and low usage and costs for the first month
 
 
 
@@ -25,4 +25,4 @@ The solar array continues to generate over 20KWh on a clear day, but our daily c
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_High_and_low_usage_and_costs_for_the_first_month.txt
+[1] Source: https://perfcap.blogspot.com/2009/10/solar-power-high-and-low-usage-and.html

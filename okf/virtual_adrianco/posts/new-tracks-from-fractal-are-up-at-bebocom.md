@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "New Tracks From Fractal Are Up At Bebo.Com"
+title: "New tracks from Fractal are up at bebo.com"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/New_tracks_from_Fractal_are_up_at_bebo.com.txt"
+resource: "https://perfcap.blogspot.com/2008/12/new-tracks-from-fractal-are-up-at.html"
 tags:
   - article
 ---
 
-# New Tracks From Fractal Are Up At Bebo.Com
+# New tracks from Fractal are up at bebo.com
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2008/12/new-tracks-from-fractal-are-up-at.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/New_tracks_from_Fractal_are_up_at_bebo.com.txt
+[1] Source: https://perfcap.blogspot.com/2008/12/new-tracks-from-fractal-are-up-at.html

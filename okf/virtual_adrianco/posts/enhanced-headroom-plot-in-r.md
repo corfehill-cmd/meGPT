@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Enhanced Headroom Plot In R"
+title: "Enhanced headroom plot in R"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Enhanced_headroom_plot_in_R.txt"
+resource: "https://perfcap.blogspot.com/2008/07/enhanced-headroom-plot-in-r.html"
 tags:
   - article
 ---
 
-# Enhanced Headroom Plot In R
+# Enhanced headroom plot in R
 
 
 
@@ -25,4 +25,4 @@ For some reason I seem to find time to <a href="http://www.r-project.org">write 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Enhanced_headroom_plot_in_R.txt
+[1] Source: https://perfcap.blogspot.com/2008/07/enhanced-headroom-plot-in-r.html

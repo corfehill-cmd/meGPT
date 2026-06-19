@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Tutorials And Training On Cloud Architecture And Netflixoss"
+title: "Tutorials and Training on Cloud Architecture and NetflixOSS"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Tutorials_and_Training_on_Cloud_Architecture_and_NetflixOSS.txt"
+resource: "https://perfcap.blogspot.com/2013/04/tutorials-and-training-on-cloud.html"
 tags:
   - article
 ---
 
-# Tutorials And Training On Cloud Architecture And Netflixoss
+# Tutorials and Training on Cloud Architecture and NetflixOSS
 
 
 
@@ -33,4 +33,4 @@ When I get back from L
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Tutorials_and_Training_on_Cloud_Architecture_and_NetflixOSS.txt
+[1] Source: https://perfcap.blogspot.com/2013/04/tutorials-and-training-on-cloud.html

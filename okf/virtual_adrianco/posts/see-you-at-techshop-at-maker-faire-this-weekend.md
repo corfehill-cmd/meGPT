@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "See You At Techshop At Maker Faire This Weekend"
+title: "See you at Techshop at Maker Faire this weekend"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/See_you_at_Techshop_at_Maker_Faire_this_weekend.txt"
+resource: "https://perfcap.blogspot.com/2007/05/see-you-at-techshop-at-maker-faire-this.html"
 tags:
   - article
 ---
 
-# See You At Techshop At Maker Faire This Weekend
+# See you at Techshop at Maker Faire this weekend
 
 
 
@@ -25,4 +25,4 @@ I've been using <a href="http://techshop.ws">Techshop</a> to make cases for my h
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/See_you_at_Techshop_at_Maker_Faire_this_weekend.txt
+[1] Source: https://perfcap.blogspot.com/2007/05/see-you-at-techshop-at-maker-faire-this.html

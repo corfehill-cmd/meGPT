@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Fractal Performing Monkey'S Paw At Hotel Utah"
+title: "Fractal Performing Monkey's Paw at Hotel Utah"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Fractal_Performing_Monkey's_Paw_at_Hotel_Utah.txt"
+resource: "https://perfcap.blogspot.com/2009/01/fractal-performing-monkeys-paw-at-hotel.html"
 tags:
   - article
 ---
 
-# Fractal Performing Monkey'S Paw At Hotel Utah
+# Fractal Performing Monkey's Paw at Hotel Utah
 
 
 
@@ -25,4 +25,4 @@ All the songs in Fractal's set in SF are now up on YouTube, I also recorded the 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Fractal_Performing_Monkey's_Paw_at_Hotel_Utah.txt
+[1] Source: https://perfcap.blogspot.com/2009/01/fractal-performing-monkeys-paw-at-hotel.html

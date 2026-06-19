@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cmg07 And The A. A. Michelson Award"
+title: "CMG07 and the A. A. Michelson Award"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/CMG07_and_the_A._A._Michelson_Award.txt"
+resource: "https://perfcap.blogspot.com/2007/12/cmg07-and-a-michelson-award.html"
 tags:
   - article
 ---
 
-# Cmg07 And The A. A. Michelson Award
+# CMG07 and the A. A. Michelson Award
 
 
 
@@ -25,4 +25,4 @@ From the <a href="http://www.cmg.org/national/michelson-nominations.html">Comput
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/CMG07_and_the_A._A._Michelson_Award.txt
+[1] Source: https://perfcap.blogspot.com/2007/12/cmg07-and-a-michelson-award.html

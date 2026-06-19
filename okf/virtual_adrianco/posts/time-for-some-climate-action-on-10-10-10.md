@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Time For Some Climate Action On 10 10 10"
+title: "Time for some climate action on 10/10/10"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Time_for_some_climate_action_on_10-10-10.txt"
+resource: "https://perfcap.blogspot.com/2010/10/time-for-some-climate-action-on-101010.html"
 tags:
   - article
 ---
 
-# Time For Some Climate Action On 10 10 10
+# Time for some climate action on 10/10/10
 
 
 
@@ -25,4 +25,4 @@ organized by <a href="http://350.org">350.org</a> there are events all over the 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Time_for_some_climate_action_on_10-10-10.txt
+[1] Source: https://perfcap.blogspot.com/2010/10/time-for-some-climate-action-on-101010.html

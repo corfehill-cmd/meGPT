@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Flow Accounting Printout"
+title: "Flow accounting printout"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Flow_accounting_printout.txt"
+resource: "https://perfcap.blogspot.com/2005/04/flow-accounting-printout.html"
 tags:
   - article
 ---
 
-# Flow Accounting Printout
+# Flow accounting printout
 
 
 
@@ -25,4 +25,4 @@ I went to edit the code and realized that I hadn't finished some previous work, 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Flow_accounting_printout.txt
+[1] Source: https://perfcap.blogspot.com/2005/04/flow-accounting-printout.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Must. Buy. Iphone. Must. Buy. Iphone...."
+title: "Must. Buy. iPhone. Must. Buy. iPhone...."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Must._Buy._iPhone._Must._Buy._iPhone.....txt"
+resource: "https://perfcap.blogspot.com/2007/06/must-buy-iphone-must-buy-iphone.html"
 tags:
   - article
 ---
 
-# Must. Buy. Iphone. Must. Buy. Iphone....
+# Must. Buy. iPhone. Must. Buy. iPhone....
 
 
 
@@ -25,4 +25,4 @@ OK, I give in. Its Apple at their best, insanely great, detailed craftsmanship a
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Must._Buy._iPhone._Must._Buy._iPhone.....txt
+[1] Source: https://perfcap.blogspot.com/2007/06/must-buy-iphone-must-buy-iphone.html

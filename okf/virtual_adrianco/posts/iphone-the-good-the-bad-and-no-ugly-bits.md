@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Iphone, The Good The Bad And No Ugly Bits"
+title: "iPhone, the good the bad and no ugly bits"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/iPhone,_the_good_the_bad_and_no_ugly_bits.txt"
+resource: "https://perfcap.blogspot.com/2007/07/iphone-good-bad-and-no-ugly-bits.html"
 tags:
   - article
 ---
 
-# Iphone, The Good The Bad And No Ugly Bits
+# iPhone, the good the bad and no ugly bits
 
 
 
@@ -25,4 +25,4 @@ I got my iPhone in the mail after 10 days, beating the 2-4 weeks delivery estima
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/iPhone,_the_good_the_bad_and_no_ugly_bits.txt
+[1] Source: https://perfcap.blogspot.com/2007/07/iphone-good-bad-and-no-ugly-bits.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Embedded Songs From Ijigg"
+title: "Embedded songs from iJigg"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Embedded_songs_from_iJigg.txt"
+resource: "https://perfcap.blogspot.com/2007/02/embedded-songs-from-ijigg.html"
 tags:
   - article
 ---
 
-# Embedded Songs From Ijigg
+# Embedded songs from iJigg
 
 
 
@@ -25,4 +25,4 @@ This is a very nice embeddable player from iJigg, below is Continuum from my fri
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Embedded_songs_from_iJigg.txt
+[1] Source: https://perfcap.blogspot.com/2007/02/embedded-songs-from-ijigg.html

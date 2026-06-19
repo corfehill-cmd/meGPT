@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cockcroft Headroom Plot   Part 2   R Version"
+title: "Cockcroft Headroom Plot - Part 2 - R Version"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Cockcroft_Headroom_Plot_-_Part_2_-_R_Version.txt"
+resource: "https://perfcap.blogspot.com/2006/11/cockcroft-headroom-plot-part-2-r.html"
 tags:
   - article
 ---
 
-# Cockcroft Headroom Plot   Part 2   R Version
+# Cockcroft Headroom Plot - Part 2 - R Version
 
 
 
@@ -25,4 +25,4 @@ I kept tweaking the code, and came up with a prettier version, that also has a s
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Cockcroft_Headroom_Plot_-_Part_2_-_R_Version.txt
+[1] Source: https://perfcap.blogspot.com/2006/11/cockcroft-headroom-plot-part-2-r.html

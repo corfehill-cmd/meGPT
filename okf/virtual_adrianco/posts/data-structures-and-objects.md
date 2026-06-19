@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Data Structures And Objects"
+title: "Data structures and objects"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Data_structures_and_objects.txt"
+resource: "https://perfcap.blogspot.com/2005/03/data-structures-and-objects.html"
 tags:
   - article
 ---
 
-# Data Structures And Objects
+# Data structures and objects
 
 
 
@@ -25,4 +25,4 @@ The exacct data file is a complex tagged object format that is read via the libe
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Data_structures_and_objects.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/data-structures-and-objects.html

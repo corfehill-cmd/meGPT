@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solid State Disks   1 Tb In A 2.5 Inch Announced"
+title: "Solid State Disks - 1 TB in a 2.5 inch announced"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solid_State_Disks_-_1_TB_in_a_2.5_inch_announced.txt"
+resource: "https://perfcap.blogspot.com/2009/01/solid-state-disks-1-tb-in-25-inch.html"
 tags:
   - article
 ---
 
-# Solid State Disks   1 Tb In A 2.5 Inch Announced
+# Solid State Disks - 1 TB in a 2.5 inch announced
 
 
 
@@ -25,4 +25,4 @@ Like I said... the next thing for SSD's is to have higher storage capacity in ea
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solid_State_Disks_-_1_TB_in_a_2.5_inch_announced.txt
+[1] Source: https://perfcap.blogspot.com/2009/01/solid-state-disks-1-tb-in-25-inch.html

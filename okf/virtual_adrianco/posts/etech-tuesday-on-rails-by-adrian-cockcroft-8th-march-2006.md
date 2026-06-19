@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Etech Tuesday On Rails | By Adrian Cockcroft | 8Th March 2006"
+title: "Etech Tuesday On Rails | by Adrian Cockcroft | 8th March 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Etech_Tuesday_On_Rails_|_by_Adrian_Cockcroft_|_8th_March_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/03/etech-tuesday-on-rails-by-adrian.html"
 tags:
   - article
 ---
 
-# Etech Tuesday On Rails | By Adrian Cockcroft | 8Th March 2006
+# Etech Tuesday On Rails | by Adrian Cockcroft | 8th March 2006
 
 
 
@@ -25,4 +25,4 @@ A long day with lots of interesting talks, and I got to chat with several new pe
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Etech_Tuesday_On_Rails_|_by_Adrian_Cockcroft_|_8th_March_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/03/etech-tuesday-on-rails-by-adrian.html

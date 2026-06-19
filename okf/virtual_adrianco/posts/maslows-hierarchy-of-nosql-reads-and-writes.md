@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Maslow'S Hierarchy Of Nosql Reads (And Writes)"
+title: "Maslow's Hierarchy of NoSQL Reads (and Writes)"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Maslow's_Hierarchy_of_NoSQL_Reads_(and_Writes).txt"
+resource: "https://perfcap.blogspot.com/2011/03/maslows-hierarchy-of-nosql-reads-and.html"
 tags:
   - article
 ---
 
-# Maslow'S Hierarchy Of Nosql Reads (And Writes)
+# Maslow's Hierarchy of NoSQL Reads (and Writes)
 
 
 
@@ -25,4 +25,4 @@ I tried out Prezi to create this presentation, it was more fun to create than po
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Maslow's_Hierarchy_of_NoSQL_Reads_(and_Writes).txt
+[1] Source: https://perfcap.blogspot.com/2011/03/maslows-hierarchy-of-nosql-reads-and.html

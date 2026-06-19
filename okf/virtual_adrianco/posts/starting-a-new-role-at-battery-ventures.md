@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Starting A New Role At Battery Ventures"
+title: "Starting a new role at Battery Ventures"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Starting_a_new_role_at_Battery_Ventures.txt"
+resource: "https://perfcap.blogspot.com/2014/01/starting-new-role-at-battery-ventures.html"
 tags:
   - article
 ---
 
-# Starting A New Role At Battery Ventures
+# Starting a new role at Battery Ventures
 
 
 
@@ -33,4 +33,4 @@ I have pr
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Starting_a_new_role_at_Battery_Ventures.txt
+[1] Source: https://perfcap.blogspot.com/2014/01/starting-new-role-at-battery-ventures.html

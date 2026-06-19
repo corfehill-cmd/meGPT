@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Wwjd   What Would Jobs Do..."
+title: "WWJD - What Would Jobs Do..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/WWJD_-_What_Would_Jobs_Do....txt"
+resource: "https://perfcap.blogspot.com/2007/10/wwjd-what-would-jobs-do.html"
 tags:
   - article
 ---
 
-# Wwjd   What Would Jobs Do...
+# WWJD - What Would Jobs Do...
 
 
 
@@ -25,4 +25,4 @@ Somewhere in Apple there is a product team with a plan. We now have observed sev
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/WWJD_-_What_Would_Jobs_Do....txt
+[1] Source: https://perfcap.blogspot.com/2007/10/wwjd-what-would-jobs-do.html

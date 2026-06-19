@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Memcached 500K Ops S On Niagara T2"
+title: "Memcached 500K ops/s on Niagara T2"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Memcached_500K_ops-s_on_Niagara_T2.txt"
+resource: "https://perfcap.blogspot.com/2009/05/memcached-500k-opss-on-niagara-t2.html"
 tags:
   - article
 ---
 
-# Memcached 500K Ops S On Niagara T2
+# Memcached 500K ops/s on Niagara T2
 
 
 
@@ -25,4 +25,4 @@ This is some nice work, scalability analysis to fix lock contention in memcached
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Memcached_500K_ops-s_on_Niagara_T2.txt
+[1] Source: https://perfcap.blogspot.com/2009/05/memcached-500k-opss-on-niagara-t2.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2017 03 30 The Epistemology Of Information Technology A3F6944Cf02C"
+title: "The Epistemology of Information Technology"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-03-30_The-Epistemology-of-Information-Technology-a3f6944cf02c.txt"
+resource: "https://medium.com/@adrianco/2017-03-30_The-Epistemology-of-Information-Technology-a3f6944cf02c"
 tags:
   - article
 ---
 
-# 2017 03 30 The Epistemology Of Information Technology A3F6944Cf02C
+# The Epistemology of Information Technology
 
 
 
@@ -32,4 +32,4 @@ In theory your CMDB is supposed to record exactly where every piece of infrastru
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-03-30_The-Epistemology-of-Information-Technology-a3f6944cf02c.txt
+[1] Source: https://medium.com/@adrianco/2017-03-30_The-Epistemology-of-Information-Technology-a3f6944cf02c

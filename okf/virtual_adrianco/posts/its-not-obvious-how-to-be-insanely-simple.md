@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "It'S Not Obvious How To Be Insanely Simple"
+title: "It's not obvious how to be insanely simple"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/It's_not_obvious_how_to_be_insanely_simple.txt"
+resource: "https://perfcap.blogspot.com/2012/04/its-not-obvious-how-to-be-insanely.html"
 tags:
   - article
 ---
 
-# It'S Not Obvious How To Be Insanely Simple
+# It's not obvious how to be insanely simple
 
 
 
@@ -32,4 +32,4 @@ I also recently&nbsp;<a href="http://www.youtube.com/watch?v=pCofmZlC72g" target
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/It's_not_obvious_how_to_be_insanely_simple.txt
+[1] Source: https://perfcap.blogspot.com/2012/04/its-not-obvious-how-to-be-insanely.html

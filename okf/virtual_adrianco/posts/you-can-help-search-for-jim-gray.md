@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "You Can Help Search For Jim Gray"
+title: "You can help search for Jim Gray"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/You_can_help_search_for_Jim_Gray.txt"
+resource: "https://perfcap.blogspot.com/2007/02/you-can-help-search-for-jim-gray.html"
 tags:
   - article
 ---
 
-# You Can Help Search For Jim Gray
+# You can help search for Jim Gray
 
 
 
@@ -25,4 +25,4 @@ I met Jim last year when he gave a talk at eBay. His sailboat went missing, and 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/You_can_help_search_for_Jim_Gray.txt
+[1] Source: https://perfcap.blogspot.com/2007/02/you-can-help-search-for-jim-gray.html

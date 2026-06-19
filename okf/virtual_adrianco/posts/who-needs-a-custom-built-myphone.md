@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Who Needs A Custom Built Myphone?"
+title: "Who needs a custom built Myphone?"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Who_needs_a_custom_built_Myphone?.txt"
+resource: "https://perfcap.blogspot.com/2007/02/who-needs-custom-built-myphone.html"
 tags:
   - article
 ---
 
-# Who Needs A Custom Built Myphone?
+# Who needs a custom built Myphone?
 
 
 
@@ -25,4 +25,4 @@ The mainstream phone manufacturers are looking for hits in the mass market, and 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Who_needs_a_custom_built_Myphone?.txt
+[1] Source: https://perfcap.blogspot.com/2007/02/who-needs-custom-built-myphone.html

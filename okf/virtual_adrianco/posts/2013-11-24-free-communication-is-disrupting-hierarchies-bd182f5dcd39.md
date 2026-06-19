@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2013 11 24 Free Communication Is Disrupting Hierarchies Bd182F5Dcd39"
+title: "Free Communication is Disrupting Hierarchies"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2013-11-24_Free-Communication-is-Disrupting-Hierarchies-bd182f5dcd39.txt"
+resource: "https://medium.com/@adrianco/2013-11-24_Free-Communication-is-Disrupting-Hierarchies-bd182f5dcd39"
 tags:
   - article
 ---
 
-# 2013 11 24 Free Communication Is Disrupting Hierarchies Bd182F5Dcd39
+# Free Communication is Disrupting Hierarchies
 
 
 
@@ -30,4 +30,4 @@ However this is nothing new, over centuries there has been a gradual reduction i
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2013-11-24_Free-Communication-is-Disrupting-Hierarchies-bd182f5dcd39.txt
+[1] Source: https://medium.com/@adrianco/2013-11-24_Free-Communication-is-Disrupting-Hierarchies-bd182f5dcd39

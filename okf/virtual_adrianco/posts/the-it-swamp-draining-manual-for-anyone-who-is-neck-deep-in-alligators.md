@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "The It Swamp Draining Manual For Anyone Who Is Neck Deep In Alligators"
+title: "The IT swamp draining manual for anyone who is neck deep in alligators"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/The_IT_swamp_draining_manual_for_anyone_who_is_neck_deep_in_alligators.txt"
+resource: "https://perfcap.blogspot.com/2013/01/the-it-swamp-draining-manual-for-anyone.html"
 tags:
   - article
 ---
 
-# The It Swamp Draining Manual For Anyone Who Is Neck Deep In Alligators
+# The IT swamp draining manual for anyone who is neck deep in alligators
 
 
 
@@ -30,4 +30,4 @@ Many years ago <a
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/The_IT_swamp_draining_manual_for_anyone_who_is_neck_deep_in_alligators.txt
+[1] Source: https://perfcap.blogspot.com/2013/01/the-it-swamp-draining-manual-for-anyone.html

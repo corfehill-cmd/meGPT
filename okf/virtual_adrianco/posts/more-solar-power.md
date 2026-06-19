@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "More Solar Power"
+title: "More solar power"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/More_solar_power.txt"
+resource: "https://perfcap.blogspot.com/2010/10/more-solar-power.html"
 tags:
   - article
 ---
 
-# More Solar Power
+# More solar power
 
 
 
@@ -25,4 +25,4 @@ We just signed up for almost 8KW on the garage roof. It's justified based on rep
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/More_solar_power.txt
+[1] Source: https://perfcap.blogspot.com/2010/10/more-solar-power.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Extracct 1.0"
+title: "extracct 1.0"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/extracct_1.0.txt"
+resource: "https://perfcap.blogspot.com/2005/05/extracct-10.html"
 tags:
   - article
 ---
 
-# Extracct 1.0
+# extracct 1.0
 
 
 
@@ -25,4 +25,4 @@ I cleaned up the build directory and renamed the program extracct - extract usef
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/extracct_1.0.txt
+[1] Source: https://perfcap.blogspot.com/2005/05/extracct-10.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2021 10 02 Why I Support The Iatse Strike E0Ac8Ef71823"
+title: "Why I support the IATSE strike"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2021-10-02_Why-I-support-the-IATSE-strike-e0ac8ef71823.txt"
+resource: "https://medium.com/@adrianco/2021-10-02_Why-I-support-the-IATSE-strike-e0ac8ef71823"
 tags:
   - article
 ---
 
-# 2021 10 02 Why I Support The Iatse Strike E0Ac8Ef71823
+# Why I support the IATSE strike
 
 
 
@@ -28,4 +28,4 @@ The way this industry works, everyone on a production is on a contract for the d
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2021-10-02_Why-I-support-the-IATSE-strike-e0ac8ef71823.txt
+[1] Source: https://medium.com/@adrianco/2021-10-02_Why-I-support-the-IATSE-strike-e0ac8ef71823

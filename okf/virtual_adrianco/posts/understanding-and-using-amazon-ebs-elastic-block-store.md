@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Understanding And Using Amazon Ebs   Elastic Block Store"
+title: "Understanding and using Amazon EBS - Elastic Block Store"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Understanding_and_using_Amazon_EBS_-_Elastic_Block_Store.txt"
+resource: "https://perfcap.blogspot.com/2011/03/understanding-and-using-amazon-ebs.html"
 tags:
   - article
 ---
 
-# Understanding And Using Amazon Ebs   Elastic Block Store
+# Understanding and using Amazon EBS - Elastic Block Store
 
 
 
@@ -25,4 +25,4 @@ There has been a lot of discussion in the last few days about EBS <a href="http:
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Understanding_and_using_Amazon_EBS_-_Elastic_Block_Store.txt
+[1] Source: https://perfcap.blogspot.com/2011/03/understanding-and-using-amazon-ebs.html

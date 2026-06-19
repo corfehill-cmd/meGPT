@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Latest Local Music   Fractal, Beautiful Machines, Cash Pony, Moetar And Atomic Ape... And Mirthkon!"
+title: "Latest Local Music - Fractal, Beautiful Machines, Cash Pony, Moetar and Atomic Ape... and Mirthkon!"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Latest_Local_Music_-_Fractal,_Beautiful_Machines,_Cash_Pony,_Moetar_and_Atomic_Ape..._and_Mirthkon!.txt"
+resource: "https://perfcap.blogspot.com/2014/01/latest-local-music-fractal-beautiful.html"
 tags:
   - article
 ---
 
-# Latest Local Music   Fractal, Beautiful Machines, Cash Pony, Moetar And Atomic Ape... And Mirthkon!
+# Latest Local Music - Fractal, Beautiful Machines, Cash Pony, Moetar and Atomic Ape... and Mirthkon!
 
 
 
@@ -27,4 +27,4 @@ Earlier this week <a href="https://www.facebook.com/fractalcontinuum" target="_b
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Latest_Local_Music_-_Fractal,_Beautiful_Machines,_Cash_Pony,_Moetar_and_Atomic_Ape..._and_Mirthkon!.txt
+[1] Source: https://perfcap.blogspot.com/2014/01/latest-local-music-fractal-beautiful.html

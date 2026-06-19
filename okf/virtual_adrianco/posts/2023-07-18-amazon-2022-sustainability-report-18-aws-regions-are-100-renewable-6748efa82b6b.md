@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 07 18 Amazon 2022 Sustainability Report   18 Aws Regions Are 100  Renewable 6748Efa82B6B"
+title: "Amazon 2022 Sustainability Report — 19 AWS Regions are 100% renewable"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-07-18_Amazon-2022-Sustainability-Report---18-AWS-Regions-are-100--renewable-6748efa82b6b.txt"
+resource: "https://medium.com/@adrianco/2023-07-18_Amazon-2022-Sustainability-Report---18-AWS-Regions-are-100--renewable-6748efa82b6b"
 tags:
   - article
 ---
 
-# 2023 07 18 Amazon 2022 Sustainability Report   18 Aws Regions Are 100  Renewable 6748Efa82B6B
+# Amazon 2022 Sustainability Report — 19 AWS Regions are 100% renewable
 
 
 
@@ -30,4 +30,4 @@ The methodology used by Amazon is the same as is used by Microsoft Azure, it’s
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-07-18_Amazon-2022-Sustainability-Report---18-AWS-Regions-are-100--renewable-6748efa82b6b.txt
+[1] Source: https://medium.com/@adrianco/2023-07-18_Amazon-2022-Sustainability-Report---18-AWS-Regions-are-100--renewable-6748efa82b6b

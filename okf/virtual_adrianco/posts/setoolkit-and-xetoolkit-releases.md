@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Setoolkit And Xetoolkit Releases"
+title: "SEtoolkit and XEtoolkit releases"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/SEtoolkit_and_XEtoolkit_releases.txt"
+resource: "https://perfcap.blogspot.com/2007/04/setoolkit-and-xetoolkit-releases.html"
 tags:
   - article
 ---
 
-# Setoolkit And Xetoolkit Releases
+# SEtoolkit and XEtoolkit releases
 
 
 
@@ -25,4 +25,4 @@ The <span class="blsp-spelling-error" id="SPELLING_ERROR_0">SEtoolkit</span> was
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/SEtoolkit_and_XEtoolkit_releases.txt
+[1] Source: https://perfcap.blogspot.com/2007/04/setoolkit-and-xetoolkit-releases.html

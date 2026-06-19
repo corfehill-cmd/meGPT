@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Iphone Sdk, Leopard And 1.1.2"
+title: "iPhone SDK, Leopard and 1.1.2"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/iPhone_SDK,_Leopard_and_1.1.2.txt"
+resource: "https://perfcap.blogspot.com/2007/10/iphone-sdk-leopard-and-112.html"
 tags:
   - article
 ---
 
-# Iphone Sdk, Leopard And 1.1.2
+# iPhone SDK, Leopard and 1.1.2
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2007/10/iphone-sdk-leopard-and-112.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/iPhone_SDK,_Leopard_and_1.1.2.txt
+[1] Source: https://perfcap.blogspot.com/2007/10/iphone-sdk-leopard-and-112.html

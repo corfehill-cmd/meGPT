@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Netflix In The Cloud"
+title: "Netflix in the Cloud"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Netflix_in_the_Cloud.txt"
+resource: "https://perfcap.blogspot.com/2010/10/netflix-in-cloud.html"
 tags:
   - article
 ---
 
-# Netflix In The Cloud
+# Netflix in the Cloud
 
 
 
@@ -25,4 +25,4 @@ I'm presenting this talk on Thursday at the Cloud Computing Meetup, and again on
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Netflix_in_the_Cloud.txt
+[1] Source: https://perfcap.blogspot.com/2010/10/netflix-in-cloud.html

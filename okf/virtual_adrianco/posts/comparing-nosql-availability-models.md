@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Comparing Nosql Availability Models"
+title: "Comparing NoSQL Availability Models"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Comparing_NoSQL_Availability_Models.txt"
+resource: "https://perfcap.blogspot.com/2010/10/comparing-nosql-availability-models.html"
 tags:
   - article
 ---
 
-# Comparing Nosql Availability Models
+# Comparing NoSQL Availability Models
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2010/10/comparing-nosql-availability-models.ht
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Comparing_NoSQL_Availability_Models.txt
+[1] Source: https://perfcap.blogspot.com/2010/10/comparing-nosql-availability-models.html

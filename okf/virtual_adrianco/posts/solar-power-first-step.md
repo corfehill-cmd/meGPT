@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   First Step"
+title: "Solar Power - first step"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_first_step.txt"
+resource: "https://perfcap.blogspot.com/2009/06/solar-power-first-step.html"
 tags:
   - article
 ---
 
-# Solar Power   First Step
+# Solar Power - first step
 
 
 
@@ -25,4 +25,4 @@ There is a rebate for solar power systems, and the first step is that the power 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_first_step.txt
+[1] Source: https://perfcap.blogspot.com/2009/06/solar-power-first-step.html

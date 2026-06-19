@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Cmg09   Last Time Attendee"
+title: "CMG09 - Last Time Attendee"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/CMG09_-_Last_Time_Attendee.txt"
+resource: "https://perfcap.blogspot.com/2009/12/cmg09-last-time-attendee.html"
 tags:
   - article
 ---
 
-# Cmg09   Last Time Attendee
+# CMG09 - Last Time Attendee
 
 
 
@@ -25,4 +25,4 @@ I presented a half day training class and a paper at CMG09 in Dallas last week. 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/CMG09_-_Last_Time_Attendee.txt
+[1] Source: https://perfcap.blogspot.com/2009/12/cmg09-last-time-attendee.html

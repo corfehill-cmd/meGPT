@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power Order Placed"
+title: "Solar Power order placed"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_order_placed.txt"
+resource: "https://perfcap.blogspot.com/2009/05/solar-power-order-placed.html"
 tags:
   - article
 ---
 
-# Solar Power Order Placed
+# Solar Power order placed
 
 
 
@@ -25,4 +25,4 @@ I signed up with http://www.solarcity.com for 4.5Kw of thin film panels (60 of t
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_order_placed.txt
+[1] Source: https://perfcap.blogspot.com/2009/05/solar-power-order-placed.html

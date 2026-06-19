@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Looking Back At 2013, With Pointers To 2014"
+title: "Looking back at 2013, with pointers to 2014"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Looking_back_at_2013,_with_pointers_to_2014.txt"
+resource: "https://perfcap.blogspot.com/2013/12/looking-back-at-2013-with-pointers-to.html"
 tags:
   - article
 ---
 
-# Looking Back At 2013, With Pointers To 2014
+# Looking back at 2013, with pointers to 2014
 
 
 
@@ -36,4 +36,4 @@ We still don
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Looking_back_at_2013,_with_pointers_to_2014.txt
+[1] Source: https://perfcap.blogspot.com/2013/12/looking-back-at-2013-with-pointers-to.html

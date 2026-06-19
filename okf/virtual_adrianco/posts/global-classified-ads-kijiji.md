@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Global Classified Ads   Kijiji"
+title: "Global Classified Ads - Kijiji"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Global_Classified_Ads_-_Kijiji.txt"
+resource: "https://perfcap.blogspot.com/2007/07/global-classified-ads-kijiji.html"
 tags:
   - article
 ---
 
-# Global Classified Ads   Kijiji
+# Global Classified Ads - Kijiji
 
 
 
@@ -25,4 +25,4 @@ eBay recently took the final step with their Kijiji classified advertising brand
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Global_Classified_Ads_-_Kijiji.txt
+[1] Source: https://perfcap.blogspot.com/2007/07/global-classified-ads-kijiji.html

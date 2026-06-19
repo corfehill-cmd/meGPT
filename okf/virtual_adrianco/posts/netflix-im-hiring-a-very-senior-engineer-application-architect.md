@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Netflix: I'M Hiring A Very Senior Engineer   Application Architect"
+title: "Netflix: I'm hiring a very senior engineer / application architect"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Netflix:_I'm_hiring_a_very_senior_engineer_-_application_architect.txt"
+resource: "https://perfcap.blogspot.com/2009/01/netflix-im-hiring-very-senior-engineer.html"
 tags:
   - article
 ---
 
-# Netflix: I'M Hiring A Very Senior Engineer   Application Architect
+# Netflix: I'm hiring a very senior engineer / application architect
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2009/01/netflix-im-hiring-very-senior-engineer
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Netflix:_I'm_hiring_a_very_senior_engineer_-_application_architect.txt
+[1] Source: https://perfcap.blogspot.com/2009/01/netflix-im-hiring-very-senior-engineer.html

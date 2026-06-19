@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Jobs At Netflix"
+title: "Jobs at Netflix"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Jobs_at_Netflix.txt"
+resource: "https://perfcap.blogspot.com/2007/04/jobs-at-netflix.html"
 tags:
   - article
 ---
 
-# Jobs At Netflix
+# Jobs at Netflix
 
 
 
@@ -25,4 +25,4 @@ A few people have asked me if there are interesting jobs available at Netflix. I
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Jobs_at_Netflix.txt
+[1] Source: https://perfcap.blogspot.com/2007/04/jobs-at-netflix.html

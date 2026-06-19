@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "First Look At Android And Implications For The Homebrew Myphone"
+title: "First look at Android and implications for the Homebrew MyPhone"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/First_look_at_Android_and_implications_for_the_Homebrew_MyPhone.txt"
+resource: "https://perfcap.blogspot.com/2007/11/first-look-at-android-and-implications.html"
 tags:
   - article
 ---
 
-# First Look At Android And Implications For The Homebrew Myphone
+# First look at Android and implications for the Homebrew MyPhone
 
 
 
@@ -25,4 +25,4 @@ Google's new <a href="http://code.google.com/android/download.html">Android SDK<
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/First_look_at_Android_and_implications_for_the_Homebrew_MyPhone.txt
+[1] Source: https://perfcap.blogspot.com/2007/11/first-look-at-android-and-implications.html

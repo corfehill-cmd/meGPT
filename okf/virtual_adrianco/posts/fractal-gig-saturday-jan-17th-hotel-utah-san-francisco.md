@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Fractal Gig   Saturday Jan 17Th   Hotel Utah San Francisco"
+title: "Fractal Gig - Saturday Jan 17th - Hotel Utah San Francisco"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Fractal_Gig_-_Saturday_Jan_17th_-_Hotel_Utah_San_Francisco.txt"
+resource: "https://perfcap.blogspot.com/2009/01/fractal-gig-saturday-jan-17th-hotel.html"
 tags:
   - article
 ---
 
-# Fractal Gig   Saturday Jan 17Th   Hotel Utah San Francisco
+# Fractal Gig - Saturday Jan 17th - Hotel Utah San Francisco
 
 
 
@@ -25,4 +25,4 @@ I'm inflicting some new music by Fractal on people who visit my blog... They hav
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Fractal_Gig_-_Saturday_Jan_17th_-_Hotel_Utah_San_Francisco.txt
+[1] Source: https://perfcap.blogspot.com/2009/01/fractal-gig-saturday-jan-17th-hotel.html

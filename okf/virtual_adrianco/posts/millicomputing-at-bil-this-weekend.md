@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Millicomputing At Bil This Weekend"
+title: "Millicomputing at BIL this weekend"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Millicomputing_at_BIL_this_weekend.txt"
+resource: "https://perfcap.blogspot.com/2008/02/millicomputing-at-bil-this-weekend.html"
 tags:
   - article
 ---
 
-# Millicomputing At Bil This Weekend
+# Millicomputing at BIL this weekend
 
 
 
@@ -25,4 +25,4 @@ I'm presenting (and generally helping out) at the <a href="http://www.bilconfere
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Millicomputing_at_BIL_this_weekend.txt
+[1] Source: https://perfcap.blogspot.com/2008/02/millicomputing-at-bil-this-weekend.html

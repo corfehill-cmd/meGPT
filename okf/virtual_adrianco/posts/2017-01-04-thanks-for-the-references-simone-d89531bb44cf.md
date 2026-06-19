@@ -2,7 +2,7 @@
 type: Article
 title: "2017 01 04 Thanks For The References Simone  D89531Bb44Cf"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-01-04_Thanks-for-the-references-Simone--d89531bb44cf.txt"
+resource: "https://medium.com/@adrianco/2017-01-04_Thanks-for-the-references-Simone--d89531bb44cf"
 tags:
   - article
 ---
@@ -24,4 +24,4 @@ Thanks for the references Simone. However you missed Snowball Edge — which
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-01-04_Thanks-for-the-references-Simone--d89531bb44cf.txt
+[1] Source: https://medium.com/@adrianco/2017-01-04_Thanks-for-the-references-Simone--d89531bb44cf

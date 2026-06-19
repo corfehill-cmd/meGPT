@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2021 11 16 Map Camp 2021   Links To My Maps From The Green Economy Session With Carlota Perez And Andra Sonea 2Fa62401Fdc8"
+title: "Map Camp 2021 — links to my maps from the Green Economy session with Carlota Perez and Andra Sonea"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2021-11-16_Map-Camp-2021---links-to-my-maps-from-the-Green-Economy-session-with-Carlota-Perez-and-Andra-Sonea-2fa62401fdc8.txt"
+resource: "https://medium.com/@adrianco/2021-11-16_Map-Camp-2021---links-to-my-maps-from-the-Green-Economy-session-with-Carlota-Perez-and-Andra-Sonea-2fa62401fdc8"
 tags:
   - article
 ---
 
-# 2021 11 16 Map Camp 2021   Links To My Maps From The Green Economy Session With Carlota Perez And Andra Sonea 2Fa62401Fdc8
+# Map Camp 2021 — links to my maps from the Green Economy session with Carlota Perez and Andra Sonea
 
 
 
@@ -28,4 +28,4 @@ Carlota went first, explaining the way revolutions follow each other, and that w
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2021-11-16_Map-Camp-2021---links-to-my-maps-from-the-Green-Economy-session-with-Carlota-Perez-and-Andra-Sonea-2fa62401fdc8.txt
+[1] Source: https://medium.com/@adrianco/2021-11-16_Map-Camp-2021---links-to-my-maps-from-the-Green-Economy-session-with-Carlota-Perez-and-Andra-Sonea-2fa62401fdc8

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Se Toolkit 3.4 On Solaris 10 Opteron Workaround"
+title: "SE toolkit 3.4 on Solaris 10 Opteron Workaround"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/SE_toolkit_3.4_on_Solaris_10_Opteron_Workaround.txt"
+resource: "https://perfcap.blogspot.com/2005/10/se-toolkit-34-on-solaris-10-opteron.html"
 tags:
   - article
 ---
 
-# Se Toolkit 3.4 On Solaris 10 Opteron Workaround
+# SE toolkit 3.4 on Solaris 10 Opteron Workaround
 
 
 
@@ -25,4 +25,4 @@ The current 3.4 build of SE is available from <a href="http://www.sunfreeware.co
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/SE_toolkit_3.4_on_Solaris_10_Opteron_Workaround.txt
+[1] Source: https://perfcap.blogspot.com/2005/10/se-toolkit-34-on-solaris-10-opteron.html

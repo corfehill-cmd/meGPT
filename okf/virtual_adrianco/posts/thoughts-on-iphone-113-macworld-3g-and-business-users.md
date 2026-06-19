@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Thoughts On Iphone 1.1.3, Macworld, 3G And Business Users"
+title: "Thoughts on iPhone 1.1.3, Macworld, 3G and business users"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Thoughts_on_iPhone_1.1.3,_Macworld,_3G_and_business_users.txt"
+resource: "https://perfcap.blogspot.com/2007/12/thoughts-on-iphone-113-macworld-3g-and.html"
 tags:
   - article
 ---
 
-# Thoughts On Iphone 1.1.3, Macworld, 3G And Business Users
+# Thoughts on iPhone 1.1.3, Macworld, 3G and business users
 
 
 
@@ -25,4 +25,4 @@ Reports indicate the the 1.1.3 update is likely to ship before MacWorld in Janua
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Thoughts_on_iPhone_1.1.3,_Macworld,_3G_and_business_users.txt
+[1] Source: https://perfcap.blogspot.com/2007/12/thoughts-on-iphone-113-macworld-3g-and.html

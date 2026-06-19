@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Iphone 2.0 Upgrade And Applications   Pandora"
+title: "iPhone 2.0 upgrade and applications - Pandora"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/iPhone_2.0_upgrade_and_applications_-_Pandora.txt"
+resource: "https://perfcap.blogspot.com/2008/07/iphone-20-upgrade-and-applications.html"
 tags:
   - article
 ---
 
-# Iphone 2.0 Upgrade And Applications   Pandora
+# iPhone 2.0 upgrade and applications - Pandora
 
 
 
@@ -25,4 +25,4 @@ I waited until Saturday evening to attempt an upgrade on my iPhone, and it compl
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/iPhone_2.0_upgrade_and_applications_-_Pandora.txt
+[1] Source: https://perfcap.blogspot.com/2008/07/iphone-20-upgrade-and-applications.html

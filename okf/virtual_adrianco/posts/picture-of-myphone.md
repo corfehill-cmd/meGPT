@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Picture Of Myphone"
+title: "Picture of myPhone"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Picture_of_myPhone.txt"
+resource: "https://perfcap.blogspot.com/2007/03/picture-of-myphone.html"
 tags:
   - article
 ---
 
-# Picture Of Myphone
+# Picture of myPhone
 
 
 
@@ -25,4 +25,4 @@ Here are the CAD pictures of the phone, I made the rear case cover translucent s
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Picture_of_myPhone.txt
+[1] Source: https://perfcap.blogspot.com/2007/03/picture-of-myphone.html

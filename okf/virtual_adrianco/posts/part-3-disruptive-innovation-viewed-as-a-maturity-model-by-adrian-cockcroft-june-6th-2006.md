@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Part 3: Disruptive Innovation Viewed As A Maturity Model | By Adrian Cockcroft | June 6Th, 2006"
+title: "Part 3: Disruptive Innovation viewed as a Maturity Model | by Adrian Cockcroft | June 6th, 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Part_3:_Disruptive_Innovation_viewed_as_a_Maturity_Model_|_by_Adrian_Cockcroft_|_June_6th,_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/06/part-3-disruptive-innovation-viewed-as.html"
 tags:
   - article
 ---
 
-# Part 3: Disruptive Innovation Viewed As A Maturity Model | By Adrian Cockcroft | June 6Th, 2006
+# Part 3: Disruptive Innovation viewed as a Maturity Model | by Adrian Cockcroft | June 6th, 2006
 
 
 
@@ -25,4 +25,4 @@ This time I'll take a more abstract view of a maturing market as each phase evol
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Part_3:_Disruptive_Innovation_viewed_as_a_Maturity_Model_|_by_Adrian_Cockcroft_|_June_6th,_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/06/part-3-disruptive-innovation-viewed-as.html

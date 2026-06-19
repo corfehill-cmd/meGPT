@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Music   Amanda Palmer And Estradasphere"
+title: "Music - Amanda Palmer and Estradasphere"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Music_-_Amanda_Palmer_and_Estradasphere.txt"
+resource: "https://perfcap.blogspot.com/2008/10/music-amanda-palmer-and-estradasphere.html"
 tags:
   - article
 ---
 
-# Music   Amanda Palmer And Estradasphere
+# Music - Amanda Palmer and Estradasphere
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2008/10/music-amanda-palmer-and-estradasphere.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Music_-_Amanda_Palmer_and_Estradasphere.txt
+[1] Source: https://perfcap.blogspot.com/2008/10/music-amanda-palmer-and-estradasphere.html

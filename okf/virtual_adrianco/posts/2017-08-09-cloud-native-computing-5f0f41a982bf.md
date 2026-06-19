@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2017 08 09 Cloud Native Computing 5F0F41A982Bf"
+title: "Photo by @adrianco — Cloud native computing of refraction by a rainbow."
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-08-09_Cloud-Native-Computing-5f0f41a982bf.txt"
+resource: "https://medium.com/@adrianco/2017-08-09_Cloud-Native-Computing-5f0f41a982bf"
 tags:
   - article
 ---
 
-# 2017 08 09 Cloud Native Computing 5F0F41A982Bf
+# Photo by @adrianco — Cloud native computing of refraction by a rainbow.
 
 
 
@@ -31,4 +31,4 @@ While we didn’t invent most of these patterns,
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-08-09_Cloud-Native-Computing-5f0f41a982bf.txt
+[1] Source: https://medium.com/@adrianco/2017-08-09_Cloud-Native-Computing-5f0f41a982bf

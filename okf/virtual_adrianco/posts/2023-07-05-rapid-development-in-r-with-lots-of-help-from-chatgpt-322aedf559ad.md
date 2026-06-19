@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 07 05 Rapid Development In R With Lots Of Help From Chatgpt 322Aedf559Ad"
+title: "Rapid development in R with lots of help from ChatGPT"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-07-05_Rapid-development-in-R-with-lots-of-help-from-ChatGPT-322aedf559ad.txt"
+resource: "https://medium.com/@adrianco/2023-07-05_Rapid-development-in-R-with-lots-of-help-from-ChatGPT-322aedf559ad"
 tags:
   - article
 ---
 
-# 2023 07 05 Rapid Development In R With Lots Of Help From Chatgpt 322Aedf559Ad
+# Rapid development in R with lots of help from ChatGPT
 
 
 
@@ -26,4 +26,4 @@ Like many people, I’ve been tinkering with ChatGPT to see what it can do, but 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-07-05_Rapid-development-in-R-with-lots-of-help-from-ChatGPT-322aedf559ad.txt
+[1] Source: https://medium.com/@adrianco/2023-07-05_Rapid-development-in-R-with-lots-of-help-from-ChatGPT-322aedf559ad

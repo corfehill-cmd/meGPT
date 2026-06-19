@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Leaving Ebay To Join Netflix"
+title: "Leaving eBay to join Netflix"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Leaving_eBay_to_join_Netflix.txt"
+resource: "https://perfcap.blogspot.com/2007/04/leaving-ebay-to-join-netflix.html"
 tags:
   - article
 ---
 
-# Leaving Ebay To Join Netflix
+# Leaving eBay to join Netflix
 
 
 
@@ -25,4 +25,4 @@ I recently gave notice to eBay and start at <a href="http://www.netflix.com">Net
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Leaving_eBay_to_join_Netflix.txt
+[1] Source: https://perfcap.blogspot.com/2007/04/leaving-ebay-to-join-netflix.html

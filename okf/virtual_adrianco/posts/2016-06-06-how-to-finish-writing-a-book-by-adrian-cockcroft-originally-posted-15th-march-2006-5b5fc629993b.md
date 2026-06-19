@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2016 06 06 How To Finish Writing A Book   By Adrian Cockcroft   Originally Posted 15Th March 2006 5B5Fc629993B"
+title: "How to finish writing a book | by Adrian Cockcroft | Originally posted 15th March 2006"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2016-06-06_How-to-finish-writing-a-book---by-Adrian-Cockcroft---Originally-posted-15th-March-2006-5b5fc629993b.txt"
+resource: "https://medium.com/@adrianco/2016-06-06_How-to-finish-writing-a-book---by-Adrian-Cockcroft---Originally-posted-15th-March-2006-5b5fc629993b"
 tags:
   - article
 ---
 
-# 2016 06 06 How To Finish Writing A Book   By Adrian Cockcroft   Originally Posted 15Th March 2006 5B5Fc629993B
+# How to finish writing a book | by Adrian Cockcroft | Originally posted 15th March 2006
 
 
 
@@ -30,4 +30,4 @@ This problem is recursive,
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2016-06-06_How-to-finish-writing-a-book---by-Adrian-Cockcroft---Originally-posted-15th-March-2006-5b5fc629993b.txt
+[1] Source: https://medium.com/@adrianco/2016-06-06_How-to-finish-writing-a-book---by-Adrian-Cockcroft---Originally-posted-15th-March-2006-5b5fc629993b

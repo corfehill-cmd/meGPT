@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Workplace Myths   Career Advice"
+title: "Workplace Myths - Career Advice"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Workplace_Myths_-_Career_Advice.txt"
+resource: "https://perfcap.blogspot.com/2007/05/workplace-myths-career-advice.html"
 tags:
   - article
 ---
 
-# Workplace Myths   Career Advice
+# Workplace Myths - Career Advice
 
 
 
@@ -25,4 +25,4 @@ Some <a href="http://feeds.feedburner.com/%7Er/guykawasaki/Gypm/%7E3/117643688/t
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Workplace_Myths_-_Career_Advice.txt
+[1] Source: https://perfcap.blogspot.com/2007/05/workplace-myths-career-advice.html

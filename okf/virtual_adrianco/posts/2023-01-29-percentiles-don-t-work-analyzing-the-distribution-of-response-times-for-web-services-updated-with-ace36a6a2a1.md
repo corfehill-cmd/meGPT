@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 01 29 Percentiles Don T Work  Analyzing The Distribution Of Response Times For Web Services  Updated With  Ace36A6A2A19"
+title: "Percentiles don’t work: Analyzing the distribution of response times for web services (Updated with code)"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-01-29_Percentiles-don-t-work--Analyzing-the-distribution-of-response-times-for-web-services--Updated-with--ace36a6a2a19.txt"
+resource: "https://medium.com/@adrianco/2023-01-29_Percentiles-don-t-work--Analyzing-the-distribution-of-response-times-for-web-services--Updated-with--ace36a6a2a19"
 tags:
   - article
 ---
 
-# 2023 01 29 Percentiles Don T Work  Analyzing The Distribution Of Response Times For Web Services  Updated With  Ace36A6A2A19
+# Percentiles don’t work: Analyzing the distribution of response times for web services (Updated with code)
 
 
 
@@ -26,4 +26,4 @@ Most people have figured out that the average response time for a web service is
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-01-29_Percentiles-don-t-work--Analyzing-the-distribution-of-response-times-for-web-services--Updated-with--ace36a6a2a19.txt
+[1] Source: https://medium.com/@adrianco/2023-01-29_Percentiles-don-t-work--Analyzing-the-distribution-of-response-times-for-web-services--Updated-with--ace36a6a2a19

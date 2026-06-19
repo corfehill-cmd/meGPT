@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Ipad Makes It Hard To Embed Youtube In Blog"
+title: "IPad makes it hard to embed YouTube in blog"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/IPad_makes_it_hard_to_embed_YouTube_in_blog.txt"
+resource: "https://perfcap.blogspot.com/2010/04/ipad-makes-it-hard-to-embed-youtube-in.html"
 tags:
   - article
 ---
 
-# Ipad Makes It Hard To Embed Youtube In Blog
+# IPad makes it hard to embed YouTube in blog
 
 
 
@@ -25,4 +25,4 @@ I'm trying to compose a blog post that embeds a YouTube video, but YouTube doesn
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/IPad_makes_it_hard_to_embed_YouTube_in_blog.txt
+[1] Source: https://perfcap.blogspot.com/2010/04/ipad-makes-it-hard-to-embed-youtube-in.html

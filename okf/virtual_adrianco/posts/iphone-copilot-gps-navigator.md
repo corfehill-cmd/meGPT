@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Iphone Copilot Gps Navigator"
+title: "iPhone Copilot GPS navigator"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/iPhone_Copilot_GPS_navigator.txt"
+resource: "https://perfcap.blogspot.com/2009/10/iphone-copilot-gps-navigator.html"
 tags:
   - article
 ---
 
-# Iphone Copilot Gps Navigator
+# iPhone Copilot GPS navigator
 
 
 
@@ -25,4 +25,4 @@ this excellent app is a turn by turn talking navigator that works like a dedicat
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/iPhone_Copilot_GPS_navigator.txt
+[1] Source: https://perfcap.blogspot.com/2009/10/iphone-copilot-gps-navigator.html

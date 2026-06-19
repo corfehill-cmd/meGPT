@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Installation Day 2"
+title: "Solar Power - Installation Day 2"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Day_2.txt"
+resource: "https://perfcap.blogspot.com/2009/07/solar-power-installation-day-2.html"
 tags:
   - article
 ---
 
-# Solar Power   Installation Day 2
+# Solar Power - Installation Day 2
 
 
 
@@ -25,4 +25,4 @@ More mounting hardware is now on the roof, the brackets that hold the panels to 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Day_2.txt
+[1] Source: https://perfcap.blogspot.com/2009/07/solar-power-installation-day-2.html

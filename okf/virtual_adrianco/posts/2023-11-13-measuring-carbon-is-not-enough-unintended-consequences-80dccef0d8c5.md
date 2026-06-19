@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 11 13 Measuring Carbon Is Not Enough   Unintended Consequences 80Dccef0D8C5"
+title: "Measuring Carbon is Not Enough — Unintended Consequences"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-11-13_Measuring-Carbon-is-Not-Enough---Unintended-Consequences-80dccef0d8c5.txt"
+resource: "https://medium.com/@adrianco/2023-11-13_Measuring-Carbon-is-Not-Enough---Unintended-Consequences-80dccef0d8c5"
 tags:
   - article
 ---
 
-# 2023 11 13 Measuring Carbon Is Not Enough   Unintended Consequences 80Dccef0D8C5
+# Measuring Carbon is Not Enough — Unintended Consequences
 
 
 
@@ -30,4 +30,4 @@ The simplest thing to do is nothing. The electricity you use is gradually bei
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-11-13_Measuring-Carbon-is-Not-Enough---Unintended-Consequences-80dccef0d8c5.txt
+[1] Source: https://medium.com/@adrianco/2023-11-13_Measuring-Carbon-is-Not-Enough---Unintended-Consequences-80dccef0d8c5

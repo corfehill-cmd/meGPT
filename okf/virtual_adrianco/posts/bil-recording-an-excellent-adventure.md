@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Bil   Recording An Excellent Adventure"
+title: "BIL - recording an excellent adventure"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/BIL_-_recording_an_excellent_adventure.txt"
+resource: "https://perfcap.blogspot.com/2008/03/bil-recording-excellent-adventure.html"
 tags:
   - article
 ---
 
-# Bil   Recording An Excellent Adventure
+# BIL - recording an excellent adventure
 
 
 
@@ -25,4 +25,4 @@ The closing slide of BIL by Garrett Lisi<br /><br /><a onblur="try {parent.desel
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/BIL_-_recording_an_excellent_adventure.txt
+[1] Source: https://perfcap.blogspot.com/2008/03/bil-recording-excellent-adventure.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2020 12 01 Aws Re Invent 2020 Talks Related To Sustainability D241Fe18B6Ba"
+title: "AWS re:Invent 2020 talks related to sustainability"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2020-12-01_AWS-re-Invent-2020-talks-related-to-sustainability-d241fe18b6ba.txt"
+resource: "https://medium.com/@adrianco/2020-12-01_AWS-re-Invent-2020-talks-related-to-sustainability-d241fe18b6ba"
 tags:
   - article
 ---
 
-# 2020 12 01 Aws Re Invent 2020 Talks Related To Sustainability D241Fe18B6Ba
+# AWS re:Invent 2020 talks related to sustainability
 
 
 
@@ -28,4 +28,4 @@ AWS is supporting customers who are working to change the way they operate and b
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2020-12-01_AWS-re-Invent-2020-talks-related-to-sustainability-d241fe18b6ba.txt
+[1] Source: https://medium.com/@adrianco/2020-12-01_AWS-re-Invent-2020-talks-related-to-sustainability-d241fe18b6ba

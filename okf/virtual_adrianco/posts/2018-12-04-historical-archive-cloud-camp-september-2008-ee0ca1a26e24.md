@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2018 12 04 Historical Archive   Cloud Camp   September 2008 Ee0Ca1A26E24"
+title: "Historical Archive — Cloud Camp — September 2008"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2018-12-04_Historical-Archive---Cloud-Camp---September-2008-ee0ca1a26e24.txt"
+resource: "https://medium.com/@adrianco/2018-12-04_Historical-Archive---Cloud-Camp---September-2008-ee0ca1a26e24"
 tags:
   - article
 ---
 
-# 2018 12 04 Historical Archive   Cloud Camp   September 2008 Ee0Ca1A26E24
+# Historical Archive — Cloud Camp — September 2008
 
 
 
@@ -46,4 +46,4 @@ Appistry — http://www.appistry.co
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2018-12-04_Historical-Archive---Cloud-Camp---September-2008-ee0ca1a26e24.txt
+[1] Source: https://medium.com/@adrianco/2018-12-04_Historical-Archive---Cloud-Camp---September-2008-ee0ca1a26e24

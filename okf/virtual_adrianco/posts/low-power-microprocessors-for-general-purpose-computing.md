@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Low Power Microprocessors For General Purpose Computing"
+title: "Low Power Microprocessors for General Purpose Computing"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Low_Power_Microprocessors_for_General_Purpose_Computing.txt"
+resource: "https://perfcap.blogspot.com/2007/03/low-power-microprocessors-for-general.html"
 tags:
   - article
 ---
 
-# Low Power Microprocessors For General Purpose Computing
+# Low Power Microprocessors for General Purpose Computing
 
 
 
@@ -25,4 +25,4 @@ While researching devices for <a href="http://www.hbmobile.org/wiki/index.php?ti
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Low_Power_Microprocessors_for_General_Purpose_Computing.txt
+[1] Source: https://perfcap.blogspot.com/2007/03/low-power-microprocessors-for-general.html

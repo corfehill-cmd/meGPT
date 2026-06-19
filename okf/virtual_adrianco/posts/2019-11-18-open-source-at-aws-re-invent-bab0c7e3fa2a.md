@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2019 11 18 Open Source At Aws Re Invent Bab0C7E3Fa2A"
+title: "Open Source at AWS re:Invent"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2019-11-18_Open-Source-at-AWS-re-Invent-bab0c7e3fa2a.txt"
+resource: "https://medium.com/@adrianco/2019-11-18_Open-Source-at-AWS-re-Invent-bab0c7e3fa2a"
 tags:
   - article
 ---
 
-# 2019 11 18 Open Source At Aws Re Invent Bab0C7E3Fa2A
+# Open Source at AWS re:Invent
 
 
 
@@ -26,4 +26,4 @@ We’re excited to let you know that we have an Open Source track at re:Invent t
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2019-11-18_Open-Source-at-AWS-re-Invent-bab0c7e3fa2a.txt
+[1] Source: https://medium.com/@adrianco/2019-11-18_Open-Source-at-AWS-re-Invent-bab0c7e3fa2a

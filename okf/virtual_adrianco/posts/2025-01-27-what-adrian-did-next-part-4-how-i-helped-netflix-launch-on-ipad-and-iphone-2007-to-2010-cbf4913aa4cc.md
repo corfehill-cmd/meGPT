@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2025 01 27 What Adrian Did Next   Part 4   How I Helped Netflix Launch On Ipad And Iphone   2007 To 2010 Cbf4913Aa4Cc"
+title: "What Adrian Did Next — Part 4 — how I helped Netflix launch on iPad and iPhone — 2007 to 2010"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2025-01-27_What-Adrian-Did-Next---Part-4---how-I-helped-Netflix-launch-on-iPad-and-iPhone---2007-to-2010-cbf4913aa4cc.txt"
+resource: "https://medium.com/@adrianco/2025-01-27_What-Adrian-Did-Next---Part-4---how-I-helped-Netflix-launch-on-iPad-and-iPhone---2007-to-2010-cbf4913aa4cc"
 tags:
   - article
 ---
 
-# 2025 01 27 What Adrian Did Next   Part 4   How I Helped Netflix Launch On Ipad And Iphone   2007 To 2010 Cbf4913Aa4Cc
+# What Adrian Did Next — Part 4 — how I helped Netflix launch on iPad and iPhone — 2007 to 2010
 
 
 
@@ -28,4 +28,4 @@ In part 3 I mentioned that I had developed some phone based apps while at eBay R
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2025-01-27_What-Adrian-Did-Next---Part-4---how-I-helped-Netflix-launch-on-iPad-and-iPhone---2007-to-2010-cbf4913aa4cc.txt
+[1] Source: https://medium.com/@adrianco/2025-01-27_What-Adrian-Did-Next---Part-4---how-I-helped-Netflix-launch-on-iPad-and-iPhone---2007-to-2010-cbf4913aa4cc

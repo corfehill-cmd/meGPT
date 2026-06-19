@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2012 10 26 What S A Distinguished Engineer  6B3E4D320Ce6"
+title: "What’s a Distinguished Engineer?"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2012-10-26_What-s-a-Distinguished-Engineer--6b3e4d320ce6.txt"
+resource: "https://medium.com/@adrianco/2012-10-26_What-s-a-Distinguished-Engineer--6b3e4d320ce6"
 tags:
   - article
 ---
 
-# 2012 10 26 What S A Distinguished Engineer  6B3E4D320Ce6
+# What’s a Distinguished Engineer?
 
 
 
@@ -34,4 +34,4 @@ First I made a list of the names of all the Sun Distinguished Engineers and Fell
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2012-10-26_What-s-a-Distinguished-Engineer--6b3e4d320ce6.txt
+[1] Source: https://medium.com/@adrianco/2012-10-26_What-s-a-Distinguished-Engineer--6b3e4d320ce6

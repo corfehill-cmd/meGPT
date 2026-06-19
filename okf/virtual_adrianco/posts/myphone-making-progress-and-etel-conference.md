@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Myphone Making Progress And Etel Conference"
+title: "MyPhone Making Progress and ETel Conference"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/MyPhone_Making_Progress_and_ETel_Conference.txt"
+resource: "https://perfcap.blogspot.com/2007/03/myphone-making-progress-and-etel.html"
 tags:
   - article
 ---
 
-# Myphone Making Progress And Etel Conference
+# MyPhone Making Progress and ETel Conference
 
 
 
@@ -25,4 +25,4 @@ I'm at the O'Reilly ETel conference this week, lots of new and interesting thing
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/MyPhone_Making_Progress_and_ETel_Conference.txt
+[1] Source: https://perfcap.blogspot.com/2007/03/myphone-making-progress-and-etel.html

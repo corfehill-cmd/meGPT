@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Using Iphone 3.0 Beta"
+title: "Using iPhone 3.0 beta"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Using_iPhone_3.0_beta.txt"
+resource: "https://perfcap.blogspot.com/2009/03/using-iphone-30-beta.html"
 tags:
   - article
 ---
 
-# Using Iphone 3.0 Beta
+# Using iPhone 3.0 beta
 
 
 
@@ -25,4 +25,4 @@ So far its working well, all the previously installed apps that I have tried wor
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Using_iPhone_3.0_beta.txt
+[1] Source: https://perfcap.blogspot.com/2009/03/using-iphone-30-beta.html

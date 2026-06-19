@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Hiring A Researcher At Netflix"
+title: "Hiring a researcher at Netflix"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Hiring_a_researcher_at_Netflix.txt"
+resource: "https://perfcap.blogspot.com/2008/02/hiring-researcher-at-netflix.html"
 tags:
   - article
 ---
 
-# Hiring A Researcher At Netflix
+# Hiring a researcher at Netflix
 
 
 
@@ -25,4 +25,4 @@ Here is the <a href="http://jobs.netflix.com/DetailFlix.asp?flix2028">job specif
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Hiring_a_researcher_at_Netflix.txt
+[1] Source: https://perfcap.blogspot.com/2008/02/hiring-researcher-at-netflix.html

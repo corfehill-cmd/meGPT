@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage   Roof And Rain On Tuesday"
+title: "garage - roof and rain on Tuesday"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/garage_-_roof_and_rain_on_Tuesday.txt"
+resource: "https://perfcap.blogspot.com/2010/04/garage-roof-and-rain-on-tuesday.html"
 tags:
   - article
 ---
 
-# Garage   Roof And Rain On Tuesday
+# garage - roof and rain on Tuesday
 
 
 
@@ -25,4 +25,4 @@ the roof trusses will be delivered tomorrow and rain is forecast for Tuesday and
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/garage_-_roof_and_rain_on_Tuesday.txt
+[1] Source: https://perfcap.blogspot.com/2010/04/garage-roof-and-rain-on-tuesday.html

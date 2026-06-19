@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Winter Solstice And New Ducting Update"
+title: "Solar Power - Winter Solstice and New Ducting Update"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Winter_Solstice_and_New_Ducting_Update.txt"
+resource: "https://perfcap.blogspot.com/2009/12/solar-power-winter-solstice-and-new.html"
 tags:
   - article
 ---
 
-# Solar Power   Winter Solstice And New Ducting Update
+# Solar Power - Winter Solstice and New Ducting Update
 
 
 
@@ -25,4 +25,4 @@ I've previously shared the first few months of output from our solar system, we 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Winter_Solstice_and_New_Ducting_Update.txt
+[1] Source: https://perfcap.blogspot.com/2009/12/solar-power-winter-solstice-and-new.html

@@ -2,7 +2,7 @@
 type: Article
 title: "2017 01 02 Thanks For Summarizing The Differences  But I Don T See Where Your Conclusion Comes From  99B90F330219"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-01-02_Thanks-for-summarizing-the-differences--but-I-don-t-see-where-your-conclusion-comes-from--99b90f330219.txt"
+resource: "https://medium.com/@adrianco/2017-01-02_Thanks-for-summarizing-the-differences--but-I-don-t-see-where-your-conclusion-comes-from--99b90f330219"
 tags:
   - article
 ---
@@ -24,4 +24,4 @@ Thanks for summarizing the differences, but I don’t see where your conclusion 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-01-02_Thanks-for-summarizing-the-differences--but-I-don-t-see-where-your-conclusion-comes-from--99b90f330219.txt
+[1] Source: https://medium.com/@adrianco/2017-01-02_Thanks-for-summarizing-the-differences--but-I-don-t-see-where-your-conclusion-comes-from--99b90f330219

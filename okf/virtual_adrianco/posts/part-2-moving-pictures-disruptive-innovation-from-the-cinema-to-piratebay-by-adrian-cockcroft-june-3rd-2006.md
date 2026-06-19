@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Part 2: Moving Pictures   Disruptive Innovation From The Cinema To Piratebay | By Adrian Cockcroft | June 3Rd, 2006"
+title: "Part 2: Moving Pictures - disruptive innovation from the Cinema to PirateBay | by Adrian Cockcroft | June 3rd, 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Part_2:_Moving_Pictures_-_disruptive_innovation_from_the_Cinema_to_PirateBay_|_by_Adrian_Cockcroft_|_June_3rd,_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/06/part-2-moving-pictures-disruptive.html"
 tags:
   - article
 ---
 
-# Part 2: Moving Pictures   Disruptive Innovation From The Cinema To Piratebay | By Adrian Cockcroft | June 3Rd, 2006
+# Part 2: Moving Pictures - disruptive innovation from the Cinema to PirateBay | by Adrian Cockcroft | June 3rd, 2006
 
 
 
@@ -25,4 +25,4 @@ Lets look at the history of movies. The initial technology to capture and replay
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Part_2:_Moving_Pictures_-_disruptive_innovation_from_the_Cinema_to_PirateBay_|_by_Adrian_Cockcroft_|_June_3rd,_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/06/part-2-moving-pictures-disruptive.html

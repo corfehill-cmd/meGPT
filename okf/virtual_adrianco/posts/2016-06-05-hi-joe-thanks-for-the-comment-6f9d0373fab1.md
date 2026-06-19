@@ -2,7 +2,7 @@
 type: Article
 title: "2016 06 05 Hi Joe  Thanks For The Comment  6F9D0373Fab1"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2016-06-05_Hi-Joe--thanks-for-the-comment--6f9d0373fab1.txt"
+resource: "https://medium.com/@adrianco/2016-06-05_Hi-Joe--thanks-for-the-comment--6f9d0373fab1"
 tags:
   - article
 ---
@@ -24,4 +24,4 @@ Hi Joe, thanks for the comment. I agree there is a lot of inertia. My point was 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2016-06-05_Hi-Joe--thanks-for-the-comment--6f9d0373fab1.txt
+[1] Source: https://medium.com/@adrianco/2016-06-05_Hi-Joe--thanks-for-the-comment--6f9d0373fab1

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "How Not To Build A Private Cloud"
+title: "How not to build a Private Cloud"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/How_not_to_build_a_Private_Cloud.txt"
+resource: "https://perfcap.blogspot.com/2011/03/how-not-to-build-private-cloud.html"
 tags:
   - article
 ---
 
-# How Not To Build A Private Cloud
+# How not to build a Private Cloud
 
 
 
@@ -25,4 +25,4 @@ It's all $, FUD, and internal politics. An MBO Cloud is what you get when the CE
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/How_not_to_build_a_Private_Cloud.txt
+[1] Source: https://perfcap.blogspot.com/2011/03/how-not-to-build-private-cloud.html

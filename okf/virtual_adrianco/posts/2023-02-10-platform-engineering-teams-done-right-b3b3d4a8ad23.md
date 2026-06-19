@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 02 10 Platform Engineering Teams Done Right  B3B3D4A8Ad23"
+title: "Platform Engineering Teams Done Right…"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-02-10_Platform-Engineering-Teams-Done-Right--b3b3d4a8ad23.txt"
+resource: "https://medium.com/@adrianco/2023-02-10_Platform-Engineering-Teams-Done-Right--b3b3d4a8ad23"
 tags:
   - article
 ---
 
-# 2023 02 10 Platform Engineering Teams Done Right  B3B3D4A8Ad23
+# Platform Engineering Teams Done Right…
 
 
 
@@ -32,4 +32,4 @@ However the concept is an old one, and I want to explain the principles and a mo
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-02-10_Platform-Engineering-Teams-Done-Right--b3b3d4a8ad23.txt
+[1] Source: https://medium.com/@adrianco/2023-02-10_Platform-Engineering-Teams-Done-Right--b3b3d4a8ad23

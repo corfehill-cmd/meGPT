@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "More On Open Phones"
+title: "More on Open Phones"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/More_on_Open_Phones.txt"
+resource: "https://perfcap.blogspot.com/2007/01/more-on-open-phones.html"
 tags:
   - article
 ---
 
-# More On Open Phones
+# More on Open Phones
 
 
 
@@ -25,4 +25,4 @@ Thanks to a comment on my <a href="http://perfcap.blogspot.com/2007/01/build-you
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/More_on_Open_Phones.txt
+[1] Source: https://perfcap.blogspot.com/2007/01/more-on-open-phones.html

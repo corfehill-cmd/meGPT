@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "New Music: Mirthkon'S Vehicle"
+title: "New music: MirthKon's Vehicle"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/New_music:_MirthKon's_Vehicle.txt"
+resource: "https://perfcap.blogspot.com/2009/06/new-music-mirthkons-vehicle.html"
 tags:
   - article
 ---
 
-# New Music: Mirthkon'S Vehicle
+# New music: MirthKon's Vehicle
 
 
 
@@ -25,4 +25,4 @@ Some of the most inventive new music is coming from "unknown" bands in the great
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/New_music:_MirthKon's_Vehicle.txt
+[1] Source: https://perfcap.blogspot.com/2009/06/new-music-mirthkons-vehicle.html

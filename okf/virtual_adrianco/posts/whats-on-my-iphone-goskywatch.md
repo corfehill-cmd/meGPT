@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What'S On My Iphone: Goskywatch"
+title: "What's on my iPhone: GoSkyWatch"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What's_on_my_iPhone:_GoSkyWatch.txt"
+resource: "https://perfcap.blogspot.com/2009/02/whats-on-my-iphone-goskywatch.html"
 tags:
   - article
 ---
 
-# What'S On My Iphone: Goskywatch
+# What's on my iPhone: GoSkyWatch
 
 
 
@@ -25,4 +25,4 @@ Years ago when I had a Treo, a my friend Gred Oakes introduced me a to planetari
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What's_on_my_iPhone:_GoSkyWatch.txt
+[1] Source: https://perfcap.blogspot.com/2009/02/whats-on-my-iphone-goskywatch.html

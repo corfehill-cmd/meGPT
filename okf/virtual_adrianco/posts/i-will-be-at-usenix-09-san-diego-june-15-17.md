@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "I Will Be At Usenix 09   San Diego   June 15 17"
+title: "I will be at Usenix 09 - San Diego - June 15-17"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/I_will_be_at_Usenix_09_-_San_Diego_-_June_15-17.txt"
+resource: "https://perfcap.blogspot.com/2009/06/i-will-be-at-usenix-09-san-diego-june.html"
 tags:
   - article
 ---
 
-# I Will Be At Usenix 09   San Diego   June 15 17
+# I will be at Usenix 09 - San Diego - June 15-17
 
 
 
@@ -25,4 +25,4 @@ I'm attending a tutorial on care and feeding of Hadoop on Monday, teaching my ow
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/I_will_be_at_Usenix_09_-_San_Diego_-_June_15-17.txt
+[1] Source: https://perfcap.blogspot.com/2009/06/i-will-be-at-usenix-09-san-diego-june.html

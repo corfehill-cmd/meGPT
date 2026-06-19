@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2016 06 06 Thoughts From 10 Years Ago  Disruptive Innovation In The Evolution Of Moving Pictures 2F2D91C94B68"
+title: "Thoughts from 10 Years Ago: Disruptive Innovation in the Evolution of Moving Pictures"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2016-06-06_Thoughts-from-10-Years-Ago--Disruptive-Innovation-in-the-Evolution-of-Moving-Pictures-2f2d91c94b68.txt"
+resource: "https://medium.com/@adrianco/2016-06-06_Thoughts-from-10-Years-Ago--Disruptive-Innovation-in-the-Evolution-of-Moving-Pictures-2f2d91c94b68"
 tags:
   - article
 ---
 
-# 2016 06 06 Thoughts From 10 Years Ago  Disruptive Innovation In The Evolution Of Moving Pictures 2F2D91C94B68
+# Thoughts from 10 Years Ago: Disruptive Innovation in the Evolution of Moving Pictures
 
 
 
@@ -30,4 +30,4 @@ The next innovation was to be able to watch movies at home on film, then there w
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2016-06-06_Thoughts-from-10-Years-Ago--Disruptive-Innovation-in-the-Evolution-of-Moving-Pictures-2f2d91c94b68.txt
+[1] Source: https://medium.com/@adrianco/2016-06-06_Thoughts-from-10-Years-Ago--Disruptive-Innovation-in-the-Evolution-of-Moving-Pictures-2f2d91c94b68

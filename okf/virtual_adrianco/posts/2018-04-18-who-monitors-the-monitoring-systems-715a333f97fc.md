@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2018 04 18 Who Monitors The Monitoring Systems  715A333F97Fc"
+title: "Who monitors the monitoring systems?"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2018-04-18_Who-monitors-the-monitoring-systems--715a333f97fc.txt"
+resource: "https://medium.com/@adrianco/2018-04-18_Who-monitors-the-monitoring-systems--715a333f97fc"
 tags:
   - article
 ---
 
-# 2018 04 18 Who Monitors The Monitoring Systems  715A333F97Fc
+# Who monitors the monitoring systems?
 
 
 
@@ -30,4 +30,4 @@ These monitoring systems provide critical observability capabilities that are ne
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2018-04-18_Who-monitors-the-monitoring-systems--715a333f97fc.txt
+[1] Source: https://medium.com/@adrianco/2018-04-18_Who-monitors-the-monitoring-systems--715a333f97fc

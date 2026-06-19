@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "See You At The Developers Conference? | By Adrian Cockcroft | May 15Th, 2006"
+title: "See you at the developers conference? | by Adrian Cockcroft | May 15th, 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/See_you_at_the_developers_conference?_|_by_Adrian_Cockcroft_|_May_15th,_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/05/see-you-at-developers-conference-by.html"
 tags:
   - article
 ---
 
-# See You At The Developers Conference? | By Adrian Cockcroft | May 15Th, 2006
+# See you at the developers conference? | by Adrian Cockcroft | May 15th, 2006
 
 
 
@@ -25,4 +25,4 @@ The combined eBay, PayPal and Skype developer conference is coming up, June 10-1
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/See_you_at_the_developers_conference?_|_by_Adrian_Cockcroft_|_May_15th,_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/05/see-you-at-developers-conference-by.html

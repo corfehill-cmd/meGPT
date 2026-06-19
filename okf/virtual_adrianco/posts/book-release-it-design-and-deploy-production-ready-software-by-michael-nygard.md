@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Book: Release It! Design And Deploy Production Ready Software By Michael Nygard"
+title: "Book: Release It! Design and Deploy Production Ready Software by Michael Nygard"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Book:_Release_It!_Design_and_Deploy_Production_Ready_Software_by_Michael_Nygard.txt"
+resource: "https://perfcap.blogspot.com/2010/01/book-release-it-design-and-deploy.html"
 tags:
   - article
 ---
 
-# Book: Release It! Design And Deploy Production Ready Software By Michael Nygard
+# Book: Release It! Design and Deploy Production Ready Software by Michael Nygard
 
 
 
@@ -25,4 +25,4 @@ Essential reading for anyone architecting web sites. It contains clear explanati
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Book:_Release_It!_Design_and_Deploy_Production_Ready_Software_by_Michael_Nygard.txt
+[1] Source: https://perfcap.blogspot.com/2010/01/book-release-it-design-and-deploy.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2017 02 16 Evolution Of Business Logic From Monoliths Through Microservices  To Functions Ff464B95A44D"
+title: "Evolution of business logic from monoliths through microservices, to functions"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2017-02-16_Evolution-of-business-logic-from-monoliths-through-microservices--to-functions-ff464b95a44d.txt"
+resource: "https://medium.com/@adrianco/2017-02-16_Evolution-of-business-logic-from-monoliths-through-microservices--to-functions-ff464b95a44d"
 tags:
   - article
 ---
 
-# 2017 02 16 Evolution Of Business Logic From Monoliths Through Microservices  To Functions Ff464B95A44D
+# Evolution of business logic from monoliths through microservices, to functions
 
 
 
@@ -34,4 +34,4 @@ Put another way, to increase return on investment you need to find ways to incre
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2017-02-16_Evolution-of-business-logic-from-monoliths-through-microservices--to-functions-ff464b95a44d.txt
+[1] Source: https://medium.com/@adrianco/2017-02-16_Evolution-of-business-logic-from-monoliths-through-microservices--to-functions-ff464b95a44d

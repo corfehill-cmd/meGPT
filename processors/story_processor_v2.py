@@ -58,12 +58,46 @@ def is_local_path(source: str) -> bool:
 
 
 def fetch_local_file(path: str) -> tuple[str, dict]:
+    """Read a local archive file, extracting embedded [URL] and title if present.
+
+    Medium and Blogger archive files start with:
+        [URL] https://...
+
+        Title Line
+        Optional subtitle / description
+    """
+    import re as _re
     text = Path(path).read_text(encoding="utf-8", errors="replace")
+    lines = text.splitlines()
+
+    # Extract embedded URL (first line or within first 5 lines)
+    embedded_url: str | None = None
+    for line in lines[:5]:
+        m = _re.match(r"^\[URL\]\s+(https?://\S+)", line.strip())
+        if m:
+            embedded_url = m.group(1)
+            break
+
+    # Extract title: first non-empty, non-URL, non-metadata line after the URL line
+    title_fallback = Path(path).stem.replace("_", " ").replace("-", " ").title()
+    extracted_title = title_fallback
+    if embedded_url:
+        past_url = False
+        for line in lines:
+            if embedded_url in line:
+                past_url = True
+                continue
+            if past_url and line.strip() and not line.startswith("["):
+                candidate = line.strip()
+                if len(candidate) > 5 and len(candidate) < 200:
+                    extracted_title = candidate
+                break
+
     meta = {
-        "title": Path(path).stem.replace("_", " ").replace("-", " ").title(),
+        "title": extracted_title,
         "description": None,
         "published": None,
-        "url": path,
+        "url": embedded_url or path,
     }
     return text, meta
 

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Using Occam To Simulate P2P Web Services"
+title: "Using Occam to Simulate p2p Web Services"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Using_Occam_to_Simulate_p2p_Web_Services.txt"
+resource: "https://perfcap.blogspot.com/2007/06/using-occam-to-simulate-p2p-web.html"
 tags:
   - article
 ---
 
-# Using Occam To Simulate P2P Web Services
+# Using Occam to Simulate p2p Web Services
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2007/06/using-occam-to-simulate-p2p-web.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Using_Occam_to_Simulate_p2p_Web_Services.txt
+[1] Source: https://perfcap.blogspot.com/2007/06/using-occam-to-simulate-p2p-web.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solving Storage Tuning Problems"
+title: "Solving storage tuning problems"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solving_storage_tuning_problems.txt"
+resource: "https://perfcap.blogspot.com/2005/08/solving-storage-tuning-problems.html"
 tags:
   - article
 ---
 
-# Solving Storage Tuning Problems
+# Solving storage tuning problems
 
 
 
@@ -25,4 +25,4 @@ I wrote a while ago about Dave Fisk's <a href=http://www.ortera.com>Ortera Atlas
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solving_storage_tuning_problems.txt
+[1] Source: https://perfcap.blogspot.com/2005/08/solving-storage-tuning-problems.html

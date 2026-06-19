@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2020 03 18 Covid 19 Hazard Analysis Using Stpa 3A8C6D2E40A9"
+title: "COVID-19 Hazard Analysis using STPA"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2020-03-18_COVID-19-Hazard-Analysis-using-STPA-3a8c6d2e40a9.txt"
+resource: "https://medium.com/@adrianco/2020-03-18_COVID-19-Hazard-Analysis-using-STPA-3a8c6d2e40a9"
 tags:
   - article
 ---
 
-# 2020 03 18 Covid 19 Hazard Analysis Using Stpa 3A8C6D2E40A9
+# COVID-19 Hazard Analysis using STPA
 
 
 
@@ -28,4 +28,4 @@ A resilient system continues to operate successfully in the presence of failures
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2020-03-18_COVID-19-Hazard-Analysis-using-STPA-3a8c6d2e40a9.txt
+[1] Source: https://medium.com/@adrianco/2020-03-18_COVID-19-Hazard-Analysis-using-STPA-3a8c6d2e40a9

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Netflix And Silverlight And Joost"
+title: "Netflix and Silverlight and Joost"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Netflix_and_Silverlight_and_Joost.txt"
+resource: "https://perfcap.blogspot.com/2007/05/netflix-and-silverlight-and-joost.html"
 tags:
   - article
 ---
 
-# Netflix And Silverlight And Joost
+# Netflix and Silverlight and Joost
 
 
 
@@ -25,4 +25,4 @@ Very interesting <a href="http://www.hackingnetflix.com/2007/05/netflix_demos_s.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Netflix_and_Silverlight_and_Joost.txt
+[1] Source: https://perfcap.blogspot.com/2007/05/netflix-and-silverlight-and-joost.html

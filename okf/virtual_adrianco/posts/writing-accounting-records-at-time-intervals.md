@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Writing Accounting Records At Time Intervals"
+title: "Writing accounting records at time intervals"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Writing_accounting_records_at_time_intervals.txt"
+resource: "https://perfcap.blogspot.com/2005/04/writing-accounting-records-at-time.html"
 tags:
   - article
 ---
 
-# Writing Accounting Records At Time Intervals
+# Writing accounting records at time intervals
 
 
 
@@ -25,4 +25,4 @@ A major new feature of the exacct system is the ability to get an accounting rec
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Writing_accounting_records_at_time_intervals.txt
+[1] Source: https://perfcap.blogspot.com/2005/04/writing-accounting-records-at-time.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage Site   Full Speed Ahead"
+title: "Garage Site - full speed ahead"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_Site_-_full_speed_ahead.txt"
+resource: "https://perfcap.blogspot.com/2010/03/garage-site-full-speed-ahead.html"
 tags:
   - article
 ---
 
-# Garage Site   Full Speed Ahead
+# Garage Site - full speed ahead
 
 
 
@@ -25,4 +25,4 @@ Pictures taken this morning, before digging started for the new leach field pipe
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_Site_-_full_speed_ahead.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/garage-site-full-speed-ahead.html

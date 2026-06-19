@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Flow   A Homebrew Android Gumstix Phone (Finally)"
+title: "FLOW - a homebrew Android gumstix phone (finally)"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/FLOW_-_a_homebrew_Android_gumstix_phone_(finally).txt"
+resource: "https://perfcap.blogspot.com/2009/05/flow-homebrew-android-gumstix-phone.html"
 tags:
   - article
 ---
 
-# Flow   A Homebrew Android Gumstix Phone (Finally)
+# FLOW - a homebrew Android gumstix phone (finally)
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2009/05/flow-homebrew-android-gumstix-phone.ht
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/FLOW_-_a_homebrew_Android_gumstix_phone_(finally).txt
+[1] Source: https://perfcap.blogspot.com/2009/05/flow-homebrew-android-gumstix-phone.html

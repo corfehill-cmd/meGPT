@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Ebay Wireless Wap Access | By Adrian Cockcroft | June 12Th, 2006"
+title: "eBay Wireless WAP Access | by Adrian Cockcroft | June 12th, 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/eBay_Wireless_WAP_Access_|_by_Adrian_Cockcroft_|_June_12th,_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/06/ebay-wireless-wap-access-by-adrian.html"
 tags:
   - article
 ---
 
-# Ebay Wireless Wap Access | By Adrian Cockcroft | June 12Th, 2006
+# eBay Wireless WAP Access | by Adrian Cockcroft | June 12th, 2006
 
 
 
@@ -25,4 +25,4 @@ I was at the eBay developers conference showing some proof of concept prototypes
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/eBay_Wireless_WAP_Access_|_by_Adrian_Cockcroft_|_June_12th,_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/06/ebay-wireless-wap-access-by-adrian.html

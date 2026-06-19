@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What The Iphone Doesn'T Do (Yet) And Thoughts On Why Not."
+title: "What the iPhone doesn't do (yet) and thoughts on why not."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What_the_iPhone_doesn't_do_(yet)_and_thoughts_on_why_not..txt"
+resource: "https://perfcap.blogspot.com/2007/01/what-iphone-doesnt-do-yet-and-thoughts.html"
 tags:
   - article
 ---
 
-# What The Iphone Doesn'T Do (Yet) And Thoughts On Why Not.
+# What the iPhone doesn't do (yet) and thoughts on why not.
 
 
 
@@ -25,4 +25,4 @@ There has been a lot of commentary, complaints and opinions on the iPhone. I hav
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What_the_iPhone_doesn't_do_(yet)_and_thoughts_on_why_not..txt
+[1] Source: https://perfcap.blogspot.com/2007/01/what-iphone-doesnt-do-yet-and-thoughts.html

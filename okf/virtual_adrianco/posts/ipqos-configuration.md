@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Ipqos Configuration"
+title: "IPQoS Configuration"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/IPQoS_Configuration.txt"
+resource: "https://perfcap.blogspot.com/2005/03/ipqos-configuration.html"
 tags:
   - article
 ---
 
-# Ipqos Configuration
+# IPQoS Configuration
 
 
 
@@ -25,4 +25,4 @@ I found a config file that logs data to the accounting system without<br />filte
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/IPQoS_Configuration.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/ipqos-configuration.html

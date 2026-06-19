@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "How To Finish Writing A Book | By Adrian Cockcroft | 15Th March 2006"
+title: "How to finish writing a book | by Adrian Cockcroft | 15th March 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/How_to_finish_writing_a_book_|_by_Adrian_Cockcroft_|_15th_March_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/03/how-to-finish-writing-book-by-adrian.html"
 tags:
   - article
 ---
 
-# How To Finish Writing A Book | By Adrian Cockcroft | 15Th March 2006
+# How to finish writing a book | by Adrian Cockcroft | 15th March 2006
 
 
 
@@ -25,4 +25,4 @@ I've written four books, and several years ago I developed "Cockcroft's law of b
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/How_to_finish_writing_a_book_|_by_Adrian_Cockcroft_|_15th_March_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/03/how-to-finish-writing-book-by-adrian.html

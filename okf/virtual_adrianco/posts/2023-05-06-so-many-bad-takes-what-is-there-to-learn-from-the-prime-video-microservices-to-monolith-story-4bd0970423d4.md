@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 05 06 So Many Bad Takes   What Is There To Learn From The Prime Video Microservices To Monolith Story 4Bd0970423D4"
+title: "So many bad takes — What is there to learn from the Prime Video microservices to monolith story"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-05-06_So-many-bad-takes---What-is-there-to-learn-from-the-Prime-Video-microservices-to-monolith-story-4bd0970423d4.txt"
+resource: "https://medium.com/@adrianco/2023-05-06_So-many-bad-takes---What-is-there-to-learn-from-the-Prime-Video-microservices-to-monolith-story-4bd0970423d4"
 tags:
   - article
 ---
 
-# 2023 05 06 So Many Bad Takes   What Is There To Learn From The Prime Video Microservices To Monolith Story 4Bd0970423D4
+# So many bad takes — What is there to learn from the Prime Video microservices to monolith story
 
 
 
@@ -28,4 +28,4 @@ The Prime Video team had followed a path I call Serverless First, where the firs
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-05-06_So-many-bad-takes---What-is-there-to-learn-from-the-Prime-Video-microservices-to-monolith-story-4bd0970423d4.txt
+[1] Source: https://medium.com/@adrianco/2023-05-06_So-many-bad-takes---What-is-there-to-learn-from-the-Prime-Video-microservices-to-monolith-story-4bd0970423d4

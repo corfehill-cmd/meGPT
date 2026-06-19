@@ -2,7 +2,7 @@
 type: Article
 title: "2019 01 16 The  Awsopen Team Has Been Working On Ways To Help Open Source Communities Thrive For A Few Years  508F55043B2A"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2019-01-16_The--AWSopen-team-has-been-working-on-ways-to-help-open-source-communities-thrive-for-a-few-years--508f55043b2a.txt"
+resource: "https://medium.com/@adrianco/2019-01-16_The--AWSopen-team-has-been-working-on-ways-to-help-open-source-communities-thrive-for-a-few-years--508f55043b2a"
 tags:
   - article
 ---
@@ -25,4 +25,4 @@ The @AWSopen team has been working on ways to help open source communities thriv
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2019-01-16_The--AWSopen-team-has-been-working-on-ways-to-help-open-source-communities-thrive-for-a-few-years--508f55043b2a.txt
+[1] Source: https://medium.com/@adrianco/2019-01-16_The--AWSopen-team-has-been-working-on-ways-to-help-open-source-communities-thrive-for-a-few-years--508f55043b2a

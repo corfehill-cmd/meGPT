@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Netflix In The Cloud And Html5"
+title: "Netflix in the cloud and HTML5"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Netflix_in_the_cloud_and_HTML5.txt"
+resource: "https://perfcap.blogspot.com/2010/05/netflix-in-cloud-and-html5.html"
 tags:
   - article
 ---
 
-# Netflix In The Cloud And Html5
+# Netflix in the cloud and HTML5
 
 
 
@@ -25,4 +25,4 @@ One of the fun things about working at Netflix is that we are always "leaning fo
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Netflix_in_the_cloud_and_HTML5.txt
+[1] Source: https://perfcap.blogspot.com/2010/05/netflix-in-cloud-and-html5.html

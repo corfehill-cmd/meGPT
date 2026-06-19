@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Blogging Tools | By Adrian Cockcroft | April 20Th, 2006"
+title: "Blogging Tools | by Adrian Cockcroft | April 20th, 2006"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Blogging_Tools_|_by_Adrian_Cockcroft_|_April_20th,_2006.txt"
+resource: "https://perfcap.blogspot.com/2006/04/blogging-tools-by-adrian-cockcroft.html"
 tags:
   - article
 ---
 
-# Blogging Tools | By Adrian Cockcroft | April 20Th, 2006
+# Blogging Tools | by Adrian Cockcroft | April 20th, 2006
 
 
 
@@ -25,4 +25,4 @@ I've been using blogger for the last 18 months, it was an easy way to get starte
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Blogging_Tools_|_by_Adrian_Cockcroft_|_April_20th,_2006.txt
+[1] Source: https://perfcap.blogspot.com/2006/04/blogging-tools-by-adrian-cockcroft.html

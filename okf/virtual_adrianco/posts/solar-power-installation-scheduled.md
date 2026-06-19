@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Installation Scheduled"
+title: "Solar Power - Installation Scheduled"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Scheduled.txt"
+resource: "https://perfcap.blogspot.com/2009/07/solar-power-installation-scheduled.html"
 tags:
   - article
 ---
 
-# Solar Power   Installation Scheduled
+# Solar Power - Installation Scheduled
 
 
 
@@ -25,4 +25,4 @@ The plans were approved earlier this week, and Solarcity called me on the phone 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Scheduled.txt
+[1] Source: https://perfcap.blogspot.com/2009/07/solar-power-installation-scheduled.html

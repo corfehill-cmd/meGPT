@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Partial And Interval Accounting Records"
+title: "Partial and Interval accounting records"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Partial_and_Interval_accounting_records.txt"
+resource: "https://perfcap.blogspot.com/2005/03/partial-and-interval-accounting.html"
 tags:
   - article
 ---
 
-# Partial And Interval Accounting Records
+# Partial and Interval accounting records
 
 
 
@@ -25,4 +25,4 @@ Traditional accounting generates a record only when the process terminates. The 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Partial_and_Interval_accounting_records.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/partial-and-interval-accounting.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Ieee Conference Paper"
+title: "IEEE Conference Paper"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/IEEE_Conference_Paper.txt"
+resource: "https://perfcap.blogspot.com/2006/07/ieee-conference-paper.html"
 tags:
   - article
 ---
 
-# Ieee Conference Paper
+# IEEE Conference Paper
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/07/ieee-conference-paper.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/IEEE_Conference_Paper.txt
+[1] Source: https://perfcap.blogspot.com/2006/07/ieee-conference-paper.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 02 14 Sustainability At Aws Re Invent 2022 All The Talks And Videos I Could Find  D0A19A0A1B86"
+title: "Sustainability at AWS re:Invent 2022 -All the talks and videos I could find…"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-02-14_Sustainability-at-AWS-re-Invent-2022-All-the-talks-and-videos-I-could-find--d0a19a0a1b86.txt"
+resource: "https://medium.com/@adrianco/2023-02-14_Sustainability-at-AWS-re-Invent-2022-All-the-talks-and-videos-I-could-find--d0a19a0a1b86"
 tags:
   - article
 ---
 
-# 2023 02 14 Sustainability At Aws Re Invent 2022 All The Talks And Videos I Could Find  D0A19A0A1B86
+# Sustainability at AWS re:Invent 2022 -All the talks and videos I could find…
 
 
 
@@ -30,4 +30,4 @@ There was some new sustainability information that was quietly added to Amazon�
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-02-14_Sustainability-at-AWS-re-Invent-2022-All-the-talks-and-videos-I-could-find--d0a19a0a1b86.txt
+[1] Source: https://medium.com/@adrianco/2023-02-14_Sustainability-at-AWS-re-Invent-2022-All-the-talks-and-videos-I-could-find--d0a19a0a1b86

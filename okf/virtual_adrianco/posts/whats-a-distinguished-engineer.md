@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "What'S A Distinguished Engineer?"
+title: "What's a Distinguished Engineer?"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/What's_a_Distinguished_Engineer?.txt"
+resource: "https://perfcap.blogspot.com/2012/10/whats-distinguished-engineer.html"
 tags:
   - article
 ---
 
-# What'S A Distinguished Engineer?
+# What's a Distinguished Engineer?
 
 
 
@@ -31,4 +31,4 @@ First I made a list of the names of all the Sun Distinguished Engineers and Fell
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/What's_a_Distinguished_Engineer?.txt
+[1] Source: https://perfcap.blogspot.com/2012/10/whats-distinguished-engineer.html

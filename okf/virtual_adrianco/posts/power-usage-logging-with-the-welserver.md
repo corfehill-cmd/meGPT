@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Power Usage Logging With The Welserver"
+title: "Power Usage Logging with the WELserver"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Power_Usage_Logging_with_the_WELserver.txt"
+resource: "https://perfcap.blogspot.com/2009/09/power-usage-logging-with-welserver.html"
 tags:
   - article
 ---
 
-# Power Usage Logging With The Welserver
+# Power Usage Logging with the WELserver
 
 
 
@@ -25,4 +25,4 @@ Reading some forums about ground source heat pump installations, we noticed refe
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Power_Usage_Logging_with_the_WELserver.txt
+[1] Source: https://perfcap.blogspot.com/2009/09/power-usage-logging-with-welserver.html

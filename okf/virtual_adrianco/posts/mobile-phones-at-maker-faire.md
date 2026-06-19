@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Mobile Phones At Maker Faire"
+title: "Mobile Phones at Maker Faire"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Mobile_Phones_at_Maker_Faire.txt"
+resource: "https://perfcap.blogspot.com/2007/04/mobile-phones-at-maker-faire.html"
 tags:
   - article
 ---
 
-# Mobile Phones At Maker Faire
+# Mobile Phones at Maker Faire
 
 
 
@@ -25,4 +25,4 @@ The Silicon Valley Homebrew Mobile Phone Club is going to be featured at Maker F
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Mobile_Phones_at_Maker_Faire.txt
+[1] Source: https://perfcap.blogspot.com/2007/04/mobile-phones-at-maker-faire.html

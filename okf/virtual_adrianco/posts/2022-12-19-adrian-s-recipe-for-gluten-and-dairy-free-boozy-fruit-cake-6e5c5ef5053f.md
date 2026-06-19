@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2022 12 19 Adrian S Recipe For Gluten And Dairy Free Boozy Fruit Cake 6E5C5Ef5053F"
+title: "Adrian’s recipe for gluten and dairy free boozy fruit cake"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2022-12-19_Adrian-s-recipe-for-gluten-and-dairy-free-boozy-fruit-cake-6e5c5ef5053f.txt"
+resource: "https://medium.com/@adrianco/2022-12-19_Adrian-s-recipe-for-gluten-and-dairy-free-boozy-fruit-cake-6e5c5ef5053f"
 tags:
   - article
 ---
 
-# 2022 12 19 Adrian S Recipe For Gluten And Dairy Free Boozy Fruit Cake 6E5C5Ef5053F
+# Adrian’s recipe for gluten and dairy free boozy fruit cake
 
 
 
@@ -30,4 +30,4 @@ Start the day before you want to bake, with a bowl that has a cover. Fill it wit
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2022-12-19_Adrian-s-recipe-for-gluten-and-dairy-free-boozy-fruit-cake-6e5c5ef5053f.txt
+[1] Source: https://medium.com/@adrianco/2022-12-19_Adrian-s-recipe-for-gluten-and-dairy-free-boozy-fruit-cake-6e5c5ef5053f

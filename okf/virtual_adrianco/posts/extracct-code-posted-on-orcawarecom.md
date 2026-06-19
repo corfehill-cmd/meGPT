@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Extracct Code Posted On Orcaware.Com"
+title: "Extracct code posted on orcaware.com"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Extracct_code_posted_on_orcaware.com.txt"
+resource: "https://perfcap.blogspot.com/2005/07/extracct-code-posted-on-orcawarecom.html"
 tags:
   - article
 ---
 
-# Extracct Code Posted On Orcaware.Com
+# Extracct code posted on orcaware.com
 
 
 
@@ -25,4 +25,4 @@ Since the code I was writing to extract useful information from extended account
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Extracct_code_posted_on_orcaware.com.txt
+[1] Source: https://perfcap.blogspot.com/2005/07/extracct-code-posted-on-orcawarecom.html

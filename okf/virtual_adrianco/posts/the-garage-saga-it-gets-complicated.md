@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "The Garage Saga, It Gets Complicated"
+title: "the garage saga, it gets complicated"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/the_garage_saga,_it_gets_complicated.txt"
+resource: "https://perfcap.blogspot.com/2010/02/garage-saga-it-gets-complicated.html"
 tags:
   - article
 ---
 
-# The Garage Saga, It Gets Complicated
+# the garage saga, it gets complicated
 
 
 
@@ -25,4 +25,4 @@ We live out of town, on top of the Santa Cruz mountains. This makes a few things
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/the_garage_saga,_it_gets_complicated.txt
+[1] Source: https://perfcap.blogspot.com/2010/02/garage-saga-it-gets-complicated.html

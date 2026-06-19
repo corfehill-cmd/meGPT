@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Eventual Consistency Of Cloud?"
+title: "Eventual Consistency of Cloud?"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Eventual_Consistency_of_Cloud?.txt"
+resource: "https://perfcap.blogspot.com/2010/08/eventual-consistency-of-cloud.html"
 tags:
   - article
 ---
 
-# Eventual Consistency Of Cloud?
+# Eventual Consistency of Cloud?
 
 
 
@@ -25,4 +25,4 @@ Lori MacVittie wrote that eventually cloud standards will converge around the pr
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Eventual_Consistency_of_Cloud?.txt
+[1] Source: https://perfcap.blogspot.com/2010/08/eventual-consistency-of-cloud.html

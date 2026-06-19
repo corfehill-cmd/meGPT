@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Comments On Web Traffic"
+title: "Comments on Web Traffic"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Comments_on_Web_Traffic.txt"
+resource: "https://perfcap.blogspot.com/2006/09/comments-on-web-traffic_03.html"
 tags:
   - article
 ---
 
-# Comments On Web Traffic
+# Comments on Web Traffic
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/09/comments-on-web-traffic_03.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Comments_on_Web_Traffic.txt
+[1] Source: https://perfcap.blogspot.com/2006/09/comments-on-web-traffic_03.html

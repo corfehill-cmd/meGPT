@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2020 03 21 Ab Testing   So You Know What Really Works 662F5C18B354"
+title: "AB Testing — So You Know What Really Works"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2020-03-21_AB-Testing---So-You-Know-What-Really-Works-662f5c18b354.txt"
+resource: "https://medium.com/@adrianco/2020-03-21_AB-Testing---So-You-Know-What-Really-Works-662f5c18b354"
 tags:
   - article
 ---
 
-# 2020 03 21 Ab Testing   So You Know What Really Works 662F5C18B354
+# AB Testing — So You Know What Really Works
 
 
 
@@ -30,4 +30,4 @@ There’s quite a lot of online inform
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2020-03-21_AB-Testing---So-You-Know-What-Really-Works-662f5c18b354.txt
+[1] Source: https://medium.com/@adrianco/2020-03-21_AB-Testing---So-You-Know-What-Really-Works-662f5c18b354

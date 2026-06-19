@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Build Your Own Phone, Any Way You Want It!"
+title: "Build your own phone, any way you want it!"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Build_your_own_phone,_any_way_you_want_it!.txt"
+resource: "https://perfcap.blogspot.com/2007/01/build-your-own-phone-any-way-you-want.html"
 tags:
   - article
 ---
 
-# Build Your Own Phone, Any Way You Want It!
+# Build your own phone, any way you want it!
 
 
 
@@ -25,4 +25,4 @@ As an antidote to all the grumbling about the lack of an open developers approac
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Build_your_own_phone,_any_way_you_want_it!.txt
+[1] Source: https://perfcap.blogspot.com/2007/01/build-your-own-phone-any-way-you-want.html

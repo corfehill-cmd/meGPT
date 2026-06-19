@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Bil2010 Millicomputing   The Future In Your Pocket"
+title: "Bil2010 Millicomputing - The Future In Your Pocket"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Bil2010_Millicomputing_-_The_Future_In_Your_Pocket.txt"
+resource: "https://perfcap.blogspot.com/2010/02/bil2010-millicomputing-future-in-your.html"
 tags:
   - article
 ---
 
-# Bil2010 Millicomputing   The Future In Your Pocket
+# Bil2010 Millicomputing - The Future In Your Pocket
 
 
 
@@ -25,4 +25,4 @@ Here are my slides for BIL tomorrow, predictions for 2010 and 2011: <div style="
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Bil2010_Millicomputing_-_The_Future_In_Your_Pocket.txt
+[1] Source: https://perfcap.blogspot.com/2010/02/bil2010-millicomputing-future-in-your.html

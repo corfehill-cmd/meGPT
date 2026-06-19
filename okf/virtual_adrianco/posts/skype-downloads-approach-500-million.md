@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Skype Downloads Approach 500 Million"
+title: "Skype downloads approach 500 Million"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Skype_downloads_approach_500_Million.txt"
+resource: "https://perfcap.blogspot.com/2007/02/skype-downloads-approach-500-million.html"
 tags:
   - article
 ---
 
-# Skype Downloads Approach 500 Million
+# Skype downloads approach 500 Million
 
 
 
@@ -25,4 +25,4 @@ In the next few days, <a href="http://nyanyan.to/skype/40hr_chart.php">Skype wil
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Skype_downloads_approach_500_Million.txt
+[1] Source: https://perfcap.blogspot.com/2007/02/skype-downloads-approach-500-million.html

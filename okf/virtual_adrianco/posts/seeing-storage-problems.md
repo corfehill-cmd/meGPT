@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Seeing Storage Problems"
+title: "Seeing storage problems"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Seeing_storage_problems.txt"
+resource: "https://perfcap.blogspot.com/2005/05/seeing-storage-problems.html"
 tags:
   - article
 ---
 
-# Seeing Storage Problems
+# Seeing storage problems
 
 
 
@@ -25,4 +25,4 @@ Change of topic...<br /><br />Those of you who have dealt with Sun storage perfo
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Seeing_storage_problems.txt
+[1] Source: https://perfcap.blogspot.com/2005/05/seeing-storage-problems.html

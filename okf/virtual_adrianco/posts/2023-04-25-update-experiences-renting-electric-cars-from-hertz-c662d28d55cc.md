@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 04 25 Update  Experiences Renting Electric Cars From Hertz C662D28D55Cc"
+title: "Update: Experiences renting electric cars from Hertz"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-04-25_Update--Experiences-renting-electric-cars-from-Hertz-c662d28d55cc.txt"
+resource: "https://medium.com/@adrianco/2023-04-25_Update--Experiences-renting-electric-cars-from-Hertz-c662d28d55cc"
 tags:
   - article
 ---
 
-# 2023 04 25 Update  Experiences Renting Electric Cars From Hertz C662D28D55Cc
+# Update: Experiences renting electric cars from Hertz
 
 
 
@@ -30,4 +30,4 @@ Summer 2022 we rented a car in the UK for a month from National/Enterprise, and 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-04-25_Update--Experiences-renting-electric-cars-from-Hertz-c662d28d55cc.txt
+[1] Source: https://medium.com/@adrianco/2023-04-25_Update--Experiences-renting-electric-cars-from-Hertz-c662d28d55cc

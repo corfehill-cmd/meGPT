@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2022 08 02 What Adrian Did Next  2022 Conference Appearances 672710583C80"
+title: "What Adrian Did Next: 2022 Conference Appearances"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2022-08-02_What-Adrian-Did-Next--2022-Conference-Appearances-672710583c80.txt"
+resource: "https://medium.com/@adrianco/2022-08-02_What-Adrian-Did-Next--2022-Conference-Appearances-672710583c80"
 tags:
   - article
 ---
 
-# 2022 08 02 What Adrian Did Next  2022 Conference Appearances 672710583C80
+# What Adrian Did Next: 2022 Conference Appearances
 
 
 
@@ -30,4 +30,4 @@ TheCube is running a virtual Supercloud event on August 9th, and I’m taking pa
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2022-08-02_What-Adrian-Did-Next--2022-Conference-Appearances-672710583c80.txt
+[1] Source: https://medium.com/@adrianco/2022-08-02_What-Adrian-Did-Next--2022-Conference-Appearances-672710583c80

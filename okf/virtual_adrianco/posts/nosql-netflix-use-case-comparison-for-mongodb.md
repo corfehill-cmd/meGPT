@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Nosql Netflix Use Case Comparison For Mongodb"
+title: "NoSQL Netflix Use Case Comparison for MongoDB"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/NoSQL_Netflix_Use_Case_Comparison_for_MongoDB.txt"
+resource: "https://perfcap.blogspot.com/2010/10/nosql-netflix-use-case-comparison-for_31.html"
 tags:
   - article
 ---
 
-# Nosql Netflix Use Case Comparison For Mongodb
+# NoSQL Netflix Use Case Comparison for MongoDB
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2010/10/nosql-netflix-use-case-comparison-for_
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/NoSQL_Netflix_Use_Case_Comparison_for_MongoDB.txt
+[1] Source: https://perfcap.blogspot.com/2010/10/nosql-netflix-use-case-comparison-for_31.html

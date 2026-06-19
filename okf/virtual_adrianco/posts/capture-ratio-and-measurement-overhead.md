@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Capture Ratio And Measurement Overhead"
+title: "Capture Ratio and measurement overhead"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Capture_Ratio_and_measurement_overhead.txt"
+resource: "https://perfcap.blogspot.com/2005/03/capture-ratio-and-measurement-overhead.html"
 tags:
   - article
 ---
 
-# Capture Ratio And Measurement Overhead
+# Capture Ratio and measurement overhead
 
 
 
@@ -25,4 +25,4 @@ For performance monitoring applications, we often want to know the process relat
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Capture_Ratio_and_measurement_overhead.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/capture-ratio-and-measurement-overhead.html

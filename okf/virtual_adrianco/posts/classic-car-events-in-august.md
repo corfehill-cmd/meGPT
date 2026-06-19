@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Classic Car Events In August"
+title: "Classic car events in August"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Classic_car_events_in_August.txt"
+resource: "https://perfcap.blogspot.com/2009/07/classic-car-events-in-august.html"
 tags:
   - article
 ---
 
-# Classic Car Events In August
+# Classic car events in August
 
 
 
@@ -25,4 +25,4 @@ I go to the Monterey Historic Races every year, and this year I'm also taking my
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Classic_car_events_in_August.txt
+[1] Source: https://perfcap.blogspot.com/2009/07/classic-car-events-in-august.html

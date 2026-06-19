@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "I'M Hiring A Senior Engineer At Netflix"
+title: "I'm hiring a senior engineer at Netflix"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/I'm_hiring_a_senior_engineer_at_Netflix.txt"
+resource: "https://perfcap.blogspot.com/2007/05/im-hiring-senior-engineer-at-netflix.html"
 tags:
   - article
 ---
 
-# I'M Hiring A Senior Engineer At Netflix
+# I'm hiring a senior engineer at Netflix
 
 
 
@@ -25,4 +25,4 @@ In my new role, I manage a small group and I have an open headcount for a senior
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/I'm_hiring_a_senior_engineer_at_Netflix.txt
+[1] Source: https://perfcap.blogspot.com/2007/05/im-hiring-senior-engineer-at-netflix.html

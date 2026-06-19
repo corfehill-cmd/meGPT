@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Help! I'Ve Lost My Memory! Updated Sunworld Column"
+title: "Help! I've lost my memory! Updated Sunworld Column"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Help!_I've_lost_my_memory!_Updated_Sunworld_Column.txt"
+resource: "https://perfcap.blogspot.com/2005/10/help-ive-lost-my-memory-updated.html"
 tags:
   - article
 ---
 
-# Help! I'Ve Lost My Memory! Updated Sunworld Column
+# Help! I've lost my memory! Updated Sunworld Column
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2005/10/help-ive-lost-my-memory-updated.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Help!_I've_lost_my_memory!_Updated_Sunworld_Column.txt
+[1] Source: https://perfcap.blogspot.com/2005/10/help-ive-lost-my-memory-updated.html

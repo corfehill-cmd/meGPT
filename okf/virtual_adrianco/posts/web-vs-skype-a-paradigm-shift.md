@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Web Vs. Skype, A Paradigm Shift"
+title: "Web vs. Skype, a paradigm shift"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Web_vs._Skype,_a_paradigm_shift.txt"
+resource: "https://perfcap.blogspot.com/2006/08/web-vs-skype-paradigm-shift.html"
 tags:
   - article
 ---
 
-# Web Vs. Skype, A Paradigm Shift
+# Web vs. Skype, a paradigm shift
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/08/web-vs-skype-paradigm-shift.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Web_vs._Skype,_a_paradigm_shift.txt
+[1] Source: https://perfcap.blogspot.com/2006/08/web-vs-skype-paradigm-shift.html

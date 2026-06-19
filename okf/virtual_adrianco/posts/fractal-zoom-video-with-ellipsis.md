@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Fractal Zoom Video With Ellipsis"
+title: "Fractal Zoom video with Ellipsis"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Fractal_Zoom_video_with_Ellipsis.txt"
+resource: "https://perfcap.blogspot.com/2009/01/fractal-zoom-video-with-ellipsis.html"
 tags:
   - article
 ---
 
-# Fractal Zoom Video With Ellipsis
+# Fractal Zoom video with Ellipsis
 
 
 
@@ -25,4 +25,4 @@ Here is a collaboration between Eric Bigas, who makes Fractal Zoom videos and th
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Fractal_Zoom_video_with_Ellipsis.txt
+[1] Source: https://perfcap.blogspot.com/2009/01/fractal-zoom-video-with-ellipsis.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Comment On How Netflix Is Ruining Cloud Computing"
+title: "Comment on How Netflix Is Ruining Cloud Computing"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Comment_on_How_Netflix_Is_Ruining_Cloud_Computing.txt"
+resource: "https://perfcap.blogspot.com/2013/03/comment-on-how-netflix-is-ruining-cloud.html"
 tags:
   - article
 ---
 
-# Comment On How Netflix Is Ruining Cloud Computing
+# Comment on How Netflix Is Ruining Cloud Computing
 
 
 
@@ -37,4 +37,4 @@ I would argue that the way most people are doing cloud today is to forklift part
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Comment_on_How_Netflix_Is_Ruining_Cloud_Computing.txt
+[1] Source: https://perfcap.blogspot.com/2013/03/comment-on-how-netflix-is-ruining-cloud.html

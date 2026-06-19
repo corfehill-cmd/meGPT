@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2016 11 23 Cloud Trends   Where Have We Come From And Where Are We Headed 3D7E5E756D16"
+title: "Cloud Trends — Where have we come from and where are we headed"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2016-11-23_Cloud-Trends---Where-have-we-come-from-and-where-are-we-headed-3d7e5e756d16.txt"
+resource: "https://medium.com/@adrianco/2016-11-23_Cloud-Trends---Where-have-we-come-from-and-where-are-we-headed-3d7e5e756d16"
 tags:
   - article
 ---
 
-# 2016 11 23 Cloud Trends   Where Have We Come From And Where Are We Headed 3D7E5E756D16
+# Cloud Trends — Where have we come from and where are we headed
 
 
 
@@ -30,4 +30,4 @@ In 2014 we saw many enterprises sign up for AWS, start proof of concept tests an
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2016-11-23_Cloud-Trends---Where-have-we-come-from-and-where-are-we-headed-3d7e5e756d16.txt
+[1] Source: https://medium.com/@adrianco/2016-11-23_Cloud-Trends---Where-have-we-come-from-and-where-are-we-headed-3d7e5e756d16

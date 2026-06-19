@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Skype On Solaris"
+title: "Skype on Solaris"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Skype_on_Solaris.txt"
+resource: "https://perfcap.blogspot.com/2006/11/skype-on-solaris.html"
 tags:
   - article
 ---
 
-# Skype On Solaris
+# Skype on Solaris
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/11/skype-on-solaris.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Skype_on_Solaris.txt
+[1] Source: https://perfcap.blogspot.com/2006/11/skype-on-solaris.html

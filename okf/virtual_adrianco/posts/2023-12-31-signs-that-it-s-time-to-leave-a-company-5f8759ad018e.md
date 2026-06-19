@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2023 12 31 Signs That It S Time To Leave A Company  5F8759Ad018E"
+title: "Signs that it’s time to leave a company…"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2023-12-31_Signs-that-it-s-time-to-leave-a-company--5f8759ad018e.txt"
+resource: "https://medium.com/@adrianco/2023-12-31_Signs-that-it-s-time-to-leave-a-company--5f8759ad018e"
 tags:
   - article
 ---
 
-# 2023 12 31 Signs That It S Time To Leave A Company  5F8759Ad018E
+# Signs that it’s time to leave a company…
 
 
 
@@ -32,4 +32,4 @@ Growth slowed. When companies transition from high growth to slow growth or begi
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2023-12-31_Signs-that-it-s-time-to-leave-a-company--5f8759ad018e.txt
+[1] Source: https://medium.com/@adrianco/2023-12-31_Signs-that-it-s-time-to-leave-a-company--5f8759ad018e

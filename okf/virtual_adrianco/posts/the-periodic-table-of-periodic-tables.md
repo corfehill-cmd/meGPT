@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "The Periodic Table Of Periodic Tables"
+title: "The Periodic Table of Periodic Tables"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/The_Periodic_Table_of_Periodic_Tables.txt"
+resource: "https://perfcap.blogspot.com/2010/03/periodic-table-of-periodic-tables.html"
 tags:
   - article
 ---
 
-# The Periodic Table Of Periodic Tables
+# The Periodic Table of Periodic Tables
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2010/03/periodic-table-of-periodic-tables.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/The_Periodic_Table_of_Periodic_Tables.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/periodic-table-of-periodic-tables.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Fractal Cd Sequitur Now Available From Cdbaby.Com"
+title: "Fractal CD Sequitur now available from cdbaby.com"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Fractal_CD_Sequitur_now_available_from_cdbaby.com.txt"
+resource: "https://perfcap.blogspot.com/2009/02/fractal-cd-sequitur-now-available-from.html"
 tags:
   - article
 ---
 
-# Fractal Cd Sequitur Now Available From Cdbaby.Com
+# Fractal CD Sequitur now available from cdbaby.com
 
 
 
@@ -25,4 +25,4 @@ Fractal's new CD "Sequitur" is now available to review and buy on CD Baby at:<br
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Fractal_CD_Sequitur_now_available_from_cdbaby.com.txt
+[1] Source: https://perfcap.blogspot.com/2009/02/fractal-cd-sequitur-now-available-from.html

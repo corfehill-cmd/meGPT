@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Joost And The Venice Project Beta Testing"
+title: "Joost and The Venice Project Beta Testing"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Joost_and_The_Venice_Project_Beta_Testing.txt"
+resource: "https://perfcap.blogspot.com/2007/01/joost-and-venice-project-beta-testing.html"
 tags:
   - article
 ---
 
-# Joost And The Venice Project Beta Testing
+# Joost and The Venice Project Beta Testing
 
 
 
@@ -25,4 +25,4 @@ I signed up for TVP's beta program a month or two ago, and got accepted recently
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Joost_and_The_Venice_Project_Beta_Testing.txt
+[1] Source: https://perfcap.blogspot.com/2007/01/joost-and-venice-project-beta-testing.html

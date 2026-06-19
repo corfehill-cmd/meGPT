@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Gp Musumeci Joins Netflix...."
+title: "GP Musumeci joins Netflix...."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/GP_Musumeci_joins_Netflix.....txt"
+resource: "https://perfcap.blogspot.com/2009/09/adrian-cockcrofts-blog-are-any-ex-pae.html"
 tags:
   - article
 ---
 
-# Gp Musumeci Joins Netflix....
+# GP Musumeci joins Netflix....
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2009/09/adrian-cockcrofts-blog-are-any-ex-pae.
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/GP_Musumeci_joins_Netflix.....txt
+[1] Source: https://perfcap.blogspot.com/2009/09/adrian-cockcrofts-blog-are-any-ex-pae.html

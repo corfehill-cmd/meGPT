@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Where Should I Start..."
+title: "Where should I start..."
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Where_should_I_start....txt"
+resource: "https://perfcap.blogspot.com/2004/06/where-should-i-start.html"
 tags:
   - article
 ---
 
-# Where Should I Start...
+# Where should I start...
 
 
 
@@ -32,4 +32,4 @@ I googled ["Web services" performance] and got a bunch of nice hits
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Where_should_I_start....txt
+[1] Source: https://perfcap.blogspot.com/2004/06/where-should-i-start.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Parallel Application Performance And Tuning With Openmp"
+title: "Parallel Application Performance and Tuning with OpenMP"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Parallel_Application_Performance_and_Tuning_with_OpenMP.txt"
+resource: "https://perfcap.blogspot.com/2007/11/parallel-application-performance-and.html"
 tags:
   - article
 ---
 
-# Parallel Application Performance And Tuning With Openmp
+# Parallel Application Performance and Tuning with OpenMP
 
 
 
@@ -25,4 +25,4 @@ I just had dinner with my old friend Ruud van der Pas, who works for Sun's devel
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Parallel_Application_Performance_and_Tuning_with_OpenMP.txt
+[1] Source: https://perfcap.blogspot.com/2007/11/parallel-application-performance-and.html

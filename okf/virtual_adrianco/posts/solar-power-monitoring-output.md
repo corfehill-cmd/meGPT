@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Monitoring Output"
+title: "Solar Power - Monitoring Output"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Monitoring_Output.txt"
+resource: "https://perfcap.blogspot.com/2009/09/solar-power-monitoring-output.html"
 tags:
   - article
 ---
 
-# Solar Power   Monitoring Output
+# Solar Power - Monitoring Output
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2009/09/solar-power-monitoring-output.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Monitoring_Output.txt
+[1] Source: https://perfcap.blogspot.com/2009/09/solar-power-monitoring-output.html

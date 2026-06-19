@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Orb Swarm Rolling Robot Video At Maker Faire"
+title: "Orb Swarm Rolling Robot Video at Maker Faire"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Orb_Swarm_Rolling_Robot_Video_at_Maker_Faire.txt"
+resource: "https://perfcap.blogspot.com/2007/05/rolling-robot-video-at-maker-faire.html"
 tags:
   - article
 ---
 
-# Orb Swarm Rolling Robot Video At Maker Faire
+# Orb Swarm Rolling Robot Video at Maker Faire
 
 
 
@@ -25,4 +25,4 @@ Update: this is part of the <a href="http://orbswarm.com/">Orb Swarm</a> project
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Orb_Swarm_Rolling_Robot_Video_at_Maker_Faire.txt
+[1] Source: https://perfcap.blogspot.com/2007/05/rolling-robot-video-at-maker-faire.html

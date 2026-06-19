@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2018 08 23 Citroen Sm   Allez A3B8B7808Deb"
+title: "Citroen SM — Allez"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2018-08-23_Citroen-SM---Allez-a3b8b7808deb.txt"
+resource: "https://medium.com/@adrianco/2018-08-23_Citroen-SM---Allez-a3b8b7808deb"
 tags:
   - article
 ---
 
-# 2018 08 23 Citroen Sm   Allez A3B8B7808Deb
+# Citroen SM — Allez
 
 
 
@@ -28,4 +28,4 @@ After 19 years with Allez, I’m not driving it often enough, and feel that it�
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2018-08-23_Citroen-SM---Allez-a3b8b7808deb.txt
+[1] Source: https://medium.com/@adrianco/2018-08-23_Citroen-SM---Allez-a3b8b7808deb

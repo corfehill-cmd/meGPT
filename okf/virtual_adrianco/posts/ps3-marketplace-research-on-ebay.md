@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Ps3 Marketplace Research On Ebay"
+title: "ps3 Marketplace Research on eBay"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/ps3_Marketplace_Research_on_eBay.txt"
+resource: "https://perfcap.blogspot.com/2006/11/ps3-marketplace-research-on-ebay.html"
 tags:
   - article
 ---
 
-# Ps3 Marketplace Research On Ebay
+# ps3 Marketplace Research on eBay
 
 
 
@@ -25,4 +25,4 @@ URL: https://perfcap.blogspot.com/2006/11/ps3-marketplace-research-on-ebay.html
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/ps3_Marketplace_Research_on_eBay.txt
+[1] Source: https://perfcap.blogspot.com/2006/11/ps3-marketplace-research-on-ebay.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Garage   Inspected And Delayed"
+title: "Garage - Inspected and delayed"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Garage_-_Inspected_and_delayed.txt"
+resource: "https://perfcap.blogspot.com/2010/03/garage-inspected-and-delayed.html"
 tags:
   - article
 ---
 
-# Garage   Inspected And Delayed
+# Garage - Inspected and delayed
 
 
 
@@ -25,4 +25,4 @@ We passed inspection by the county this morning, but the weather has turned too 
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Garage_-_Inspected_and_delayed.txt
+[1] Source: https://perfcap.blogspot.com/2010/03/garage-inspected-and-delayed.html

@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Solar Power   Installation Day 3"
+title: "Solar Power - Installation Day 3"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Day_3.txt"
+resource: "https://perfcap.blogspot.com/2009/07/solar-power-installation-day-3.html"
 tags:
   - article
 ---
 
-# Solar Power   Installation Day 3
+# Solar Power - Installation Day 3
 
 
 
@@ -25,4 +25,4 @@ Today about half the panels were put in place on the roof, and a lot of wiring w
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Solar_Power_-_Installation_Day_3.txt
+[1] Source: https://perfcap.blogspot.com/2009/07/solar-power-installation-day-3.html

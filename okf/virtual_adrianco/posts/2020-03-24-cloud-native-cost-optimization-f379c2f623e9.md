@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "2020 03 24 Cloud Native Cost Optimization F379C2F623E9"
+title: "Cloud Native Cost Optimization"
 description: ""
-resource: "authors/virtual_adrianco/medium_adrianco/2020-03-24_Cloud-Native-Cost-Optimization-f379c2f623e9.txt"
+resource: "https://medium.com/@adrianco/2020-03-24_Cloud-Native-Cost-Optimization-f379c2f623e9"
 tags:
   - article
 ---
 
-# 2020 03 24 Cloud Native Cost Optimization F379C2F623E9
+# Cloud Native Cost Optimization
 
 
 
@@ -30,4 +30,4 @@ My 2014 re:Invent talk provides a structured basis for covering all t
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/medium_adrianco/2020-03-24_Cloud-Native-Cost-Optimization-f379c2f623e9.txt
+[1] Source: https://medium.com/@adrianco/2020-03-24_Cloud-Native-Cost-Optimization-f379c2f623e9

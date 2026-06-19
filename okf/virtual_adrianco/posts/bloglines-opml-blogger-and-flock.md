@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Bloglines, Opml, Blogger And Flock"
+title: "Bloglines, OPML, Blogger and Flock"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Bloglines,_OPML,_Blogger_and_Flock.txt"
+resource: "https://perfcap.blogspot.com/2006/10/bloglines-opml-blogger-and-flock.html"
 tags:
   - article
 ---
 
-# Bloglines, Opml, Blogger And Flock
+# Bloglines, OPML, Blogger and Flock
 
 
 
@@ -25,4 +25,4 @@ I aggregate 50 or so blog feeds using Bloglines, its a very useful way to keep t
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Bloglines,_OPML,_Blogger_and_Flock.txt
+[1] Source: https://perfcap.blogspot.com/2006/10/bloglines-opml-blogger-and-flock.html

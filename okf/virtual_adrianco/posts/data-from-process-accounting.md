@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Data From Process Accounting"
+title: "Data from process accounting"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Data_from_process_accounting.txt"
+resource: "https://perfcap.blogspot.com/2005/03/data-from-process-accounting.html"
 tags:
   - article
 ---
 
-# Data From Process Accounting
+# Data from process accounting
 
 
 
@@ -25,4 +25,4 @@ The process accounting record is far more detailed than the standard sysV acct r
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Data_from_process_accounting.txt
+[1] Source: https://perfcap.blogspot.com/2005/03/data-from-process-accounting.html

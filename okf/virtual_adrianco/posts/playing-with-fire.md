@@ -1,13 +1,13 @@
 ---
 type: Article
-title: "Playing With Fire"
+title: "Playing with Fire"
 description: ""
-resource: "authors/virtual_adrianco/blogger_perfcap_posts/Playing_with_Fire.txt"
+resource: "https://perfcap.blogspot.com/2005/06/playing-with-fire.html"
 tags:
   - article
 ---
 
-# Playing With Fire
+# Playing with Fire
 
 
 
@@ -25,4 +25,4 @@ What would you do if your house burned down? Build another one, but that takes a
 
 ## Sources
 
-[1] Source file: authors/virtual_adrianco/blogger_perfcap_posts/Playing_with_Fire.txt
+[1] Source: https://perfcap.blogspot.com/2005/06/playing-with-fire.html
