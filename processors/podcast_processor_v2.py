@@ -109,6 +109,56 @@ def resolve_audio_url(page_url: str) -> tuple[str | None, dict]:
             if rss_audio:
                 return rss_audio, meta
 
+        # 5. Simplecast player embed → yt-dlp
+        sc_matches = re.findall(
+            r'player\.simplecast\.com/([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})',
+            html,
+        )
+        if sc_matches:
+            ep_uuid = sc_matches[0]
+            player_url = f"https://player.simplecast.com/{ep_uuid}"
+            try:
+                import yt_dlp
+
+                with yt_dlp.YoutubeDL({"quiet": True}) as ydl:
+                    info = ydl.extract_info(player_url, download=False)
+                    # Simplecast returns direct URL in info["url"] with no formats list
+                    if info.get("url"):
+                        return info["url"], meta
+                    formats = info.get("formats", [])
+                    if formats:
+                        return formats[-1]["url"], meta
+            except Exception as exc:
+                logger.debug("Simplecast yt-dlp failed for %s: %s", ep_uuid, exc)
+
+        # 6. Libsyn embed → find enclosure in page's RSS feed with better matching
+        libsyn_eps = re.findall(r'libsyn\.com/embed/episode/id/(\d+)', html)
+        if libsyn_eps and not rss_link:
+            # Try fetching Libsyn RSS from show homepage
+            libsyn_feed_links = re.findall(r'(https?://feeds\.libsyn\.com/\d+/rss)', html)
+            if libsyn_feed_links:
+                rss_audio = _first_audio_from_rss(libsyn_feed_links[0], page_url)
+                if rss_audio:
+                    return rss_audio, meta
+
+        # 7. SoundCloud iframe embed → yt-dlp
+        sc_embeds = re.findall(
+            r'soundcloud\.com/player/\?url=(https?://api\.soundcloud\.com/tracks/\d+)',
+            html,
+        )
+        if sc_embeds:
+            track_api_url = requests.utils.unquote(sc_embeds[0])
+            try:
+                import yt_dlp
+
+                with yt_dlp.YoutubeDL({"format": "bestaudio", "quiet": True}) as ydl:
+                    info = ydl.extract_info(track_api_url, download=False)
+                    formats = info.get("formats", [])
+                    if formats:
+                        return formats[-1]["url"], meta
+            except Exception as exc:
+                logger.debug("SoundCloud yt-dlp failed: %s", exc)
+
     except requests.RequestException as e:
         logger.error("Failed to fetch page %s: %s", page_url, e)
 
@@ -116,20 +166,42 @@ def resolve_audio_url(page_url: str) -> tuple[str | None, dict]:
 
 
 def _first_audio_from_rss(rss_url: str, episode_page_url: str) -> str | None:
-    """Pull first enclosure URL from an RSS feed matching the episode page."""
+    """Pull enclosure URL from an RSS feed matching the episode page URL."""
     import feedparser
+    from urllib.parse import urlparse
+
     feed = feedparser.parse(rss_url)
-    for entry in feed.entries:
-        # Try to match to the episode page by link
-        if episode_page_url and episode_page_url in getattr(entry, "link", ""):
-            for enc in getattr(entry, "enclosures", []):
-                if enc.get("type", "").startswith("audio"):
-                    return enc.href
-        # Fallback: first audio enclosure in feed
-    for entry in feed.entries:
+
+    def _page_slug(url: str) -> str:
+        """Extract last non-empty path segment for loose matching."""
+        parts = [p for p in urlparse(url).path.strip("/").split("/") if p]
+        return parts[-1] if parts else ""
+
+    ep_slug = _page_slug(episode_page_url)
+
+    def _first_audio_enc(entry) -> str | None:
         for enc in getattr(entry, "enclosures", []):
-            if enc.get("type", "").startswith("audio"):
-                return enc.href
+            href = enc.get("href") or enc.get("url", "")
+            if href and (enc.get("type", "").startswith("audio") or
+                         re.search(r"\.(mp3|m4a|ogg|aac)", href, re.I)):
+                return href
+        return None
+
+    # Pass 1: exact URL match
+    for entry in feed.entries:
+        if episode_page_url and episode_page_url in getattr(entry, "link", ""):
+            audio = _first_audio_enc(entry)
+            if audio:
+                return audio
+
+    # Pass 2: slug-based match (handles URL scheme/www differences)
+    if ep_slug:
+        for entry in feed.entries:
+            if ep_slug in getattr(entry, "link", ""):
+                audio = _first_audio_enc(entry)
+                if audio:
+                    return audio
+
     return None
 
 
@@ -331,6 +403,39 @@ def sanitize_filename(name: str) -> str:
     return clean[:120].lower()
 
 
+def generate_okf_stub(episode_meta: dict, source_url: str) -> str:
+    """
+    Generate a minimal OKF doc from page metadata when audio is not available.
+    Useful for indexing episodes whose audio player requires JS or authentication.
+    """
+    title = episode_meta.get("title") or "Unknown Episode"
+    description = episode_meta.get("description") or ""
+    published = episode_meta.get("published") or ""
+
+    ts_line = f'timestamp: "{published}"\n' if published else ""
+    safe_title = title.replace('"', "'")
+    safe_desc = description[:200].replace('"', "'")
+    frontmatter = (
+        "---\n"
+        "type: Podcast Interview\n"
+        f'title: "{safe_title}"\n'
+        f'description: "{safe_desc}"\n'
+        f'resource: "{source_url}"\n'
+        f"{ts_line}"
+        "---\n"
+    )
+
+    body = (
+        f"\n# {title}\n\n"
+        f"{description}\n\n"
+        "_Transcript not available — audio player could not be resolved automatically. "
+        "Visit the source link to listen._\n\n"
+        f"## Sources\n[1] Episode page: {source_url}\n"
+    )
+
+    return frontmatter + body
+
+
 def generate_okf_document(
     episode_meta: dict,
     enrichment: dict,
@@ -438,13 +543,19 @@ def process_podcast(
             print(f"✓ Downloaded ({Path(audio_path).stat().st_size // 1024}KB)")
 
     if not audio_path:
-        # Save metadata-only stub and exit
+        # Save metadata stub
         stub = {**meta, "source_url": url, "audio_url": audio_url, "error": "no_audio"}
         slug = sanitize_filename(meta.get("title") or "episode")
         json_path = Path(output_dir) / f"{slug}.json"
         json_path.write_text(json.dumps(stub, indent=2))
         print(f"• Saved metadata stub → {json_path}")
-        return False
+        # Generate a minimal OKF doc from page metadata so the episode is indexed
+        print("• Generating stub OKF doc (no transcript) ...")
+        okf_doc = generate_okf_stub(meta, url)
+        okf_path = Path(output_dir) / f"{slug}.md"
+        okf_path.write_text(okf_doc)
+        print(f"✓ Stub OKF document → {okf_path}")
+        return True
 
     # 3. Transcribe
     print(f"• Transcribing ({transcriber}) ...")
