@@ -483,6 +483,16 @@ tags:
     if tags:
         topics_md = "\n## Topics\n" + ", ".join(tags) + "\n"
 
+    # Raw transcript block — included when no LLM enrichment ran
+    transcript_md = ""
+    raw_text = (transcript_data or {}).get("text", "")
+    if raw_text and not enrichment.get("qa_pairs") and not enrichment.get("key_positions"):
+        # Cap at ~6000 chars; Whisper output is one long string (no speaker labels)
+        excerpt = raw_text[:6000]
+        if len(raw_text) > 6000:
+            excerpt += "\n\n_[Transcript truncated — full text in _transcript.json]_"
+        transcript_md = f"\n## Transcript\n\n{excerpt}\n"
+
     # Sources
     sources = [f"[1] Episode page: {source_url}"]
     if audio_url:
@@ -496,6 +506,7 @@ tags:
         topics_md,
         positions_md,
         qa_md,
+        transcript_md,
         sources_md,
     ])
 
@@ -545,7 +556,13 @@ def process_podcast(
     if not audio_path:
         # Save metadata stub
         stub = {**meta, "source_url": url, "audio_url": audio_url, "error": "no_audio"}
-        slug = sanitize_filename(meta.get("title") or "episode")
+        # Use URL path as slug fallback to avoid collisions when title is None
+        title_slug = meta.get("title") or ""
+        if not title_slug:
+            from urllib.parse import urlparse
+            url_parts = [p for p in urlparse(url).path.strip("/").split("/") if p]
+            title_slug = url_parts[-1] if url_parts else "episode"
+        slug = sanitize_filename(title_slug)
         json_path = Path(output_dir) / f"{slug}.json"
         json_path.write_text(json.dumps(stub, indent=2))
         print(f"• Saved metadata stub → {json_path}")
