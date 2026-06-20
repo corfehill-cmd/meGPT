@@ -245,18 +245,52 @@ def _build_context(items: list[dict], max_chars: int = 80_000) -> str:
     return "\n---\n".join(parts)
 
 
+def _claude_cli_path() -> str:
+    """Find the claude CLI binary."""
+    import json as _json
+    try:
+        cfg = _json.load(open(Path(__file__).parent.parent / "house-agent/.instar/config.json"))
+        p = cfg.get("sessions", {}).get("claudePath", "")
+        if p and os.path.exists(p):
+            return p
+    except Exception:
+        pass
+    for candidate in ("/Users/corfehill/homebrew/bin/claude", "/usr/local/bin/claude", "claude"):
+        if os.path.exists(candidate):
+            return candidate
+    return "claude"
+
+
+def _oauth_token() -> str:
+    """Read the OAuth token from instar config."""
+    import json as _json
+    try:
+        cfg = _json.load(open(Path(__file__).parent.parent / "house-agent/.instar/config.json"))
+        return cfg.get("sessions", {}).get("anthropicApiKey", "")
+    except Exception:
+        return ""
+
+
+def _ask_claude_cli(prompt: str, claude: str) -> str:
+    """Run a one-shot claude -p query and return stdout."""
+    import subprocess
+    env = os.environ.copy()
+    token = _oauth_token()
+    if token:
+        env["CLAUDE_CODE_OAUTH_TOKEN"] = token
+    r = subprocess.run(
+        [claude, "--dangerously-skip-permissions", "-p", prompt],
+        capture_output=True, text=True, timeout=60, env=env,
+    )
+    return (r.stdout + r.stderr).strip()
+
+
 def test_golden_qa(author: str) -> bool:
     header("Layer 3: Golden Q&A (LLM-based)")
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
-    if not api_key:
-        result("ANTHROPIC_API_KEY set", False, "set env var to run this layer")
-        return False
-
-    try:
-        import anthropic
-    except ImportError:
-        result("anthropic package importable", False, "pip install anthropic")
+    claude = _claude_cli_path()
+    result("claude CLI found", os.path.exists(claude), claude)
+    if not os.path.exists(claude):
         return False
 
     items = _load_mcp_resource(author)
@@ -266,8 +300,6 @@ def test_golden_qa(author: str) -> bool:
     result("mcp_resource.json loaded", True, f"{len(items)} items")
 
     context = _build_context(items)
-    client = anthropic.Anthropic(api_key=api_key)
-
     system = (
         "You are a research assistant with access to Adrian Cockcroft's published content. "
         "Answer questions using ONLY the provided content. "
@@ -277,18 +309,12 @@ def test_golden_qa(author: str) -> bool:
     all_pass = True
     for question, must_contain in GOLDEN_QA:
         try:
-            msg = client.messages.create(
-                model="claude-haiku-4-5-20251001",
-                max_tokens=512,
-                system=system,
-                messages=[
-                    {
-                        "role": "user",
-                        "content": f"Content:\n{context[:60000]}\n\nQuestion: {question}",
-                    }
-                ],
+            prompt = (
+                f"{system}\n\n"
+                f"Content:\n{context[:40000]}\n\n"
+                f"Question: {question}"
             )
-            answer = msg.content[0].text.lower()
+            answer = _ask_claude_cli(prompt, claude).lower()
             hits = [kw for kw in must_contain if kw.lower() in answer]
             ok = len(hits) == len(must_contain)
             result(
