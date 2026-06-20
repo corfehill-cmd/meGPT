@@ -223,20 +223,80 @@ def _load_mcp_resource(author: str) -> list[dict]:
     return r.get("content", r.get("items", []))
 
 
-def _build_context(items: list[dict], max_chars: int = 80_000) -> str:
-    """Build a compact context string from mcp_resource items."""
+def _load_okf_items(author: str) -> list[dict]:
+    """Load OKF markdown docs as item dicts for Q&A context."""
+    okf_author = OKF_DIR / author
+    items: list[dict] = []
+    kind_map = {"podcasts": "podcast", "talks": "youtube", "posts": "story", "books": "book"}
+    for path in okf_author.rglob("*.md"):
+        if path.name in ("index.md", "log.md"):
+            continue
+        text = path.read_text(encoding="utf-8", errors="replace")
+        fm_match = re.match(r"^---\n(.*?)\n---\s*(.*)", text, re.DOTALL)
+        if not fm_match:
+            continue
+        fm_text, body = fm_match.group(1), fm_match.group(2)
+
+        def fm_val(key: str) -> str:
+            m = re.search(rf'^{key}:\s*"?([^"\n]+)"?', fm_text, re.MULTILINE)
+            return m.group(1).strip() if m else ""
+
+        tags: list[str] = re.findall(r"^\s+-\s+(.+)", fm_text.split("tags:", 1)[-1], re.MULTILINE) if "tags:" in fm_text else []
+        kind = kind_map.get(path.parent.name, "story")
+        items.append({
+            "kind": kind,
+            "title": fm_val("title"),
+            "url": fm_val("resource"),
+            "tags": [t.strip() for t in tags],
+            "content": {"text": body.strip()},
+        })
+    return items
+
+
+def _build_context(items: list[dict], max_chars: int = 80_000, query: str = "") -> str:
+    """Build a compact context string from mcp_resource items.
+
+    When a query is provided, items whose title/tags/text match query keywords
+    are ranked first, ensuring relevant content isn't crowded out by earlier items.
+    """
+    keywords = [w.lower() for w in query.split() if len(w) > 3] if query else []
+
+    def relevance(item: dict) -> int:
+        if not keywords:
+            return 0
+        title = item.get("title", "").lower()
+        tags = " ".join(item.get("tags", [])).lower()
+        c = item.get("content", {})
+        text = (c.get("text", "") if isinstance(c, dict) else str(c))[:500].lower()
+        # Title matches are worth 3x — they signal the item is directly about the topic
+        title_hits = sum(3 for kw in keywords if kw in title)
+        tag_hits = sum(2 for kw in keywords if kw in tags)
+        text_hits = sum(1 for kw in keywords if kw in text)
+        return title_hits + tag_hits + text_hits
+
+    # High-value kinds first within each relevance tier
+    kind_priority = {"podcast": 0, "youtube": 1, "book": 2, "story": 3, "file": 4}
+
+    ranked = sorted(
+        items,
+        key=lambda i: (-relevance(i), kind_priority.get(i.get("kind", ""), 5)),
+    )
+
     parts: list[str] = []
     total = 0
-    for item in items:
+    for item in ranked:
         c = item.get("content", {})
         text = c.get("text", "") if isinstance(c, dict) else str(c)
         if not text:
             continue
+        # Richer content types get more chars; short posts get less
+        kind = item.get("kind", "")
+        item_limit = 6000 if kind in ("podcast", "youtube", "book") else 1500
         chunk = (
-            f"[{item.get('kind','?')}] {item.get('title','')}\n"
+            f"[{kind}] {item.get('title','')}\n"
             f"URL: {item.get('url','')}\n"
             f"Tags: {', '.join(item.get('tags', []))}\n"
-            f"{text[:2000]}\n"
+            f"{text[:item_limit]}\n"
         )
         if total + len(chunk) > max_chars:
             break
@@ -293,13 +353,12 @@ def test_golden_qa(author: str) -> bool:
     if not os.path.exists(claude):
         return False
 
-    items = _load_mcp_resource(author)
+    items = _load_okf_items(author)
     if not items:
-        result("mcp_resource.json loaded", False, f"run: python create_mcp.py {author}")
+        result("OKF docs loaded", False, f"no docs in okf/{author}/")
         return False
-    result("mcp_resource.json loaded", True, f"{len(items)} items")
+    result("OKF docs loaded", True, f"{len(items)} docs")
 
-    context = _build_context(items)
     system = (
         "You are a research assistant with access to Adrian Cockcroft's published content. "
         "Answer questions using ONLY the provided content. "
@@ -309,6 +368,7 @@ def test_golden_qa(author: str) -> bool:
     all_pass = True
     for question, must_contain in GOLDEN_QA:
         try:
+            context = _build_context(items, query=question)
             prompt = (
                 f"{system}\n\n"
                 f"Content:\n{context[:40000]}\n\n"

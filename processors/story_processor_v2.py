@@ -102,17 +102,61 @@ def fetch_local_file(path: str) -> tuple[str, dict]:
     return text, meta
 
 
-def fetch_url(url: str, subkind: str | None = None) -> tuple[str, dict]:
-    """Fetch URL and extract main article text plus metadata."""
+WAYBACK_BASE = "https://web.archive.org/web/2024/"
+
+
+def _wayback_url(url: str) -> str:
+    return WAYBACK_BASE + url
+
+
+def _fetch_raw(url: str, verify_ssl: bool = True) -> requests.Response:
+    """Fetch a URL with a realistic browser User-Agent."""
     headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; meGPT/2.0)",
-        "Accept": "text/html,application/xhtml+xml",
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
     }
-    try:
-        resp = requests.get(url, headers=headers, timeout=20)
-        resp.raise_for_status()
-    except requests.RequestException as e:
-        raise RuntimeError(f"Failed to fetch {url}: {e}") from e
+    return requests.get(url, headers=headers, timeout=20, verify=verify_ssl)
+
+
+def fetch_url(url: str, subkind: str | None = None) -> tuple[str, dict]:
+    """Fetch URL and extract main article text plus metadata.
+
+    Fallback chain:
+      1. Direct fetch with SSL verification
+      2. Direct fetch without SSL verification (handles TLS handshake failures)
+      3. Wayback Machine archive (handles 403 and 404)
+    """
+    resp = None
+    last_err = None
+
+    for attempt_url, verify in [
+        (url, True),
+        (url, False),
+        (_wayback_url(url), True),
+    ]:
+        try:
+            r = _fetch_raw(attempt_url, verify_ssl=verify)
+            if r.status_code in (200, 203):
+                resp = r
+                if attempt_url != url:
+                    logger.info("Fetched via fallback: %s", attempt_url)
+                break
+            last_err = f"HTTP {r.status_code}"
+            logger.warning("Fetch attempt %s → %s", attempt_url, last_err)
+        except requests.exceptions.SSLError as e:
+            last_err = f"SSLError: {e}"
+            logger.warning("SSL failure for %s, trying fallback", attempt_url)
+        except requests.RequestException as e:
+            last_err = str(e)
+            logger.warning("Request error for %s: %s", attempt_url, e)
+
+    if resp is None:
+        raise RuntimeError(f"Failed to fetch {url} (all attempts): {last_err}")
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
